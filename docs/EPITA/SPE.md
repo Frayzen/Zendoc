@@ -1,5 +1,5 @@
 ---
-title: "SPE"
+title: SPE 🤓
 ---
 Last edited time: November 16, 2024 10:58 PM
 

@@ -1,5 +1,5 @@
 ---
-title: "Mechanical Physic"
+title: Mechanical Physic 🏃
 ---
 Last edited time: February 17, 2025 1:17 AM
 

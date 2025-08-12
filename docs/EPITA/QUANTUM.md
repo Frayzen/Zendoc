@@ -1,5 +1,5 @@
 ---
-title: "QUANTUM"
+title: QUANTUM 
 ---
 Last edited time: July 7, 2025 10:07 AM
 

@@ -1,5 +1,5 @@
 ---
-title: "Electronics"
+title: Electronics 󱐋
 ---
 Last edited time: February 26, 2025 5:35 PM
 

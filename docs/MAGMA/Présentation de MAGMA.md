@@ -1,5 +1,5 @@
 ---
-title: Présentation de MAGMA
+title: Présentation de MAGMA 💡
 ---
 Last edited time: April 17, 2025 11:54 AM
 

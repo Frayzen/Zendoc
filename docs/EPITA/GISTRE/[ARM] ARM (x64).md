@@ -1,5 +1,5 @@
 ---
-title: "ARM (x64)"
+title: "[ARM] ARM (x64) 󰿗"
 ---
 Last edited time: March 10, 2025 12:09 PM
 

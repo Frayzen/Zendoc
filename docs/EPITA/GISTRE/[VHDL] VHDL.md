@@ -1,5 +1,5 @@
 ---
-title: "VHDL"
+title: "[VHDL] VHDL  "
 ---
 Last edited time: April 8, 2025 2:52 PM
 

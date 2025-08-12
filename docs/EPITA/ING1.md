@@ -1,5 +1,5 @@
 ---
-title: "ING1"
+title: ING1 
 ---
 Last edited time: March 12, 2025 9:59 PM
 

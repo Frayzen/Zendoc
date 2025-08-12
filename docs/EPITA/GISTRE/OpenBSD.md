@@ -1,5 +1,5 @@
 ---
-title: "OpenBSD"
+title: OpenBSD 
 ---
 Last edited time: March 17, 2025 9:16 PM
 

@@ -1,5 +1,5 @@
 ---
-title: "PFE (projet de fin d’etude)"
+title: "[PFE] PFE (projet de fin d’etude) 👷"
 ---
 Last edited time: February 24, 2025 10:48 AM
 

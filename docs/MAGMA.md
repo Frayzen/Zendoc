@@ -1,5 +1,5 @@
 ---
-title: "MAGMA"
+title: MAGMA 🌋
 ---
 Last edited time: April 29, 2025 9:19 PM
 

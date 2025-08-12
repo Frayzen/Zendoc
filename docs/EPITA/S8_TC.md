@@ -1,8 +1,5 @@
 ---
-id: S8_TC
-aliases: []
-tags: []
-title: TC
+title: TC S8 
 ---
 Last edited time: June 23, 2025 7:22 PM
 

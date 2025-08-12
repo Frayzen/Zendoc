@@ -1,5 +1,5 @@
 ---
-title: "GISTRE"
+title: GISTRE 🦅
 ---
 Last edited time: June 25, 2025 4:49 AM
 

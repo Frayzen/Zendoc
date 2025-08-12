@@ -1,5 +1,5 @@
 ---
-title: EPITA
+title: EPITA 🏫
 ---
 
 # Disclaimer ⚠️

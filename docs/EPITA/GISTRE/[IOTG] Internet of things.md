@@ -1,5 +1,5 @@
 ---
-title: "[IOTG] Internet of things"
+title: "[IOTG] Internet of things 󰛳"
 ---
 Last edited time: June 19, 2025 9:48 PM
 

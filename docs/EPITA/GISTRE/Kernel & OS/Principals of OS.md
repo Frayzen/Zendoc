@@ -1,5 +1,5 @@
 ---
-title: "Principals of OS"
+title: Principals of OS
 ---
 Last edited time: February 27, 2025 5:05 PM
 

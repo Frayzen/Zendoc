@@ -1,5 +1,5 @@
 ---
-title: "Tips"
+title: Tips ✨
 ---
 Last edited time: April 27, 2025 10:54 PM
 
