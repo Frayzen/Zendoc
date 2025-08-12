@@ -2,6 +2,10 @@ site_name: Zendoc
 
 theme:
     name: 'material'
+    features:
+      - navigation.indexes
+      - navigation.instant
+      - navigation.instant.progress
     palette:
 
     # Light mode
@@ -50,8 +54,9 @@ markdown_extensions:
 
 plugins:
   - search
+  - awesome-pages
   - roamlinks
-  - blog
+  # - blog
   # - rss:
   #     match_path: blog/posts/.* 
   #     date_from_meta:
