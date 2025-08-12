@@ -1,0 +1,8 @@
+---
+title: "Nespresso"
+---
+DEADLINE: April 8, 2025
+Priority: LOW
+SOURCE: https://outlook.office365.com/mail/inbox/id/AAQkADM3OWExNGNiLTE2Y2UtNDkyZC05ZTQ1LTIxNTljNDE1NjdjMQAQABfjzXPq1VFNn%2BS6lxazdvE%3D/sxs/AQMkADM3OWExNGNiLTE2Y2UtNDkyZC05ZTQ1LTIxNTljNDE1NjdjMQBGAAAD7EHk5VMFvU6zfV0qi6gUHgcA%2FiMOYfusBEuoaIE3%2BO7x9QAAAgEMAAAA%2FiMOYfusBEuoaIE3%2BO7x9QADYYJYKwAAAAESABAA8K%2B8QqzskUuJTvqk9gbddA%3D%3D
+
+[IP Business Case Nespresso 2025.pdf](Nespresso/IP_Business_Case_Nespresso_2025.pdf)

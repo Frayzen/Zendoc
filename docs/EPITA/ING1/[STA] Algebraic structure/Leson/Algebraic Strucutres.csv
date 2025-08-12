@@ -1,0 +1,8 @@
+﻿Structure,Closure,Associativity,Commutativity,Symetrizability / Inverses,Neutral element,Unique inverse (non null),Distributivity,No Zero Divisors
+Group,Yes,+,None,+,+,No,None,No
+Abelian group,Yes,+,+,+,+,No,None,No
+Ring,Yes,+ and x,+,+,+ and x,No,x on +,No
+Commutative Ring,Yes,+ and x,+ and x,+,+ and x,No,x on +,No
+Division Ring,Yes,+ and x,+,+,,Yes,,No
+Integral Domain,Yes,+ and x,,+,,No,,Yes
+Field,Yes,+ and x,+ and x,+,,No,,No
