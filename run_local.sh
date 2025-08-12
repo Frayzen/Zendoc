@@ -6,3 +6,4 @@ pip install mkdocs-material
 pip install mkdocs-roamlinks-plugin
 pip install mkdocs-rss-plugin
 mkdocs serve
+# mkdocs gh-deploy

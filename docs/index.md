@@ -4,15 +4,17 @@
 
 ---
 
-## Overview
+## Overview 
 
 Zendoc is a curated collection of notes, documentation, and insights covering computer science topics, primarily based on the curriculum at **EPITA School of Engineering**, as well as personal discoveries and side-project research. 
 
 This repository serves as a knowledge base, structured for easy reference and continuous learning. The notes are written in **Markdown** and maintained in an **Obsidian** mindset for optimal organization and interlinking.
 
+The **github repository**  can be found [here](https://github.com/Frayzen/Zendoc)
+
 ---
 
-## Contributors ✨
+## Contributors 🧍
 
 - **[Frayzen](https://github.com/Frayzen)** 
 - **[tim-pearson](https://github.com/tim-pearson)**
