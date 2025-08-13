@@ -5,7 +5,7 @@ Owner: "Florian "
 [[Distributions to remember]]
 
 [https://youtu.be/lrJ_2MGDVGc](https://youtu.be/lrJ_2MGDVGc)
-![[PBS1_EN_CH1_Continuous_distribution.pdf]]
+![[PBS1_EN_CH1_Continuous_distribution.pdf]]{ type=application/pdf }
 
   
   

@@ -9,9 +9,9 @@ Note: 13
 Note maximale: 20
 Overall: "0.65"
 ---
-![[007.pdf]]
+![[007.pdf]]{ type=application/pdf }
 
-![[instructions_KPRAT_2025_(1).pdf]]
+![[instructions_KPRAT_2025_(1).pdf]]{ type=application/pdf }
 
   
 

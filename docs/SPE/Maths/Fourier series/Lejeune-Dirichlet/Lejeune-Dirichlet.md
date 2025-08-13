@@ -12,10 +12,10 @@ Written as an expression:
 ![[Untitled 25.png|Untitled 25.png]]
 
 # Exercises
-![[Ex03securise.pdf]]
+![[Ex03securise.pdf]]{ type=application/pdf }
 
 ## Correction
 ￼  
 Correction
-![[CorEx03securise.pdf]]
+![[CorEx03securise.pdf]]{ type=application/pdf }
 

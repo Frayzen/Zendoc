@@ -8,8 +8,8 @@ Owner: "Florian "
 
   
 ## Exercises
-![[Ex02securise.pdf]]
+![[Ex02securise.pdf]]{ type=application/pdf }
 
 ## Correction
-![[CorEx02securise.pdf]]
+![[CorEx02securise.pdf]]{ type=application/pdf }
 

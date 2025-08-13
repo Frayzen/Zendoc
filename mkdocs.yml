@@ -47,12 +47,14 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - toc:
       permalink: true
+  - attr_list
 plugins:
   - search
   - roamlinks
   - mkdocs-pdf
   - callouts
   - section-index
+  - mkdocs-pdf
   # - blog
   # - rss:
   #     match_path: blog/posts/.* 

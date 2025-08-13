@@ -2,7 +2,7 @@
 title: Magnetic induction
 Owner: "Florian "
 ---
-![[Induction_Magntique.pdf]]
+![[Induction_Magntique.pdf]]{ type=application/pdf }
 
 # Formulas
 ![[Untitled 10.png|Untitled 10.png]]

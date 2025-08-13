@@ -35,7 +35,7 @@ Split a complex goal into sub goals
 **Sub goal 2. Prove R**
 # Slides
   
-![[folo_slides_0_handout.pdf]]
+![[folo_slides_0_handout.pdf]]{ type=application/pdf }
 
-![[folo_slides_1_students.pdf]]
+![[folo_slides_1_students.pdf]]{ type=application/pdf }
 

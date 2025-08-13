@@ -8,7 +8,7 @@ Ce cours serait une reprise des éléments les plus marquants et utiles pour les
 ## Notation
 100% examen final
 ### Support de cours
-![[Cours_Refresh_2025.pdf]]
+![[Cours_Refresh_2025.pdf]]{ type=application/pdf }
 
   
 ### Notes

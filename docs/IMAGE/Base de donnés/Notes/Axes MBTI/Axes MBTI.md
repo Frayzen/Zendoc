@@ -98,11 +98,11 @@ Le modèle de Keirsey regroupe les 16 types MBTI en **4 grandes familles de temp
   
 # Récapitulatif
 ## Description des 4 axes
-![[Description_des_4_axes.pdf]]
+![[Description_des_4_axes.pdf]]{ type=application/pdf }
 
 ## Famille de températment
-![[Famille_de_tempraments-V2.pdf]]
+![[Famille_de_tempraments-V2.pdf]]{ type=application/pdf }
 
 ## Les 16 types MBTI
-![[MBTI-16_types-V2.pdf]]
+![[MBTI-16_types-V2.pdf]]{ type=application/pdf }
 

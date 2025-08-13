@@ -8,7 +8,7 @@ Owner: "Florian "
 [[Diode reminder]]
 
 # Cours
-![[kj_10_1_Operational_Amplifiers_eng.pdf]]
+![[kj_10_1_Operational_Amplifiers_eng.pdf]]{ type=application/pdf }
 
 # Video
 [https://www.youtube.com/watch?v=fmRHDqcodS4](https://www.youtube.com/watch?v=fmRHDqcodS4)

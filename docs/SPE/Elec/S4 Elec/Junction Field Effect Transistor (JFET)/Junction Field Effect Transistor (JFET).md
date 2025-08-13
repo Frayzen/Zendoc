@@ -9,7 +9,7 @@ Owner: "Florian "
 > [**JFET**](https://en.wikipedia.org/wiki/JFET)
 # Cours
   
-![[kj_08_Field_effect_transistors_eng.pdf]]
+![[kj_08_Field_effect_transistors_eng.pdf]]{ type=application/pdf }
 
   
 # Videos

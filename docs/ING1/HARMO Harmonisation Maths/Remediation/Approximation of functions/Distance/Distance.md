@@ -3,7 +3,7 @@ title: Distance
 Owner: "Florian "
 ---
 # Intro
-![[Slide_1_en_-_Metric_spaces.pdf]]
+![[Slide_1_en_-_Metric_spaces.pdf]]{ type=application/pdf }
 
 Some functions of the real variable are difficult to study. A new approach is to replace the function by a sequence that approximates. The sequence will get closer and closer to the value we are looking for.
 **Definition of a sequence Un converging to l**

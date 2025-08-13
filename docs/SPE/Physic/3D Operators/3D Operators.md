@@ -19,5 +19,5 @@ Owner: "Florian "
 ## External tools
 [https://www.plymouth.ac.uk/uploads/production/document/path/3/3744/PlymouthUniversity_MathsandStats_the_Laplacian.pdf](https://www.plymouth.ac.uk/uploads/production/document/path/3/3744/PlymouthUniversity_MathsandStats_the_Laplacian.pdf)
 ## TD 4
-![[mathop.pdf]]
+![[mathop.pdf]]{ type=application/pdf }
 

@@ -5,9 +5,9 @@ Owner: "Florian "
 > [!info]  
 >  
 > [https://moodle.epita.fr/course/view.php?id=3991](https://moodle.epita.fr/course/view.php?id=3991)  
-![[gistre25-arm-1-identifying-a-microcontroller.pdf]]
+![[gistre25-arm-1-identifying-a-microcontroller.pdf]]{ type=application/pdf }
 
-![[gistre25-arm-02-the-basic-toolset.pdf]]
+![[gistre25-arm-02-the-basic-toolset.pdf]]{ type=application/pdf }
 
 # Mounting
 Various type of mounting:

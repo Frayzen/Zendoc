@@ -24,5 +24,5 @@ $\int \int_R {f(x,y) dA} = lim_{n\rightarrow +\inf, \Delta x \rightarrow 0 \Delt
 ## Exemple
 ![[Untitled 3 54.png|Untitled 3 54.png]]
 
-![[Multiple_Integrals_fr.pdf]]
+![[Multiple_Integrals_fr.pdf]]{ type=application/pdf }
 

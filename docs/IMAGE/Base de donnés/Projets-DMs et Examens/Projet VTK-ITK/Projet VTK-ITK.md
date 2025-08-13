@@ -7,7 +7,7 @@ Status: Finis
 Pourcentage: "0"
 Overall: "0"
 ---
-![[2025-ITK-VTK-MiniProjet.pdf]]
+![[2025-ITK-VTK-MiniProjet.pdf]]{ type=application/pdf }
 
 |   |   |
 |---|---|

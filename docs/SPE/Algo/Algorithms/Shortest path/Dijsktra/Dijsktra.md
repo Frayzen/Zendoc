@@ -5,7 +5,7 @@ Allow negative cost: false
 Type of algorithm: One point to every others
 remember: D = del_min_list
 ---
-![[pcc_Dijkstra.pdf]]
+![[pcc_Dijkstra.pdf]]{ type=application/pdf }
 
 # Pseudo Code
 ![[Untitled 177.png|Untitled 177.png]]

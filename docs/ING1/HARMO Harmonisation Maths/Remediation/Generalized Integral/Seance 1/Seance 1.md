@@ -23,5 +23,5 @@ $xln(x) \lt e^x$
 $xln(x) = o(e^x)$
   
 # Slides
-![[INTG_video1_en.pdf]]
+![[INTG_video1_en.pdf]]{ type=application/pdf }
 

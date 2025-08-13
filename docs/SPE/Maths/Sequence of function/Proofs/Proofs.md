@@ -2,7 +2,7 @@
 title: Proofs
 Owner: "Florian "
 ---
-![[Theorems_proof_Sequences_of_functions_English.pdf]]
+![[Theorems_proof_Sequences_of_functions_English.pdf]]{ type=application/pdf }
 
 Proofs remember:
 1) Sup

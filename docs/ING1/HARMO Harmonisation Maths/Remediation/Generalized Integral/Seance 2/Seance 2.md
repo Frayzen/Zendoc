@@ -12,7 +12,7 @@ $f(x) = x^\alpha\ and\ F(x) = (\alpha+1)x^{\alpha+1}$
 $0 ≤ f ≤ g\ on [a,b[\ and \int_a^bg(t)dt\ CVG \implies \int_a^b f(t)dt\ CVG$
 If f and g are positive and (f = O(g) or f = o(g)) , then g CVG ⇒ f CVG
 # Slide
-![[INTG_RMD1.pdf]]
+![[INTG_RMD1.pdf]]{ type=application/pdf }
 
 ![[Untitled 148.png|Untitled 148.png]]
 

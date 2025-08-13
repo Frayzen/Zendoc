@@ -6,7 +6,7 @@ Owner: Matcha
 [[TC/INFO8/INFO8]]
 
 ## Syllabus
-![[2026_Syllabus-SI8TC_24-25-VF.pdf]]
+![[2026_Syllabus-SI8TC_24-25-VF.pdf]]{ type=application/pdf }
 
 ## Subjects
 [[PBS Probability & Statistics]]

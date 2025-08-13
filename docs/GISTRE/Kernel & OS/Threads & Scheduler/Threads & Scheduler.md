@@ -2,7 +2,7 @@
 title: Threads & Scheduler
 Owner: "Florian "
 ---
-![[ivan_boule_epita_gistre_cours_os_3_threads.pdf]]
+![[ivan_boule_epita_gistre_cours_os_3_threads.pdf]]{ type=application/pdf }
 
 # Threads
 Inside of a process, we can create independent entity which each have their own heaps and register. The address space remains the same among all entities. These entities are called **threads**.

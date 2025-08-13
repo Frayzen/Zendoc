@@ -2,7 +2,7 @@
 title: Metric spaces
 Owner: "Florian "
 ---
-![[Slide_2_en_-_Metric_spaces.pdf]]
+![[Slide_2_en_-_Metric_spaces.pdf]]{ type=application/pdf }
 
 # Norms
 **Definition**

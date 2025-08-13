@@ -2,5 +2,5 @@
 title: Orthonormal - Orthogonal basis
 Owner: "Florian "
 ---
-![[FicheGSsecurise.pdf]]
+![[FicheGSsecurise.pdf]]{ type=application/pdf }
 

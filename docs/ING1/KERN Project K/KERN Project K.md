@@ -24,10 +24,10 @@ Owner: "Florian "
 > [https://k.lse.epita.fr/](https://k.lse.epita.fr/)  
 [[Screenshots]]
 
-![[x86-64-psABI-1.0.pdf]]
+![[x86-64-psABI-1.0.pdf]]{ type=application/pdf }
 
-![[intel-sdm-vol-1-stripped.pdf]]
+![[intel-sdm-vol-1-stripped.pdf]]{ type=application/pdf }
 
-![[intel-sdm-vol-2abcd-stripped.pdf]]
+![[intel-sdm-vol-2abcd-stripped.pdf]]{ type=application/pdf }
 
 [https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html](https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html)

@@ -18,21 +18,21 @@ The slides will be updated on Moodle to add the exercises’ correction.
 [[FICHE DE RÉVISION – LOGIQUE FORMELLE]]
 
 ## Slides
-![[lofo_slides_students_full_(1).pdf]]
+![[lofo_slides_students_full_(1).pdf]]{ type=application/pdf }
 
   
 ### Docs
-![[LOFO_1.pdf]]
+![[LOFO_1.pdf]]{ type=application/pdf }
 
-![[LOFO_1_autre.pdf]]
+![[LOFO_1_autre.pdf]]{ type=application/pdf }
 
-![[LOFO_1_autre_2.pdf]]
+![[LOFO_1_autre_2.pdf]]{ type=application/pdf }
 
-![[LOFO_2.pdf]]
+![[LOFO_2.pdf]]{ type=application/pdf }
 
-![[LOFO_2_autre.pdf]]
+![[LOFO_2_autre.pdf]]{ type=application/pdf }
 
-![[LOFO_2024.pdf]]
+![[LOFO_2024.pdf]]{ type=application/pdf }
 
-![[lofo_exam20.pdf]]
+![[lofo_exam20.pdf]]{ type=application/pdf }
 

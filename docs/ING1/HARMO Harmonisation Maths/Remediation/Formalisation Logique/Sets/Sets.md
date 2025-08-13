@@ -19,5 +19,5 @@ A subset B and P ⇒ Q
 A = B and P≤>Q
 
 > [!important] You should already know that N ⊆ Z ⊆ Q ⊆ R ⊆ C
-![[folo_slides_3_students.pdf]]
+![[folo_slides_3_students.pdf]]{ type=application/pdf }
 

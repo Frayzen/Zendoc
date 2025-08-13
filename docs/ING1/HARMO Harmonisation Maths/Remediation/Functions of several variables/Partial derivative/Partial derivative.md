@@ -8,5 +8,5 @@ Limits and Continuity
 
 [](https://www.notion.soundefined)
 # TD1
-![[TD1_sept_2023_en.pdf]]
+![[TD1_sept_2023_en.pdf]]{ type=application/pdf }
 

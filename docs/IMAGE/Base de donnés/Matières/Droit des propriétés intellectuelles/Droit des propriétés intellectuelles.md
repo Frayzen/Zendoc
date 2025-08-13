@@ -23,7 +23,7 @@ Assignments/Exams:
 ## Notation
 100% QCM final (droit aux documents)
   
-![[COURS__2023-2024.pdf]]
+![[COURS__2023-2024.pdf]]{ type=application/pdf }
 
 
 > [!important] Préciser aux IA que c’est du droit français ! Risque d’avoir un mélange de lois de plusieurs pays.

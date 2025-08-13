@@ -2,5 +2,5 @@
 title: Past exam
 Owner: "Florian "
 ---
-![[corrig_-_partiel_S4_2022.pdf]]
+![[corrig_-_partiel_S4_2022.pdf]]{ type=application/pdf }
 

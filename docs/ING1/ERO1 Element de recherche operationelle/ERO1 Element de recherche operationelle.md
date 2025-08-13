@@ -14,9 +14,9 @@ Owner: Tim Pearson
 
     
   
-![[ERO_Subject.pdf]]
+![[ERO_Subject.pdf]]{ type=application/pdf }
 
-![[ERO_report.pdf]]
+![[ERO_report.pdf]]{ type=application/pdf }
 
 # AAVs
 ![[Untitled 1 4.png|Untitled 1 4.png]]

@@ -4,7 +4,7 @@ Owner: Tim Pearson
 ---
 # Sufficient condition
 ## PDF
-![[FicheCVSCVUsecurise.pdf]]
+![[FicheCVSCVUsecurise.pdf]]{ type=application/pdf }
 
 ## Prove it converges normally
 1. show the series of the supremum **converge** using Series Theorems

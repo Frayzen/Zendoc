@@ -6,9 +6,9 @@ Owner: "Florian "
 ![[Untitled 27.png|Untitled 27.png]]
 
 [https://www.youtube.com/watch?v=WeMMt4NVb9A&t=179s](https://www.youtube.com/watch?v=WeMMt4NVb9A&t=179s)
-![[FicheCVUsecurise.pdf]]
+![[FicheCVUsecurise.pdf]]{ type=application/pdf }
 
-![[FicheProprietesSecurise.pdf]]
+![[FicheProprietesSecurise.pdf]]{ type=application/pdf }
 
 
 > [!important] If the function f (when it CV pw) is not continuous and f_n is ⇒ it does not CVU

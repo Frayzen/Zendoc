@@ -6,5 +6,5 @@ Type: Cours
 Supports:
   - "[[seance6.pdf]]"
 ---
-![[chapitre3.pdf]]
+![[chapitre3.pdf]]{ type=application/pdf }
 

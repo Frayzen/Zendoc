@@ -3,10 +3,10 @@ title: Bipolar Transistor
 Owner: "Florian "
 ---
 # Cours
-![[kj_06_Bipolar_Junction_Transistor_part1_eng.pdf]]
+![[kj_06_Bipolar_Junction_Transistor_part1_eng.pdf]]{ type=application/pdf }
 
 ---
-![[kj_07_Bipolar_Junction_Transistor_part2_eng.pdf]]
+![[kj_07_Bipolar_Junction_Transistor_part2_eng.pdf]]{ type=application/pdf }
 
 ![[Untitled 19.png|Untitled 19.png]]
 

@@ -6,6 +6,7 @@ process_directory() {
   
   # Find all .md files (except index.md and README.md) in current directory
   find "$dir" -type f -name '*.md' | while read -r file; do
+    sed -i 's|\.pdf]]$|\.pdf]]{ type=application/pdf }|g' "$file"
     # sed -i '/]]$/a\\' "$file"
     # base_name=$(basename "$file" .md)
     # dir_path=$(dirname "$file")

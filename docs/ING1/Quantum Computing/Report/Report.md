@@ -2,7 +2,7 @@
 title: Report
 Owner: Matcha
 ---
-![[Enonc_Informatique_Quantique_2024.pdf]]
+![[Enonc_Informatique_Quantique_2024.pdf]]{ type=application/pdf }
 
 # Exercice 1
 ![[Untitled 76.png|Untitled 76.png]]

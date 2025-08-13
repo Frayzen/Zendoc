@@ -33,15 +33,15 @@ Owner: "Florian "
 
 # Slides
 ## Slide 1
-![[Session_1_slides.pdf]]
+![[Session_1_slides.pdf]]{ type=application/pdf }
 
 ## Slide 2
-![[Session_2_slides.pdf]]
+![[Session_2_slides.pdf]]{ type=application/pdf }
 
 # PDF
-![[Partial_Derivatives_Part1.pdf]]
+![[Partial_Derivatives_Part1.pdf]]{ type=application/pdf }
 
-![[Partial_Derivatives_Part2.pdf]]
+![[Partial_Derivatives_Part2.pdf]]{ type=application/pdf }
 
-![[Partial_Derivatives_Part3.pdf]]
+![[Partial_Derivatives_Part3.pdf]]{ type=application/pdf }
 

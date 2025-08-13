@@ -8,7 +8,7 @@ Supports:
   - "[[cours_IMED_IMAGE_intro-46-62.pdf]]"
 ---
 # Histoire
-![[cours_IMED_IMAGE_intro-1-45_compressed.pdf]]
+![[cours_IMED_IMAGE_intro-1-45_compressed.pdf]]{ type=application/pdf }
 
   
 # Enjeux de l’imagerie médicale aujourd’hui

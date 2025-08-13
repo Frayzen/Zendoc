@@ -2,5 +2,5 @@
 title: Definition
 Owner: "Florian "
 ---
-![[FicheGeneralitessecurise.pdf]]
+![[FicheGeneralitessecurise.pdf]]{ type=application/pdf }
 

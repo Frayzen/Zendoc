@@ -33,9 +33,9 @@ Owner: Matcha
 ---
 ### Syllabus
 ---
-![[Syllabus_TC_2026.pdf]]
+![[Syllabus_TC_2026.pdf]]{ type=application/pdf }
 
-![[20250402_MAQ_Syllabus_S8_IMAGE_V01.pdf]]
+![[20250402_MAQ_Syllabus_S8_IMAGE_V01.pdf]]{ type=application/pdf }
 
 ### Matières
 #### Matières
@@ -85,5 +85,5 @@ Owner: Matcha
 [[Kick Off]]
 
   
-![[24-25_Macroplanning-ING.pdf]]
+![[24-25_Macroplanning-ING.pdf]]{ type=application/pdf }
 

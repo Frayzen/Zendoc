@@ -52,5 +52,5 @@ The depletion mode MOSFET is originally on and requires a negative gate voltage 
 ![[Untitled 5 6.png|Untitled 5 6.png]]
 
   
-![[kj_09_1_MOSFET_and_Logical_Gates_eng.pdf]]
+![[kj_09_1_MOSFET_and_Logical_Gates_eng.pdf]]{ type=application/pdf }
 

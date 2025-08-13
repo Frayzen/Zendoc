@@ -4,17 +4,17 @@ Matière:
   - "[[Probabilité et Statistiques]]"
 Type: TP/TD
 ---
-![[ExamenPRSTIA2021v2.pdf]]
+![[ExamenPRSTIA2021v2.pdf]]{ type=application/pdf }
 
-![[ExamenPRST2022.pdf]]
+![[ExamenPRST2022.pdf]]{ type=application/pdf }
 
-![[ExamenPRST2022r.pdf]]
+![[ExamenPRST2022r.pdf]]{ type=application/pdf }
 
-![[ExamenPRST2023.pdf]]
+![[ExamenPRST2023.pdf]]{ type=application/pdf }
 
-![[ExamenPRST2023r.pdf]]
+![[ExamenPRST2023r.pdf]]{ type=application/pdf }
 
-![[ExamenPRST2024.pdf]]
+![[ExamenPRST2024.pdf]]{ type=application/pdf }
 
-![[ExamenPRST2024r.pdf]]
+![[ExamenPRST2024r.pdf]]{ type=application/pdf }
 

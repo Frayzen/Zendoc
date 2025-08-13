@@ -32,7 +32,7 @@ Owner: "Florian "
 [[Types]]
 
 
-![[questions.pdf]]
+![[questions.pdf]]{ type=application/pdf }
 
 
 # Definitions

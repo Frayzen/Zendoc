@@ -10,5 +10,5 @@ Owner: "Florian "
 
 [[Warshall]]
 
-![[graphes_pcc_def.pdf]]
+![[graphes_pcc_def.pdf]]{ type=application/pdf }
 

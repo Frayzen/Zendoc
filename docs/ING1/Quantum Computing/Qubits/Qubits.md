@@ -2,7 +2,7 @@
 title: Qubits
 Owner: Matcha
 ---
-![[Cours_Informatique_Quantique_2024____avec_references_vers_exos_compressed-1-64.pdf]]
+![[Cours_Informatique_Quantique_2024____avec_references_vers_exos_compressed-1-64.pdf]]{ type=application/pdf }
 
   
 ## Conventional bits

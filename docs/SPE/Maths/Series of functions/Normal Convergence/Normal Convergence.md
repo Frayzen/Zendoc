@@ -3,7 +3,7 @@ title: Normal Convergence
 Owner: Tim Pearson
 ---
 # PDF
-![[FicheCVNsecurise.pdf]]
+![[FicheCVNsecurise.pdf]]{ type=application/pdf }
 
 # Lesson
 ![[Untitled 31.png|Untitled 31.png]]

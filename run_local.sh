@@ -8,7 +8,7 @@ pip install mkdocs-roamlinks-plugin
 pip install mkdocs-rss-plugin
 pip install mkdocs-pdf
 pip install mkdocs-callouts
-# pip install mkdocs-section-index
+pip install mkdocs-pdf
 pip install -e ./mkdocs-section-index
 mkdocs serve --dirty
 # mkdocs gh-deploy

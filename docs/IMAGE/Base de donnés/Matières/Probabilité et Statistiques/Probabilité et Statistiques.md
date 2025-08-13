@@ -3,7 +3,7 @@ title: Probabilité et Statistiques
 ---
 
 ## Polycopié du cours
-![[polycopiepbs2.pdf]]
+![[polycopiepbs2.pdf]]{ type=application/pdf }
 
 ## À réviser
 ### Exercices :

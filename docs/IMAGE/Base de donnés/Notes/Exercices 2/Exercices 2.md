@@ -279,7 +279,7 @@ Snn→n→∞L20\frac{S_n}{n} \xrightarrow[n \to \infty]{L^2} 0
     - **(Non)-corrélation** ou **indépendance**.
 ---
 ### 📘 **Exercice 14 — Vecteurs gaussiens et transformation aléatoire**
-![[exercice14f2.pdf]]
+![[exercice14f2.pdf]]{ type=application/pdf }
 
 ### Contexte
 Soient :

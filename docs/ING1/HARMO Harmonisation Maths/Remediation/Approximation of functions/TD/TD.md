@@ -2,7 +2,7 @@
 title: TD
 Owner: "Florian "
 ---
-![[MetricSpaces_en(st).pdf]]
+![[MetricSpaces_en(st).pdf]]{ type=application/pdf }
 
 ![[IMG_20230907_164241.jpg]]
 

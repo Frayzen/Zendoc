@@ -7,7 +7,7 @@ Owner: "Florian "
 > [!info]  
 >  
 > [https://moodle.epita.fr/course/view.php?id=2998](https://moodle.epita.fr/course/view.php?id=2998)  
-![[gtEg3R0G.pdf]]
+![[gtEg3R0G.pdf]]{ type=application/pdf }
 
 [[Answers mcq]]
 

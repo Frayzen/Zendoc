@@ -16,7 +16,7 @@ EF: exercises on Moodle
 ![[Untitled 12.png|Untitled 12.png]]
 
 # Lessons
-![[Cours_PBS_1.pdf]]
+![[Cours_PBS_1.pdf]]{ type=application/pdf }
 
 ## Lessons
 [[Law of a random continuous variable]]

@@ -9,7 +9,7 @@ Note: 2
 Note maximale: 2
 Overall: "0.1"
 ---
-![[execicefacultatif2025.pdf]]
+![[execicefacultatif2025.pdf]]{ type=application/pdf }
 
 [[DM - Salomé BERGER]]
 

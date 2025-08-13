@@ -51,13 +51,13 @@ In case of 2 pi periodic functions
 
 > [!important] reminder: f(x) odd function ⇒ a_n = 0, f(x) even ⇒ b_n = 0
 # Lesson
-![[FicheGeneralitessecurisee.pdf]]
+![[FicheGeneralitessecurisee.pdf]]{ type=application/pdf }
 
 # Exercises
-![[Ex01securise.pdf]]
+![[Ex01securise.pdf]]{ type=application/pdf }
 
 ## Correction
-![[CorEx01securise.pdf]]
+![[CorEx01securise.pdf]]{ type=application/pdf }
 
   
 [[Useful stuff]]

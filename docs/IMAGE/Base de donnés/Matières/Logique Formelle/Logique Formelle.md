@@ -32,25 +32,25 @@ Vous devriez à l'issue de ce cours être capable de :
 - Appliquer l'isomorphisme de Curry-Howard pour lier déduction naturelle intuitionniste et lambda calcul étendu.
   
 ## Documents
-![[main_full.pdf]]
+![[main_full.pdf]]{ type=application/pdf }
 
-![[lofo_slides_students_full_(2).pdf]]
+![[lofo_slides_students_full_(2).pdf]]{ type=application/pdf }
 
 
 > [!important] Les corrections des exercices seront donnés plus tard par actualisation des slides.
-![[LOFO_1.pdf]]
+![[LOFO_1.pdf]]{ type=application/pdf }
 
-![[LOFO_1_autre.pdf]]
+![[LOFO_1_autre.pdf]]{ type=application/pdf }
 
-![[LOFO_1_autre_2.pdf]]
+![[LOFO_1_autre_2.pdf]]{ type=application/pdf }
 
-![[LOFO_2.pdf]]
+![[LOFO_2.pdf]]{ type=application/pdf }
 
-![[LOFO_2_autre.pdf]]
+![[LOFO_2_autre.pdf]]{ type=application/pdf }
 
-![[LOFO_2024.pdf]]
+![[LOFO_2024.pdf]]{ type=application/pdf }
 
-![[lofo_exam20.pdf]]
+![[lofo_exam20.pdf]]{ type=application/pdf }
 
   
 ### Notes

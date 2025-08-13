@@ -3,7 +3,7 @@ title: Exercises
 Owner: Matcha
 ---
 TD
-![[TD_QUAC.pdf]]
+![[TD_QUAC.pdf]]{ type=application/pdf }
 
   
 # 1 Addition of two quantic bits

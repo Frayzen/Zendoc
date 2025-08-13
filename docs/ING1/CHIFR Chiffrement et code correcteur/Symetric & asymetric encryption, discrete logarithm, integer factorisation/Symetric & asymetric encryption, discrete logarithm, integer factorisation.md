@@ -5,7 +5,7 @@ Owner: "Florian "
 # Leson
 [https://youtu.be/jxsLrl8Kmj8](https://youtu.be/jxsLrl8Kmj8)
 # TD 1
-![[Affiche_Atelier_Recrutement_Paris.pdf]]
+![[Affiche_Atelier_Recrutement_Paris.pdf]]{ type=application/pdf }
 
 # Notes
 ## BIS encryption
