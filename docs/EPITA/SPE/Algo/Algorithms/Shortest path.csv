@@ -1,6 +1,0 @@
-﻿Name,Allow circuit,Allow negative cost,Type of algorithm,remember
-Dijsktra,Yes,No,One point to every others,D = del_min_list
-Bellmann 🔔🧑‍💼,No,Yes,One point to every others,bell = tophat
-Bellman Ford,Yes,Yes,One point to every others,ford=fast in and out and all (n)
-"Floyd ",Yes,Yes,Every points to every points,floyd is a cunt
-"A Star ",Yes,No,One point to one point,"closed, openheap"

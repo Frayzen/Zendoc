@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "1f8541b043056123",
+    "type": "split",
+    "children": [
+      {
+        "id": "b837da09130f45aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f44196697ac9e4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75d9b8a72c166633",
+    "type": "split",
+    "children": [
+      {
+        "id": "eac7c7e985cedb43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db3c456ee85b82a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c4e5ece87cadb166",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "488b7b033f7b0804",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2afa2c8268d7f371",
+    "type": "split",
+    "children": [
+      {
+        "id": "4500a7c9b9a06a71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff73ffaf3cf48a63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d940661736a7908e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "59a7fca369390b0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d527ec70c228509",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "41f44196697ac9e4",
+  "lastOpenFiles": [
+    "docs/Zen/Welcome.md",
+    "docs/Zen",
+    "Untitled.canvas",
+    "0_pGLLLljDowjUh9id.png",
+    "docs/blog/posts",
+    "docs/blog/index.md",
+    "docs/blog",
+    "docs/index.md",
+    "docs/IMAGE/Base de donnés/Notes/Chapitre 1/Chapitre 1.md",
+    "docs/IMAGE/Cours/Cours.md",
+    "docs/IMAGE/Examens/Examens.md",
+    "docs/IMAGE/Kick Off.md",
+    "docs/IMAGE/IMAGE.md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Article KPRAT/Article KPRAT.md",
+    "docs/IMAGE/Base de donnés/Base de donnés.md",
+    "docs/GISTRE/GISTRE.md",
+    "docs/GISTRE/ARM (x64)/ARM (x64).md",
+    "0A9EA064-7786-4CD1-8231-DC14F60DB622.jpeg",
+    "docs/EPITA.md",
+    "image 110.png",
+    "image 109.png",
+    "Graph_10.png",
+    "image 108.png",
+    "Capture-d-e-cran-2017-10-03-a-15.35.48_w715h1050.png",
+    "image 107.png",
+    "image 8 23.png",
+    "image 7 25.png",
+    "pcc_Dijkstra.pdf",
+    "isim_rendu_temps_reel.pdf",
+    "chapitre1complements 2.pdf",
+    "chapitre1 3.pdf",
+    "differentielle_note_openboard_compressed-5-6 1.pdf",
+    "differentielle_note_openboard_compressed-3-4 1.pdf",
+    "differentielle_note_openboard_compressed-1-2 1.pdf",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Étape 2 - Nettoyage du Masque (Mask Cleaning)/Assemblage + adaptation (ou pas).md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Étape 2 - Nettoyage du Masque (Mask Cleaning)/Nettoyage spatial (Morphologie, post-processing).md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Étape 2 - Nettoyage du Masque (Mask Cleaning)/Seuillage (Thresholding).md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Étape 2 - Nettoyage du Masque (Mask Cleaning)/Filtrage (Noise Reduction).md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/0.1 2.md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/0.0 8.md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/46.4.md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/0.0 7.md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/0.1.md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/53.4.md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/Time (%).md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/0.5.md",
+    "docs/IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/15.6.md"
+  ]
+}

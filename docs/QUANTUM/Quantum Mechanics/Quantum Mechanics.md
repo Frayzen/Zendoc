@@ -1,0 +1,6 @@
+---
+Owner: Tim Pearson
+---
+[[QUANTUM/Quantum Mechanics/Linear Algebra/Linear Algebra]]
+![[QM_2025_sildes_1_fr.pdf]]
+[[The postulates of quantum mechanics]]

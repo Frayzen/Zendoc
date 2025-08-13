@@ -1,108 +1,91 @@
 ---
-title: Tips ✨
+Owner: Matcha
 ---
-Last edited time: April 27, 2025 10:54 PM
-
-# General Overview
-
-- **Duration**: 30 minutes (+ 10 minutes to transfer answers).
-- **Format**: 4 sections (each progressively more difficult).
-- **Types of recordings**: Conversations and monologues.
-- **Accents**: British, Australian, New Zealand, American, Canadian.
-
+# General
+- **Manage your time carefully**: 60 minutes for 3 passages.
+- **Do not spend too long on one question**.
+- **Skim** for general understanding before answering.
+- **Scan** for specific information (dates, names, figures).
+- **Always base your answers on the text** (not your own knowledge).
+- **Be aware of synonyms and paraphrasing**.
+- **Spell answers correctly**.
+- **Follow instructions precisely** (e.g., "No more than three words").
 ---
-
-# General Tips
-
-- **Read questions before listening** (anticipate content).
-- **Underline keywords** in questions.
-- **Predict types of answers** (number, name, date, noun, verb).
-- **Listen for synonyms and paraphrasing**, not exact words.
-- **Stay focused throughout**: answers come in order.
-- **Spelling must be correct**.
-- **Be careful with singular/plural forms**.
-- **Transfer answers carefully in the 10 minutes at the end**.
-
----
-
-# Structure of the Test
-
-**Section 1:**
-
-- Conversation (everyday context, e.g., booking a hotel).
-- Focus on names, numbers, addresses, dates.
-
-**Section 2:**
-
-- Monologue (everyday context, e.g., a guided tour).
-- Focus on identifying specific information.
-
-**Section 3:**
-
-- Conversation (academic context, e.g., students discussing an assignment).
-- Focus on understanding attitudes, opinions, details.
-
-**Section 4:**
-
-- Monologue (academic lecture).
-- Focus on main ideas, detailed facts, structure of talk.
-
----
-
-# Specific Tips per Section
-
-## Section 1
-
+# Types of Questions and Specific Tips
+## 1. Multiple Choice Questions
 **Tips:**
-
-- Listen carefully to spellings and numbers.
-- Pay attention to typical traps (e.g., changing an address halfway through).
-
-**Useful Vocabulary:**
-
-- "Could you spell that, please?"
-- "What is the exact date?"
-- "Is that with a double 'L'?"
-
-## Section 2
-
+- Read the question carefully before reading the text.
+- Eliminate clearly wrong answers.
+- Match ideas, not exact words.
+**Vocabulary:**
+- Key words: "according to", "main idea", "most likely", "purpose"
+## 2. True/False/Not Given
 **Tips:**
-
-- Understand layout (maps, plans).
-- Follow directions carefully ("next to", "opposite", "at the end of the street").
-
-**Useful Vocabulary:**
-
-- "Immediately adjacent to..."
-- "Located to the east of..."
-- "Opposite the main entrance."
-
+- **True**: statement matches text exactly.
+- **False**: statement contradicts the text.
+- **Not Given**: information is missing or incomplete.
+- Look for strong words like "always", "only", "never" (often signals "False").
+**Vocabulary:**
+- "The passage states that..."
+- "The text contradicts the claim that..."
+- "No information is provided about..."
+## 3. Matching Headings
+**Tips:**
+- Skim each paragraph for the main idea.
+- Do not focus too much on small details.
+- Headings are often paraphrased.
+**Vocabulary:**
+- "Main focus", "central idea", "overall theme"
+## 4. Matching Information (e.g., which paragraph contains X)
+**Tips:**
+- Focus on keywords and synonyms.
+- One paragraph may match multiple pieces of information.
+**Vocabulary:**
+- "Describes", "mentions", "refers to"
+## 5. Sentence Completion
+**Tips:**
+- Use exact words from the text.
+- Ensure grammatically correct sentences.
+- Predict the type of word needed (noun, verb, etc.).
+**Vocabulary:**
+- "is defined as", "is characterized by", "is associated with"
+## 6. Summary Completion
+**Tips:**
+- Focus on meaning rather than individual words.
+- Predict before looking at the text.
+- Use synonyms to help locate the right section.
+**Vocabulary:**
+- "Overall", "in summary", "in conclusion"
+## 7. Matching Features (e.g., match researchers with their findings)
+**Tips:**
+- Identify people or items first.
+- Look for names and dates as anchors.
+**Vocabulary:**
+- "According to Dr. X", "Research by Y suggests that..."
+## 8. Diagram/Flow Chart Completion
+**Tips:**
+- Understand the logical sequence.
+- Fill in missing stages with words from the passage.
+**Vocabulary:**
+- "Following this step...", "Subsequently", "Next"
 ---
-
-# Essential Listening Skills
-
-- **Prediction**: Based on questions.
-- **Active Listening**: Following conversation shifts.
-- **Note-Taking**: Quick words or symbols.
-- **Recognizing Distractors**: Speakers may correct themselves.
-
+# Essential Reading Skills
+- **Skimming**: reading quickly to get the general idea.
+- **Scanning**: searching for specific information.
+- **Intensive reading**: careful reading to understand detail.
+- **Inference**: understanding ideas not directly stated.
 ---
-
 # Common Mistakes to Avoid
-
-- Writing answers while still listening (miss next information).
-- Confusing similar sounding words.
-- Missing plural 's'.
-- Focusing too much on unknown words.
-
+- Misreading the question type.
+- Ignoring instructions (word limits!).
+- Spending too long on difficult questions.
+- Expecting exact word matches instead of synonyms.
+- Leaving answers blank.
 ---
-
-# Next Page (if you want):
-
-- Specific strategies for Section 3 and Section 4.
-- Common traps in multiple choice, matching, map labelling.
-- List of high-frequency listening vocabulary.
-
+# Final Strategy
+- **Read the instructions carefully.**
+- **Skim each passage first (2-3 minutes)**.
+- **Answer easy questions first**.
+- **Return to harder questions later**.
+- **Always guess if unsure (no penalties for wrong answers).**
 ---
-
-*Mastering these specific strategies and being aware of traps will significantly boost your IELTS Listening band score!*

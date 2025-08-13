@@ -1,3 +1,0 @@
----
-title: "Gather definitions"
----

@@ -1,0 +1,31 @@
+---
+Owner: Tim Pearson
+---
+  
+- ==data streams== - a continuous sequence of data elements that are processed in a structured manner by a computer system.
+- ==cache miss== - CPU attempts to access data that is not currently in the cached memory
+    - CPU has cache memory (L1, L2, L3, etc)
+    - if data is not found in cache need to fetch it from main memory (slower)\
+- ==pipeline flush== - also known as pipeline stall or pipeline bubble, refers to the process of discarding or invalidating the instructions currently in the pipeline and resetting it to a known state. This typically occurs when there's a condition that prevents the pipeline from continuing its normal opipeline flushperation, such as a branch misprediction or data hazard.
+- **Frequency**:
+    - Refers to the clock speed of the processor, measured in GHz (gigahertz).
+    - Represents how many cycles per second the processor can execute instructions.
+    - Higher frequencies generally indicate faster processing speeds, resulting in quicker task completion.
+- **Cores**:
+    - Represents the number of independent processing units within the CPU.
+    - Each core can execute instructions independently, allowing for parallel processing.
+    - More cores typically lead to better multitasking performance and increased throughput for parallelizable tasks.
+- **Threads**:
+    - Indicates the number of simultaneous execution paths that the CPU can handle.
+    - Threads allow the CPU to perform multiple tasks concurrently, even if the tasks share the same resources.
+    - Hyper-threading technology enables a single physical core to execute multiple threads simultaneously, improving overall system performance by maximizing CPU utilization.
+- **SIMD Width**:
+    - Stands for Single Instruction, Multiple Data width.
+    - Specifies the size of the data elements that can be processed simultaneously using SIMD instructions.
+    - A wider SIMD width allows for more data to be processed in parallel, increasing computational throughput.
+    - SIMD instructions perform the same operation on multiple data elements simultaneously, leveraging parallelism to enhance performance.
+- wall time:
+    - "Wall time" refers to the real-world elapsed time taken for a process or task to complete, including all overhead and external factors, as measured by a clock on the wall.
+- NUMA:
+    
+    - NUMA, or Non-Uniform Memory Access, is a computer architecture design used in multiprocessor systems where each processor has its own local memory. This design aims to improve performance by reducing memory access latency and contention, as each processor can access its local memory faster than memory associated with other processors.

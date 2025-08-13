@@ -25,11 +25,10 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
+  - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
+  - pymdownx.details
   - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -39,19 +38,21 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-
   - toc:
       permalink: true
-
 plugins:
   - search
   - roamlinks
-  - blog
+  - mkdocs-pdf
+  - callouts
+  # - blog
   # - rss:
   #     match_path: blog/posts/.* 
   #     date_from_meta:
@@ -60,8 +61,21 @@ plugins:
   #       - categories
   #       - tags
 
+
+# FOR KATEX ONLY
+# extra_css:
+#   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css
+
 extra_javascript:
+
+  # EITHER MATHJAX
   - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+  # OR KATEX
+  # - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.js
+  # - https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js
+  # - javascripts/katex.js  # Custom render script (create this file)
+
   - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 

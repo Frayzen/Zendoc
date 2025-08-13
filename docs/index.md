@@ -1,3 +1,7 @@
+---
+title: Welcome
+---
+
 # Zendoc 📚
 
 *A humble documentation of computer-related knowledge and discoveries.*
