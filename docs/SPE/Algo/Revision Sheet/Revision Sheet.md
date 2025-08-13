@@ -27,7 +27,9 @@ A spanning sub graph takes any number of edges and any points from the graph (no
 **EXAMPLE:**
 **EXAMPLE:**
 ![[Untitled 7.png|Untitled 7.png]]
+
 ![[Untitled 1 2.png|Untitled 1 2.png]]
+
 - subset of
 - include all vertices
 - subset of edges

@@ -4,10 +4,12 @@ Owner: "Florian "
 ---
 # Sql Injection
 ![[Untitled 160.png|Untitled 160.png]]
+
   
 Let’s assume you coded this part of code:
   
 ![[Untitled 1 108.png|Untitled 1 108.png]]
+
 ## What you assume
 ```C
 user=robin

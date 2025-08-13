@@ -29,14 +29,17 @@ GL (1992) développée initialement par SGI puis maintenant Khronos Group
   
 Pipeline graphique fixe (OpenGL <2.0)
 ![[image 97.png|image 97.png]]
+
 Manque de liberté. On devait se cantonner à des
 ### Ne pas utiliser ces primitives
 ![[image 1 29.png|image 1 29.png]]
+
   
 ## La fin des temps anciens
   
 Pipeline fixe toujours disponible mais introduction des vertex shader et fragment shader
 ![[image 2 29.png|image 2 29.png]]
+
 ==Vert:== programable
 ==Jaune:== fixe
   
@@ -44,6 +47,7 @@ Pipeline fixe toujours disponible mais introduction des vertex shader et fragmen
   
 Pipeline exclusivement programmable (opengl >=3.1).
 ![[image 3 25.png|image 3 25.png]]
+
 Le code seras executé sur la carte vidéo, on aura donc une bonne parallélisation. Presque toute la données résident dans le GPU, car on perd beaucoup de temps à transférer les données du CPU au GPU et inversement.
 ### Versions OpenGL
 **OpenGL 3.2**
@@ -116,6 +120,7 @@ En parallèle du pipeline les texture unit vont prendre en charge la texture. On
 - Plusieurs unités disponibles : `Texture unit 0`, `Texture unit 1`, etc.
 ---
 ![[image 4 24.png|image 4 24.png]]
+
   
   
 ### 1. Initialisation
@@ -131,6 +136,7 @@ Préparer les données du maillage dans un buffer (le VBO).
 - normales…
 Expliquer comment les données sont organisées/découpées dans le buffer
 ![[image 5 23.png|image 5 23.png]]
+
 ### 4. Activation du bon programme
 Le programme GPU est utilisé pour envoyer les données à travers le pipeline, en associant correctement chaque type de donnée aux shaders.
 - Envoie des données du maillage
@@ -142,6 +148,7 @@ Le programme GPU est utilisé pour envoyer les données à travers le pipeline, 
 - Récupérer l’image.
   
 ![[image 6 21.png|image 6 21.png]]
+
   
 ---
 # GLSL
@@ -163,6 +170,7 @@ Le programme GPU est utilisé pour envoyer les données à travers le pipeline, 
     ```
     
 ![[image 7 20.png|image 7 20.png]]
+
 ---
 ### **Variables**
 - **Types de variables** :
@@ -315,6 +323,7 @@ glDeleteBuffers(1, &vbo_id);
 ```
 ### Organisation des données
 ![[image 8 18.png|image 8 18.png]]
+
 Deux approches principales :
 1. **Données entrelacées** :
     
@@ -376,6 +385,7 @@ glBindBuffer(GL_ARRAY_BUFFER, buffer_id);          // VBO
     - Partageable entre plusieurs programmes shaders.
     - Plus efficace que les uniforms individuels pour les données fréquemment mises à jour.
 ![[image 9 18.png|image 9 18.png]]
+
 ### **Limitations**
 - **Taille maximale** : Quelques dizaines de Ko (vérifier via `GL_MAX_UNIFORM_BLOCK_SIZE`).
 - **Nombre limité** :
@@ -432,6 +442,7 @@ layout(std140) uniform shader_data {
     - Données volumineuses (ex : particules, maillages dynamiques).
     - Calculs GPGPU (General-Purpose GPU).
 ![[image 10 17.png|image 10 17.png]]
+
 ### **Avantages vs UBO**
 - **Lecture/écriture** : Modifiable côté shader.
 - **Taille variable** : Pas de taille fixe prédéfinie.
@@ -548,6 +559,7 @@ On peut réserver des textures mais l’objet en lui même n’existe pas.
 Pour utiliser une texture, il faut d’abord l’activer (glBindTexture()) sur un texture unit ( glActivateTexture ()).
 Il faut indiquer au sampler du shader sur quel texture unit il doit travailler.
 ![[image 11 16.png|image 11 16.png]]
+
 
 > [!important] Faire attention à la texture que l’on bind, si on a activer un texture avant de bind c’est celle-ci qui seras utilisée.
   

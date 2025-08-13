@@ -3,9 +3,11 @@ title: TD1
 Owner: Matcha
 ---
 ![[PBS1_EN_CH1_Continuous_distribution 2.pdf|PBS1_EN_CH1_Continuous_distribution 2.pdf]]
+
   
 # Correction
 ![[PBS1_FR_CH1_SOL_Loi_continue.pdf]]
+
 ## Exercice 1
 ### 1.
   

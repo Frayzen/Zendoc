@@ -21,6 +21,7 @@ This is like when an external device (like a keyboard or a mouse) makes a call t
 ## Interrupt Handler
 An interrupt handler is like a "problem solver" in your computer. When something important happens, like a key press or data arriving from a device, the computer interrupts what it's doing and says, "Hey, interrupt handler, please deal with this!" The interrupt handler then takes care of the issue, like reading the keypress or processing the incoming data. Once it's done, the computer goes back to its regular tasks.
 ![[Untitled 137.png|Untitled 137.png]]
+
 Interrupt handlers are typically part of the operating system **kernel**. The kernel is responsible for managing hardware and system-level tasks, and it includes a set of interrupt handlers to respond to various hardware and software events. When an interrupt occurs, the CPU transfers control to the appropriate interrupt handler in the kernel, which then manages the specific event or condition that triggered the interrupt. This is an essential part of how the operating system interacts with hardware and manages system resources.
 ## Timer Interrupt
 A timer interrupt is like a reminder for your computer. It's a little alarm that goes off at regular intervals to say, "Hey, time to check on things!" When the timer interrupt happens, your computer stops what it's doing, takes a quick look at what's going on, and then goes back to its tasks. It's a way for the computer to keep track of time and perform tasks at specific intervals, like updating the clock or running scheduled tasks.

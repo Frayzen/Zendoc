@@ -4,6 +4,7 @@ Owner: "Florian "
 ---
 # Toolbox
 ![[Untitled 147.png|Untitled 147.png]]
+
 $\int_1 ^{+\infty} \frac{1}{x^\alpha} dx\ CVG\ iff\ \alpha > 1$
 $\int_0 ^1 \frac{1}{x^\alpha} dx\ CVG\ iff\ \alpha < 1$
 $\int_0 ^{+\infty} e^{\alpha t}dt\ CVG\ iff\ \alpha < 1$
@@ -23,3 +24,4 @@ $xln(x) = o(e^x)$
   
 # Slides
 ![[INTG_video1_en.pdf]]
+

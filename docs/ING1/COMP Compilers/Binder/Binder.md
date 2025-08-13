@@ -7,6 +7,7 @@ Process of linking identifiers to objects
   
 # Binding Times
 ![[Untitled 80.png|Untitled 80.png]]
+
 ## Static (early) Binding
 The compiler statically (at compile time) associates an identifier to some definition
 Example : in C, when we call foo we know where to find its definition
@@ -14,6 +15,7 @@ Example : in C, when we call foo we know where to find its definition
 The compiler needs to add code that identifies the kind of object at runtime then matches the identifier with the definition (for example function call)
 Example : virtual in C++ we don’t where the definition of foo is, we need to find the right implementation
 ![[Untitled 1 55.png|Untitled 1 55.png]]
+
 ## In Tiger
 - ==Design== Keywords
 - ==Program== Identifiers
@@ -24,12 +26,14 @@ There is very little dynamic behavior
 # Binder
   
 ![[Untitled 2 41.png|Untitled 2 41.png]]
+
 Link the usages to the definition.
 ### Example
 ```JavaScript
 let var a := 42 in a := 51 end
 ```
 ![[Untitled 3 32.png|Untitled 3 32.png]]
+
   
 ## If multiple definitions
 ```F#
@@ -102,6 +106,7 @@ in
 end
 ```
 ![[ezgif-2-09b524c29d.apng]]
+
   
 ### Scoped Symbol Table
 ```F#

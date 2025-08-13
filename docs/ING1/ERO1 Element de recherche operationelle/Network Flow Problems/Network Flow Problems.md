@@ -17,8 +17,10 @@ The capacity is the maximum quantity of flow allowed on the edge. If the flow is
 There is a cost for one unit of flow crossing the edge
 The total cost is the weighted sum of all flows on all edges.
 ![[Untitled 70.png|Untitled 70.png]]
+
 # Shortest path
 ![[Untitled 1 46.png|Untitled 1 46.png]]
+
 Finding the shortest path between nodes a and d is equivalent to outputing one unit of flow at minimum cost.
 # Maximum flow
 If flow represents a throughput and each of the pipe comes with a  
@@ -35,11 +37,13 @@ Be careful with the direction i → j.
 > [!important] It does not make any sens to talk about capacity in the context of a non s-t cut.
   
 ![[Untitled 2 33.png|Untitled 2 33.png]]
+
 The following cut has a capacity of 8 for example.
 ## Flow invariance along a cut
 Net value of flow along any cut is independent of the cut.
 This means the flow value can be computed along any cut, by counting **positively** flows from $S$ to $\bar{S}$, and **negatively** the others.
 ![[Untitled 3 25.png|Untitled 3 25.png]]
+
 The following cut has a flow of 3.
 Therefore:
 - Flow value in a network is less than the capacity of any cut.
@@ -64,9 +68,11 @@ For each edge, I create two values:
 
 > [!important] The residual capacity is basically the minimum capacity not used across all edges of the path.
 ![[Untitled 4 19.png|Untitled 4 19.png]]
+
 **Augmenting path**: path between source and sink node with a strictly positive residual capacity.
 ### Example
 ![[Untitled 5 13.png|Untitled 5 13.png]]
+
 The residual capacity of the a-c-b-d path is
 $min(4,3,2) = 2.$
 Thus, the a-c-b-d path, is an **augmenting path.**
@@ -79,13 +85,21 @@ Thus, the a-c-b-d path, is an **augmenting path.**
 4. Back to step 1
 ### Example
 ![[Untitled 6 9.png|Untitled 6 9.png]]
+
 ![[Untitled 7 8.png|Untitled 7 8.png]]
+
 ![[Untitled 8 7.png|Untitled 8 7.png]]
+
 ![[Untitled 9 5.png|Untitled 9 5.png]]
+
 ![[Untitled 10 5.png|Untitled 10 5.png]]
+
 ![[Untitled 11 5.png|Untitled 11 5.png]]
+
 ![[Untitled 12 5.png|Untitled 12 5.png]]
+
 ![[Untitled 13 5.png|Untitled 13 5.png]]
+
 
 > [!important] To eventually find minimum capacity cut, define S by taking all vertices reachable from source in residual network.
 ## Termination

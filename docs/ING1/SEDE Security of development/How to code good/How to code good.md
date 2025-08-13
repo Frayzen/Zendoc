@@ -6,7 +6,9 @@ Owner: "Florian "
 - Your program spend 90% of its time in 10% of the functions.
 - CPUs are crazily fast. Most of the time, the issue is accessing memory.
 ![[Untitled 162.png|Untitled 162.png]]
+
 ![[Untitled 1 109.png|Untitled 1 109.png]]
+
 
 > [!important] The Low-hanging fruit is the easiest to get. It means that there is easy-to-apply habits that makes your code better really easily.
 - Do not try to optimize other’s code
@@ -14,6 +16,7 @@ Owner: "Florian "
 A profiler is an option of the compiler that add some metadata specifying where, when, and how many times parts of the code have been executed. It leads to a “profile” that represent a very complete representation of your program resources’ consumption.
 It often generate a **flame graph**:
 ![[Untitled 2 76.png|Untitled 2 76.png]]
+
 
 > [!important] It is really likely that your idea about your own code is completely wrong about performances and results.
 # Compilers help
@@ -61,6 +64,7 @@ Initially there was only gcc that lead the whole world of compilation.
 But clang went on the field and there is now two compilers on the throne.
 Usually, both compilers share the same flags but not always. For example, clang decided to raise a warning for any unknown flag begin by -f or -W.
 ![[Untitled 3 56.png|Untitled 3 56.png]]
+
 
 > [!important] -Werror is not always useful. As precised before, you should be able to explain all of the warnings.
 > 

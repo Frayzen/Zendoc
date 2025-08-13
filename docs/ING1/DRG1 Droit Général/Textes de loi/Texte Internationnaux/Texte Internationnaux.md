@@ -28,4 +28,6 @@ Régit également les organisations internationales telles que l'ONU, l'OTAN, l'
   
   
 ![[Untitled 16.png|Untitled 16.png]]
+
 ![[Untitled 1 7.png|Untitled 1 7.png]]
+

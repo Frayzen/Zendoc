@@ -5,6 +5,7 @@ Owner: "Florian "
 # Definition
 Paging is like dividing a big library book into many small, equally sized pages. Each page has a unique number and contains a part of the story. When you want to read the book, you look up the page numbers in a table to find the pages you need. This makes it easier to manage and access the book's content, even if the pages are scattered around the library. In computer memory, paging helps manage and access data more efficiently, just like paging through a book helps you find the right parts of the story.
 ![[Untitled 172.png|Untitled 172.png]]
+
 - We divide address space into **fixed-size pages**
 - We divide physical memory into **fixed-size frames**
 - The size of the **frames** and **pages** is **identical**
@@ -89,11 +90,13 @@ Each program has its own page table, which serves as a bridge connecting the pro
 ### Examples
 ### Simple (1 level of pagination)
 ![[Untitled 1 117.png|Untitled 1 117.png]]
+
 - **p** is the page number
 - **d** is the page offset
 - **f** is the frame
 We split logical address in two parts
 ![[Untitled 2 83.png|Untitled 2 83.png]]
+
 
 > [!important] For
 > 
@@ -101,6 +104,7 @@ We split logical address in two parts
   
 ### Hard (2 level of pagination)
 ![[Untitled 3 60.png|Untitled 3 60.png]]
+
 The address is divide in 3: **p1 p2 and d**
 - p1 represents the page directory  
     (10 bytes = 1KB)
@@ -134,9 +138,11 @@ If the system is low on RAM, it can swap out frames to a **backing store**.
 > [!important] A
 > 
 > **backing store** is a fiile or disk partition in [[RAM management]]
+
 Historically, swapping moved entire processes to the backing store. Modern swapping of pages is also called paging.
 The swapping back is applied when a [[Paging]] is raised.
 ![[Untitled 4 42.png|Untitled 4 42.png]]
+
 1. Invalid page is accessed
 2. [[Paging]] occurs
 3. Kernel searches frame data

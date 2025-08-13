@@ -5,6 +5,7 @@ Owner: "Florian "
 # Docker
 [[Docker]]
 
+
 > [!important] The OS is managing isolation of the containers. On the other hand, virtualization is based on a “hypervisor” process.
   
 ==Kernel utilities to manage all of that:==

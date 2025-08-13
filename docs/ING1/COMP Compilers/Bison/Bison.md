@@ -3,6 +3,7 @@ title: Bison
 Owner: Tanguy Ducrocq
 ---
 ![[Untitled 85.png|Untitled 85.png]]
+
 Bison → based on token
 ### Typical Bison file:
 ```JavaScript

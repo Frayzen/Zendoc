@@ -28,6 +28,7 @@ Owner: Tim Pearson
         - example
             
             ![[Untitled 62.png|Untitled 62.png]]
+
             
     - ==**Associative processor**== – These receive the **one (same) instruction** but in each parallel processing unit an _independent_ decision is made, based on data _local_ to the unit, as to whether to perform the execution or whether to skip it. In modern terminology this is known as "predicated" (masked) SIMD.
     
@@ -42,6 +43,7 @@ Owner: Tim Pearson
 - Multiple autonomous processors simultaneously execute different instructions on different data. MIMD architectures include [multi-core](https://en.wikipedia.org/wiki/Multi-core) [superscalar](https://en.wikipedia.org/wiki/Superscalar) processors, and [distributed systems](https://en.wikipedia.org/wiki/Distributed_system), using either one shared memory space or a distributed memory space.
   
 ![[Untitled 1 39.png|Untitled 1 39.png]]
+
   
 ## Practical Example
 ```C++
@@ -73,6 +75,7 @@ bench/reference/10000000 1215 ms 1211 ms 1 7.87629M items/s
 - The benchmark results show a general trend of increasing execution time and decreasing throughput as the dataset size grows larger. This is expected, as larger datasets require more computational resources and time to process.
 ### Perf Stat
 ![[Untitled 2 27.png|Untitled 2 27.png]]
+
 - ==Task Clock== - totoal amount of time spent executing the task
 - ==CPU Utilization== - average CPU utilization
 - ==Context Switches== - occurs when the operating system switches the CPU from one task to another
@@ -87,12 +90,14 @@ bench/reference/10000000 1215 ms 1211 ms 1 7.87629M items/s
 - ==Time Elapsed== - total time elapsed during the execution of the task
   
 ![[Untitled 3 20.png|Untitled 3 20.png]]
+
 - As the number of items increases, the rates of L1 cache loads and LLC loads decrease significantly.
 - The miss rates for both L1 cache and LLC increase as the number of items increases.
 - suggests that as the workload becomes heavier (more items to process), the cache effectiveness decreases, leading to more cache misses. This results in a decrease in the overall speed of processing, as more data needs to be fetched from main memory, which is slower compared to cache access.
 - In summary, the decrease in speed as the number of elements increases is likely due to the diminishing effectiveness of the CPU caches in handling larger workloads, leading to higher cache miss rates and increased memory access latency.
   
 ![[Untitled 4 15.png|Untitled 4 15.png]]
+
   
   
 ### Data Generation Example
@@ -147,6 +152,7 @@ Caches
     
 ### ILP Example
 ![[Untitled 5 9.png|Untitled 5 9.png]]
+
 # Hardware Parallelism
 ## Pipeline
 Pipeline RISC:
@@ -156,6 +162,7 @@ Pipeline RISC:
 - MEM: LOAD or STORE from memory
 - WB: Store a result in a register
 ![[Untitled 6 6.png|Untitled 6 6.png]]
+
 ## Feeding the Pipeline
 1. Data-dependent instructions is not ILP-friendly.
 2. Branching (JUMP/IF) in not ILP-friendly (a branch-miss implies a pipeline flush)
@@ -189,25 +196,31 @@ return negative ? (-res) : res;
   
 ### Version 2 Length Based
 ![[Untitled 7 6.png|Untitled 7 6.png]]
+
 - Uses a length-based approach to optimize string parsing, jumping to specific cases based on the string's length.
 - Implements optimized multiplication by precomputing values based on the string's length and digit positions.
   
 ### Version 3 Reverse Length
 ![[Untitled 8 5.png|Untitled 8 5.png]]
+
 - Similar to Version 2, but with a reversed approach where it checks the length from the end of the string.
 - Adjusts the multiplication factor based on the digit's position to optimize performance for different string lengths.
 ### Version 4 Reverse Iteration
 ![[Untitled 9 3.png|Untitled 9 3.png]]
+
 - Implements a multiplication optimization strategy that divides the computed result by a divisor, improving efficiency.
 - Handles string parsing by directly accessing individual characters and performing arithmetic operations accordingly.
 ### Which one is the fastest ?
 ![[Untitled 10 3.png|Untitled 10 3.png]]
+
 The fastest version is from 31% to 2X faster than the naïve one
   
 ![[Untitled 11 3.png|Untitled 11 3.png]]
+
 - Algorithm 2 tests length increasingly: 7+ comparisons in 95% of cases
 - Algorithm 3/4 test length decreasingly: 1 or 2 comparisons in 95% of cases
 ![[Untitled 12 3.png|Untitled 12 3.png]]
+
 ### About Version 4
 - We avoid the integer division that would be required in 47% of cases  
     • We favor an integer multiplication required in 53% of cases, the division in only required in  
@@ -228,5 +241,6 @@ You can get huge speed-up by organizing your program to favor ILP:
 - Most processors provide SIMD extensions:
     
     ![[Untitled 13 3.png|Untitled 13 3.png]]
+
     
 - note GPU follows Single Input Multiple data

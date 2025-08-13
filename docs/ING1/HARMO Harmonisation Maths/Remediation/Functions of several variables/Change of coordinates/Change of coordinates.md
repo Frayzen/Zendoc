@@ -3,6 +3,7 @@ title: Change of coordinates
 Owner: "Florian "
 ---
 ![[Untitled 154.png|Untitled 154.png]]
+
 The new coordinates uv result of the angle rotation alpha are then given by the linear relations
 $u = xcos\alpha+ysin\alpha\\v = ycos\alpha-xsin\alpha$
 The area of the square being invariant, we must have the integral being the same after the change.
@@ -24,5 +25,7 @@ $\int\int_R{f(x,y)dxdy} = \int\int_{R'}{f(u,v)|J(u,v)|dudv}$
 $\int\int\int_R{f(x,y,z)dxdydz} = \int\int\int_{R'}{f(u,v,w)|J(u,v,w)|dudvdw}$
 We have introduced the Jacobian determinant J characterizing the deformation of the infinitesimal area dA = dxdy, defined by:
 ![[Untitled 1 105.png|Untitled 1 105.png]]
+
 ![[Untitled 2 73.png|Untitled 2 73.png]]
+
 For this transformation to make sens, J ≠ 0 must be.

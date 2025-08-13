@@ -12,4 +12,5 @@ $c = f(x,y)$
 Which is the set of all values satisfying the equation
   
 ![[Untitled 170.png|Untitled 170.png]]
+
 _Exemple of level set_

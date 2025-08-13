@@ -51,6 +51,9 @@ An entity/process is **synchronous** in VHDL if:
 - Optional: it may have asynchronous reset logic
 # Synchronous nomenclature
 ![[image 11.png|image 11.png]]
+
 ![[image 1 4.png|image 1 4.png]]
+
 # Time constraints
 ![[image 2 4.png|image 2 4.png]]
+

@@ -20,21 +20,28 @@ In order to update the distances we just
   
 # Gitlab
 ![[Untitled 176.png|Untitled 176.png]]
+
 # Pseudocode
 ## English
 ### Initialization
 ![[Untitled 1 120.png|Untitled 1 120.png]]
+
 ### Core
 ![[Untitled 2 86.png|Untitled 2 86.png]]
+
 ### Negative cycle
 ![[Untitled 3 62.png|Untitled 3 62.png]]
+
   
 ## Fench
 ![[Untitled 4 43.png|Untitled 4 43.png]]
+
   
 ![[image-1681377750642.jpg7201923380614892661.jpg]]
+
 To detect negative cycle, we can apply the following loop at the end of the program
 ![[Untitled 5 30.png|Untitled 5 30.png]]
+
   
 # ChatGPT implmentation
 ```Python

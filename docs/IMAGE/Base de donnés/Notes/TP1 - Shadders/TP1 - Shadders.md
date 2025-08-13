@@ -51,6 +51,7 @@ void main() {
 }
 ```
 ![[image 98.png|image 98.png]]
+
   
 ## Question 2
 Modify the shaders in order to display the object using the color provided in the VBO  
@@ -63,6 +64,7 @@ void main() {
 }
 ```
 ![[image 1 30.png|image 1 30.png]]
+
   
 ## Question 3
 Modify the shaders in order to disable color interpolation between vertex shader and  
@@ -76,6 +78,7 @@ flat out vec3 vertex_color;
 flat in vec3 vertex_color;
 ```
 ![[image 2 30.png|image 2 30.png]]
+
   
 ---
 # Les normales
@@ -133,6 +136,7 @@ void main() {
 }
 ```
 ![[image 3 26.png|image 3 26.png]]
+
 ## Question 2
 Lissez maintenant l’objet (toujours en bleu).
 ### Vertex Shadder
@@ -140,6 +144,7 @@ Lissez maintenant l’objet (toujours en bleu).
   vec3 transformed_normal = normalize(normalSmooth);
 ```
 ![[image 4 25.png|image 4 25.png]]
+
   
 ---
 # Les textures
@@ -176,6 +181,7 @@ void main() {
 }
 ```
 ![[image 5 24.png|image 5 24.png]]
+
 ## Question 2
 ### Vertex Shadder
 ```GLSL
@@ -202,3 +208,4 @@ void main() {
 }
 ```
 ![[image 6 22.png|image 6 22.png]]
+

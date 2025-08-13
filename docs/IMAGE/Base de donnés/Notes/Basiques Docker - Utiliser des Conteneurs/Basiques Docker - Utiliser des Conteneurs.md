@@ -10,20 +10,25 @@ Supports:
 # Challenges de Déloppement et de Déployement
   
 ![[image 84.png|image 84.png]]
+
 Beaucoup de solutions, certaines bonnes et certaines mauvaises.
 Ce qu’on vuet réeellemnt
 - Notre développement & stack logiciel produit
 - Notre OS & stack logiciel utilisateur
 ![[image 1 17.png|image 1 17.png]]
+
 ![[image 2 17.png|image 2 17.png]]
+
 Matrice de déploiment de l’enfer.
   
 # Solutions
 ## Conteneurs
 ![[image 3 14.png|image 3 14.png]]
+
 Containers are an abstraction at the app layer that packages code and dependencies together. Multiple containers can run on the same machine and share the OS kernel with other containers, each running as isolated processes in user space. Containers take up less space than VMs (container images are typically tens of MBs in size), and start almost instantly.
 ## Machine Virtuelle
 ![[image 4 13.png|image 4 13.png]]
+
 Virtual machines (VMs) are an abstraction of physical hardware turning one server into many servers. The hypervisor allows multiple VMs to run on a single machine. Each VM includes a full copy of an operating system, one or more apps, necessary binaries and libraries - taking up tens of GBs. VMs can also be slow to boot.
 La limite de cette approche est l’espace de stockage. Et on a une consommation de RAM et CPU qu’il faut gérer et organisé pour chaue utilisateur. Il faut démarer le noyau à chaque fois.
   
@@ -96,3 +101,4 @@ Traditional UNIX implementations distinguish two categories of processes: privil
 Starting with kernel 2.2, Linux divides the privileges traditionally associated with superuser into distinct units, known as capabilities, which canbe independently enabled and disabled. Capabilities are a per-thread attribute.
 ### Capabilities list
 ![[image 5 13.png|image 5 13.png]]
+

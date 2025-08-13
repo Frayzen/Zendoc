@@ -22,6 +22,7 @@ Owner: "Florian "
 ## P ⇒ Q
 Goal: proof that P implies Q is TRUE
 ![[Untitled 152.png|Untitled 152.png]]
+
 ### Exemple
 Prove that n in N is evene ⇒ n² is even
 Let n in N be an even integer
@@ -35,4 +36,6 @@ Split a complex goal into sub goals
 # Slides
   
 ![[folo_slides_0_handout.pdf]]
+
 ![[folo_slides_1_students.pdf]]
+

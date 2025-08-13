@@ -38,9 +38,11 @@ It is useful for the linker when it needs to “merge” several object files fo
 Only relevant at **runtime**
 It contains the information for the computer to know where to load the data in memory.
 ![[Untitled 142.png|Untitled 142.png]]
+
 _A segment represent the data that needs to be load (the size might be larger since we do not store uninitialized data). A segment represent the code data as well._
 ### Details
 ![[Untitled 1 96.png|Untitled 1 96.png]]
+
 **Program header table:** information about the location and size of program segments.
 **.text:** contain the program compiled
 **.rodata** contain the read only values (_eg const values)_

@@ -20,8 +20,10 @@ Assignments/Exams:
 50% présence + 50% questionnaire d’appréciation (process qualité de l’école)
 ### 📝 Résumé des conférences
 ![[Rsum_toutes_confs-mai_2025.pdf]]
+
 ## 🗓️ Planning
 ![[Planning_confrences.pdf]]
+
   
   
 ### Notes

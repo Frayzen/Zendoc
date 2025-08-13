@@ -119,11 +119,13 @@ Les deux opérations sont appliquées sur une image binaire (les pixels sont sto
 > |GDDR6|SSD|60fps|
 > |Non overclockée|64bits architecture|format AVI|
 ![[image 108.png|image 108.png]]
+
 Le graphe ci-dessus montre le nombre d’appels total effectué et la durée en millisecondes lors des appels mémoire `memcopy`. Il s’agit en effet d’une source importante de délai lors de la création d’une frame.
 On peut constater que **Background Estimator** effectue 2 fois plus d’appels que les autres algorithmes car il doit stocker le nombre de frames écoulées qui sont différentes du pixel candidat en plus des valeurs de pixels de background elles-mêmes.
 On remarque que **Frame Differencing** fait 2 moins d’appels vers **l’appareil hôte** car les valeurs de la frame précédente et actuelle sont envoyées vers le GPU, mais celui-ci ne renvoie que la valeur des différences absolues (voir formule dans les algorithmes), d’où la différence en nombre d’appels de **hôte vers appareil** et **appareil vers hôte**.
 On note que l'algorithme **Temporal Median** est significativement plus long que les autres (environ 17 fois plus long). C’est logique puisque cet algorithme conserve un historique de valeurs par pixel, ce qui augmente la quantité de données à échanger entre le **host** et le **device** et inversement.
 ![[Graph_10.png]]
+
 Ce graphe montre le nombre de frames produit par seconde en moyenne.
 On constate encore une fois que **Temporal Median** est moins performante que les autres (presque 30 moins performant). Les framerates sont donc les suivants:
 |REALTIME PROCESSING ?|==**BG_EST**==|==**FRAME DIFF**==|==**TEMP MEDIAN**==|==**MOVING AVG**==|

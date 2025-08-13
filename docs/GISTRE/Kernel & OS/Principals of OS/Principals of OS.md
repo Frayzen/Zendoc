@@ -3,7 +3,9 @@ title: Principals of OS
 Owner: "Florian "
 ---
 ![[ivan_boule_epita_gistre_cours_os_2_principles.pdf]]
+
 ![[image 6.png|image 6.png]]
+
 # ISA & ABI
 - **ISA (Instruction Set Architecture):** The software support of all the architecture specific functions (in the `arch` folder of the kernel)
     - All CPU instructions
@@ -24,6 +26,7 @@ This set of micro instructions is in essence a **translator** that achieves all 
 > [!important] Book: Cholsey kidder
 # Compilation
 ![[image 1 2.png|image 1 2.png]]
+
 ## Static linking
 Static links are all part of code that are integrated into the final executable. The final binary is self-contained and does not depend on any external part of code.
 ## Dynamic linking
@@ -40,6 +43,7 @@ Also, in order to allow programs to be executed in parallel, we cannot stick to 
 > [!important] The kernel is responsible for building the **translation table** from virtual to physic.
 For example, a `malloc` is allocating a virtual region to the kernel that itself allocates (if needed, [[Paging]]) a physical region of code (a page).
 ![[image 2 3.png|image 2 3.png]]
+
 The kernel should have stored for each awaiting process:
 - Its RAM address space
 - Its virtual translation table

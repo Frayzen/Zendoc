@@ -26,6 +26,7 @@ qc.not(0x1|0x10);
 qc.not(0x10, 0x1|0x2);
 ```
 ![[Untitled 73.png|Untitled 73.png]]
+
   
 ## Exercise 2
 To detect an eavesdropper on a quantum transmission line, Alice and Bob use a protocol involving classical bits and Hadamard transformations. Alice sends the bit and chooses bit $A_2$ to determine the polarization of the qubit, modifying it if $A_2$ = 1. Bob recieves the qubit and applies a Hadamar based on his bit $B_2$. Then, $A_2$ and $B_2$ can be compared.
@@ -60,11 +61,13 @@ The purpose of phase kickback is to transfer a phase from one quantum state to a
 The phase kickback in quantum computing occurs when the phase information of a target qubit is transferred to a control qubit through a controlled unitary gate. Let's consider a circuit with two registers of qubits: register 1 with control qubits initialized in superposition states using Hadamard gates, and register 2 with a target qubit.
   
 ![[Untitled 1 49.png|Untitled 1 49.png]]
+
 In this circuit, controlled rotation gates $R_{\pi/4}$ and $R_{\pi/2}$ are applied between the qubits of register 2 and those of register 1. When a controlled rotation gate is applied, if the control qubit is in the $| 1 \rangle$state, it introduces an additional phase $\phi$ to the state of the target qubit. This phase is then "kicked back" to the control qubit, modifying its own phase.
 After the application of the gates, the control qubits in register 1 remain in superposition, but with phases conditioned by the state of the target qubit. The control qubit has thus accumulated a phase based on the operations performed on the target qubit.
   
 ## Exercise 6
 ![[Untitled 2 36.png|Untitled 2 36.png]]
+
   
 The purpose of the swap test is to find out the similarity between two quantum states. The output shows the probability that the two input states are the same.
   

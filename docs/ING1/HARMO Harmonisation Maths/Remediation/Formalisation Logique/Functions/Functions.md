@@ -57,4 +57,6 @@ With f^-1 being unique
 > a bijection as well.  
 > 
 > ![[Untitled 150.png|Untitled 150.png]]
+
 ![[Untitled 1 102.png|Untitled 1 102.png]]
+

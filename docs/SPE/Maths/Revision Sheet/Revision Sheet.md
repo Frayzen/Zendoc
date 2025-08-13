@@ -52,3 +52,4 @@ $The\ function\ converges\ pointwisely\ to\ f(x)\newline \underset{x\in I}{Sup}|
 # Useful
   
 ![[8C5EF46B-02A8-4C27-85E2-D38605DBC1EB.jpeg]]
+

@@ -4,14 +4,17 @@ Owner: "Florian "
 ---
   
 ![[1000003303.jpg]]
+
 # Flat memory model
 In the FMM we treat RAM as a single contiguous model. The GDT **must** contain at least a code and data segment.
 [https://youtu.be/Wh5nPn2U_1w?si=T47r-bamDpomiXBs&t=250](https://youtu.be/Wh5nPn2U_1w?si=T47r-bamDpomiXBs&t=250)
 ## Global Descriptor Table (GDT)
 **The following graph is read from right to left and bottom up.**
 ![[Untitled 111.png|Untitled 111.png]]
+
 Base is the address of the beginning of the section
 ![[Untitled 1 78.png|Untitled 1 78.png]]
+
 - Present = 1 for used segments
 - Privilege is on 2 bits with 00 being the most privilege and 11 the least
 - Type = 1 if code OR data segment

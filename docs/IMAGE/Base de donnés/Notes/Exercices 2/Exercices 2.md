@@ -280,6 +280,7 @@ Snn→n→∞L20\frac{S_n}{n} \xrightarrow[n \to \infty]{L^2} 0
 ---
 ### 📘 **Exercice 14 — Vecteurs gaussiens et transformation aléatoire**
 ![[exercice14f2.pdf]]
+
 ### Contexte
 Soient :
 - X∼N(0,1)X \sim \mathcal{N}(0,1) (loi normale centrée réduite),

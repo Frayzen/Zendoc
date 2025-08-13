@@ -12,8 +12,13 @@ $\sum_{i=0}^nx^i = \frac{1-x^{n+1}}{1-x} (x\neq1)
 x = 1 \iff \sum_0^ni = n+1$
 ## Arithmetic
 ![[Untitled 44.png|Untitled 44.png]]
+
 ![[Untitled 1 24.png|Untitled 1 24.png]]
+
 ![[Untitled 2 15.png|Untitled 2 15.png]]
+
 ![[Untitled 3 11.png|Untitled 3 11.png]]
+
 ## Geometric Seires
 ![[Untitled 4 8.png|Untitled 4 8.png]]
+

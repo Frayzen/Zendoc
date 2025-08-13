@@ -13,6 +13,7 @@ ip link # or ip l
 > **lo** interface. It stands for “_loopback_”. It is a dummy interfaceip
 Here is an explanation of the output of the command:
 ![[Untitled 130.png|Untitled 130.png]]
+
 - MTU stands for Maximum Transmission Unit, and it refers to the largest size of a packet or frame, in bytes, that can be sent in a single network layer transaction.
 - Status can be of several types. It provides information about the relation between the computer and the physical interface.
     - Here is the list of all the possible status
@@ -31,6 +32,7 @@ ip address # or ip a
 ```
 ![[Untitled 131.png|Untitled 131.png]]
 
+
 > [!important] A machine could have more than one IP, even on the same interface
 ## Look up my route Table 👀
 The linux “ip address” command is a great tool to show useful information about the route table of your computer. It allows a linux-based computer to act like a [[Devices]].
@@ -40,3 +42,4 @@ ip route # or ip r
 
 > [!important] The route table is related to your computer, not a physical device
 ![[Untitled 132.png|Untitled 132.png]]
+

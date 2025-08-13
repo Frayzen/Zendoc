@@ -4,13 +4,17 @@ Owner: Tim Pearson
 ---
 ### repdnT(ombstone) -Diagrams
 ![[Untitled 82.png|Untitled 82.png]]
+
 - T-diagrams are an efficient way to describe a compiler
 ![[Untitled 1 57.png|Untitled 1 57.png]]
+
 ![[Untitled 2 42.png|Untitled 2 42.png]]
+
   
   
   
 ![[Untitled 3 33.png|Untitled 3 33.png]]
+
   
 - Front End (Analysis of the input language)
     - handle everything related to the source code
@@ -40,6 +44,7 @@ Owner: Tim Pearson
   
 ## Classical Architecture: a long pipe
 ![[oie_HztEIZNO1wbg.png]]
+
 - anonizatoin = simplification
 - back tracking in the red part
 ### Scanner
@@ -51,7 +56,9 @@ Owner: Tim Pearson
   
   
 ![[Untitled 4 26.png|Untitled 4 26.png]]
+
 ![[Untitled 5 19.png|Untitled 5 19.png]]
+
 ## Wide compilers vs narrow compilers
 - A narrow compiler is a compiler that only read a few chars from the input, typically one line or one function.
 - A wide compiler is a compiler that works on the whole source file.

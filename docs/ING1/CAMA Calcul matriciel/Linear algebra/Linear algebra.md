@@ -3,6 +3,7 @@ title: Linear algebra
 Owner: "Florian "
 ---
 [[ING1/CAMA Calcul matriciel/Linear algebra/Definitions|Definitions]]
+
 # Useful matrices
 - Rotation matrix
     
@@ -19,6 +20,7 @@ Owner: "Florian "
     |0|-1|
     
     ![[Untitled 107.png|Untitled 107.png]]
+
     
 - Linear transform matrix without translation
 ```Python
@@ -26,6 +28,7 @@ P = np.array([(B-A), (C-A)]).T
 # matrice de passage
 ```
 ![[Untitled 1 75.png|Untitled 1 75.png]]
+
 - Linear transformation matrix with translation (in 2D)
     
     ```Python
@@ -46,8 +49,10 @@ In the context of rotation matrices:
   
 ## Diagonalize a matrix
 ![[Untitled 2 56.png|Untitled 2 56.png]]
+
 ## Covariance
 ![[Untitled 3 42.png|Untitled 3 42.png]]
+
 ```Python
 cov = lambda x,y : np.dot((x - x.mean()), (y - y.mean())) / len(x)
 Cov = lambda x,y : np.array([[cov(x,x), cov(x,y)], [cov(y,x), cov(y,y)]])

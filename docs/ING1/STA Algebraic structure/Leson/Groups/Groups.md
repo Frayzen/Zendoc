@@ -12,6 +12,7 @@ $G$ a set equipped with a binary operation written $*$. Then ($G,*$) is a group 
 ## Abelian Group
 $(G,*)$ is abelian if $*$ is **==commutative==**
 [[Abelian Group Properties]]
+
   
 ## Sub-Group
 $(G,*)$ a group of neutral element $e$, $H \subset G$ , $H$ is a sub-group of $G$ for $*$ if :
@@ -48,7 +49,11 @@ Let $(G, ·)$ be a group with neutral element $e, x ∈ G$ of order $m$, and $E$
   
   
 [[Group Morphism]]
+
 [[Group Action]]
+
 [[Symmetries]]
+
   
 ![[5B86FA3D-0A00-4264-8EFE-F8AD72D5114D.jpeg]]
+

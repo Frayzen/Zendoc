@@ -14,6 +14,7 @@ Conversion of bits into electrical or optical signals
   
 ## Notation
 ![[Untitled 165.png|Untitled 165.png]]
+
 ### Speed
 “10” denotes the data transmission speed
 (_No suffix = mega bits/s ; G = gigabits/s_)
@@ -29,6 +30,7 @@ PASS= Passband
 - **Passband** is a frequency range within which signals are allowed to pass through a filter or communication system.
 # Network Card (NIC)
 ![[Untitled 1 112.png|Untitled 1 112.png]]
+
 It is a computer hardware component that connect a computer to a computer network  
 ◦ Through cable or in wireless mode
 It implements the electronic circuitry required to communicate using a specific physical layer and data link layer standard such as Ethernet or Wi-Fi  
@@ -43,6 +45,7 @@ It is identified by:
 > ◦ Linux : ip link
 # Channel allocation
 ![[Untitled 2 79.png|Untitled 2 79.png]]
+
 FDM (Frequency Division Multiplexing)
 - frequency channel is divided into N equal sized portions (bandwidth) if there are N users
 - each frequency is private! there is no interference between users
@@ -50,6 +53,7 @@ FDM (Frequency Division Multiplexing)
 > [!important] See
 > 
 > [[2) Liaison]]
+
 # Network devices
 ## Network HUB (repeater)
 It a layer 1 device with multiple Ethernet ports  

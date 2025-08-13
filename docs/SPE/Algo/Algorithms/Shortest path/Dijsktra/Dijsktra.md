@@ -6,8 +6,10 @@ Type of algorithm: One point to every others
 remember: D = del_min_list
 ---
 ![[pcc_Dijkstra.pdf]]
+
 # Pseudo Code
 ![[Untitled 177.png|Untitled 177.png]]
+
   
   
 
@@ -26,6 +28,7 @@ remember: D = del_min_list
 - return (p, dist)
 # GitLab
 ![[Untitled 1 121.png|Untitled 1 121.png]]
+
   
   
   

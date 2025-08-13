@@ -8,6 +8,7 @@ Supports:
   - "[[isim_tp3_1.pdf.crdownload]]"
 ---
 ![[bn-header-44.jpg]]
+
   
 # Conseils
   
@@ -59,26 +60,32 @@ Pour faire des poils ou cheveux.
 ## [Array](https://docs.blender.org/manual/en/latest/modeling/modifiers/generate/array.html)
 array : permet de dupliquer en indiquant la transformation (rotation, translation…). On peut indiqeur le nombre de fois que l’on veut duppliquer. ==Utile pour faire des escalier en colimacon.==
 ![[xofun.jpg]]
+
   
 # [Shading](https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/index.html) - Textures
   
 ![[Blender_shader_node_editor_showcasing_a_Moldy_Gold_Materiel.png]]
+
 ![[uploads_1598553133983-1598553133983.png]]
+
 En haut passer en mode shading.
 Les controles sont les memes pour la vue.
 Permet d’ajouter des textures.
 ### [Color Ramp](https://docs.blender.org/manual/en/latest/render/shader_nodes/converter/color_ramp.html)
 Degrade.
 ![[compositing_types_converter_color-ramp_colorizing-image.png]]
+
 ### [Combiner des textures](https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/mix.html)
 Soit on aditionnne les couleurs. Soit on mixe les shaders.
 On peut deteminer quel shader a la plus d’effet (importantce).
 ### [Displacement](https://docs.blender.org/manual/en/latest/render/materials/components/displacement.html)
 Permet de faire des reliefs aux textures.
 ![[maxresdefault.jpg]]
+
   
 ## [UV Map](https://docs.blender.org/manual/en/latest/modeling/meshes/uv/applying_image.html)
 ![[vK9zPh1BdiKOkSAvypv3zw635CQ.avif]]
+
 On map les valeurs de la texture sur la surface du mesh.
 On va ouvrir (déplier l’objet) dans le repère texture.
   

@@ -4,6 +4,7 @@ Owner: "Florian "
 ---
 # Storage device
 ![[Untitled 140.png|Untitled 140.png]]
+
 ## Secondary storage (or mass storage)
 A lot of different norms & physical connections throughout decades.
 The main ones:
@@ -13,6 +14,7 @@ The main ones:
     - Sends data in a parallel way (all wire represent a bit)
     - Issue: magnetic field created by the wires implies a limited frequency.
     - Only [[Intro]]
+
 - SCSI (from 1986, side to side with ATA)
     - Got lots of evolution, lots more freature than ATA
     - Lots of command you can send to your disk
@@ -68,6 +70,7 @@ The MBR (==the blue part==) is an old (_but still used_) way of holding the info
   
 ![[Untitled 1 94.png|Untitled 1 94.png]]
 
+
 > [!important] An entry is a part of memory that stores the begin, length and metada of the partitions.
 ## **GPT**
 It is a modern way of partionning, with EFI firmwares. It has up to 128 entries and duplicates its table for robustness (to avoid corruption).
@@ -77,3 +80,4 @@ It is a modern way of partionning, with EFI firmwares. It has up to 128 entries 
 - Theorical maximum size of a disk is 9 billions TB.
   
 ![[Untitled 2 69.png|Untitled 2 69.png]]
+

@@ -3,7 +3,9 @@ title: CPPA Advanced C++
 Owner: Matcha
 ---
 [[ING1/CPPA Advanced C++/Lesson 1/Lesson 1|Lesson 1]]
+
 [[ING1/CPPA Advanced C++/Lesson 3/Lesson 3]]
+
 ## Activity Format
 - 2h CM + 1h TP
 - 2h CM + 1h TP

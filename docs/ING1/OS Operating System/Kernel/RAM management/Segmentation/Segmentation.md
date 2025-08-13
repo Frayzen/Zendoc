@@ -14,6 +14,8 @@ It allows the definition of **segments**
   
 ![[Untitled 171.png|Untitled 171.png]]
 
+
 > [!important] One of the drawback of this method is that resizing a process is not possible
   
 ![[Untitled 1 116.png|Untitled 1 116.png]]
+

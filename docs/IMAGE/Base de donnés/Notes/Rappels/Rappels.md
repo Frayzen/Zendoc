@@ -20,25 +20,30 @@ Plus on rajoute des longeurs d’onde plus on tends vers le blanc.
 Plus on ajoute des filtres plus on tend vers le noir.
   
 ![[image 21.png|image 21.png]]
+
   
   
 # Capture de l’image
   
 ![[458f082e-0a3d-43b1-bc39-5892aa06c0d2.png]]
+
 Le champs de vue (FOV) augmente si la distance focale diminue. Cela se traduit par un dezoom et inversement.
 Distance focale = distance entre le plan de projection et le foyer
 ![[image 1 9.png|image 1 9.png]]
+
 Avec un diaphragme la convergence des rayons lumineux ne se fais pas en un seul point.
 Si on augmente le diaphragme on réduit la profondeur de champs (DOF).
 Ceci reviens à gérer le focus d’un appreil photo. Il y a une distance précise pour laquelle on a un rendu net.
   
 ![[image 2 9.png|image 2 9.png]]
+
 Dans la pratique le plan image est derriere le foyer. Mais on se placeras dans ce cours derriere car on ne veut pas d’inversement de l’image..
 On a un capteur virtuel.
 Dependant ce modele ne gere pas la profondeur de champs.
   
 ← modèle sténopé
 ![[image 3 6.png|image 3 6.png]]
+
 Capteurs sensibles à la lumière : plus il reçois de la lumière plus il génère d’électrons donc plus grande charge electrique. On a simplement les niveaux de gris.
 On va mettre un filtre sur chacun des capteurs pour mesurer les quantités des 3 couleurs (1 par capteur).
 ==Il y a deux fois plus de filtre vert car l’oeuil est le plus sensible au vert et on avait besoin d’un nombre de filtre pair (décision arbitraire).==
@@ -48,6 +53,7 @@ Le nombre de pixel est moins important que la qualité du pixel (correction, dé
 # Formation de l’image
   
 ![[image 4 5.png|image 4 5.png]]
+
 Spectre du visible
 ### Codage de la couleur
 Comme on est majoriterement en synthèse additive on va utiliser le ==**modèle RGB**== :
@@ -189,7 +195,9 @@ Droites parralleles ne son plus parallele et se rejoigne et converges toutes sur
 Horizon : Intersection du plan passant par le foyer et parallèle
 au plan objet
 ![[image 5 5.png|image 5 5.png]]
+
 ![[image 6 5.png|image 6 5.png]]
+
 ### Points a l’infini
 On ne peut pas calculer l’antecedant d’un point sur l’horizon
 On ajoute aux plans des points à l’infini

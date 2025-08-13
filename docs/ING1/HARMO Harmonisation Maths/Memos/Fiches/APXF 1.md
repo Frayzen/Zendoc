@@ -5,8 +5,10 @@ title: APXF 1
 # Metric space
 ## Distance
 ![[Untitled 166.png|Untitled 166.png]]
+
 ## Norm
 ![[Untitled 1 113.png|Untitled 1 113.png]]
+
 # Convergence
 ## Simple
 $Let\ x\in I, \lim_{n\to+\infty} f_n(x) = f(x)$

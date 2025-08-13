@@ -37,15 +37,24 @@ End of life for a product EOF
   
 # Vulnerabilities
 [[Vulnerability, kesaco]]
+
 [[SQL Injections]]
+
 [[Shell games (sh vulnerabilities)]]
+
 [[Buffer overflow]]
+
 # Misc
 [[stdlib vulnerabilities]]
+
 [[Misconceptions]]
+
 [[Closed source vs Open source]]
+
 [[How to code good]]
+
 [[Unix security model]]
+
 ## Homework
 - Try to understand what happened during the XZ backdoor event.
 - Try to use a compiler

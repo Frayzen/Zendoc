@@ -11,6 +11,7 @@ that satisfies :
 $\to x\ is\ bounded \ (in\ magnitude)\ :\ ∃ \ 0 < M < +∞ \ \ such\ that\ \ |x(t)| < M\ \ ∀t ∈ I  
 \newline\to\ x\ is\ continuous\ or\ has\ a \ finite\ or\ countable \ infinity \ of\ discontinuities.$
 ![[Untitled 41.png|Untitled 41.png]]
+
   
 
 > [!important] Remarks :
@@ -26,6 +27,7 @@ $\to x\ is\ bounded \ (in\ magnitude)\ :\ ∃ \ 0 < M < +∞ \ \ such\ that\ \ |
 - Example: Radar
     
     ![[Untitled 1 22.png|Untitled 1 22.png]]
+
     
     1. Emission of a reference signal $x_{ref}$ that propagates to the target.
     2. The echo returns to the receiver, which records $x_{echo}$ .
@@ -39,6 +41,7 @@ $\to x\ is\ bounded \ (in\ magnitude)\ :\ ∃ \ 0 < M < +∞ \ \ such\ that\ \ |
 ## Integrability
   
 ![[Untitled 2 14.png|Untitled 2 14.png]]
+
   
 ## General definitions
 - **Bounded support**
@@ -57,6 +60,7 @@ An analog signal varies in a continuous manner with respect to its input variabl
 A digital signal varies in a discrete manner with respect to its input and output values. A discrete signal may be stored in finite memory to be manipulated by a computer.
   
 ![[Screenshot_from_2024-01-07_12-37-24.png]]
+
   
 ### Deterministic signal
 A deterministic signal is perfectly clean, without external perturbations and without measurement noise.
@@ -64,3 +68,4 @@ A deterministic signal is perfectly clean, without external perturbations and wi
 A stochastic signal, involving one or more random processes (noise), in addition to its normal behavior.
   
 ![[Screenshot_from_2024-01-07_12-40-01.png]]
+

@@ -54,6 +54,7 @@ Those elements are part of the POSIX
   
 ## Header Format
 ![[Untitled 139.png|Untitled 139.png]]
+
   
 - **ELF header** = “magic number” (shebang) + format configurations
 - File data
@@ -66,9 +67,12 @@ Those elements are part of the POSIX
 - point to absolute addresses and specify how many bytes there are
 - they often overlap
 ![[Untitled 1 93.png|Untitled 1 93.png]]
+
   
   
   
 ![[Untitled 2 68.png|Untitled 2 68.png]]
+
 ![[Untitled 3 51.png|Untitled 3 51.png]]
+
 [https://upload.wikimedia.org/wikipedia/commons/e/e4/ELF_Executable_and_Linkable_Format_diagram_by_Ange_Albertini.png](https://upload.wikimedia.org/wikipedia/commons/e/e4/ELF_Executable_and_Linkable_Format_diagram_by_Ange_Albertini.png)

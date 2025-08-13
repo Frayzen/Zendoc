@@ -133,6 +133,7 @@ End architecture;
 ```
 # Instantiating
 ![[image 9.png|image 9.png]]
+
 ```VHDL
 entity MUX2 is
 	port ( SEL,IP1,IP2 : in STD_LOGIC; op : out STD_LOGIC);
@@ -149,6 +150,7 @@ begin
 end architecture DIRECTE;
 ```
 ![[image 1 3.png|image 1 3.png]]
+
 ```VHDL
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;

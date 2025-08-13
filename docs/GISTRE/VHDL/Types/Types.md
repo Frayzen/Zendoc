@@ -3,6 +3,7 @@ title: Types
 Owner: "Florian "
 ---
 ![[image 10.png|image 10.png]]
+
 ```VHDL
 entity ADDER is
 port ( A,B : in STD_LOGIC_VECTOR(7 downto 0);

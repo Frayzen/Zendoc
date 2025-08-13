@@ -5,12 +5,16 @@ Owner: Matcha
 ## Example of the classes we’ll have
 ### For the expressions
 ![[Untitled 87.png|Untitled 87.png]]
+
 For declarations
 ![[Untitled 1 60.png|Untitled 1 60.png]]
+
 For types
 ![[Untitled 2 43.png|Untitled 2 43.png]]
+
 Some of these classes also derive from other classes.
 ![[Untitled 3 34.png|Untitled 3 34.png]]
+
   
   
 ## Visitors

@@ -33,16 +33,25 @@ Vous devriez à l'issue de ce cours être capable de :
   
 ## Documents
 ![[main_full.pdf]]
+
 ![[lofo_slides_students_full_(2).pdf]]
+
 
 > [!important] Les corrections des exercices seront donnés plus tard par actualisation des slides.
 ![[LOFO_1.pdf]]
+
 ![[LOFO_1_autre.pdf]]
+
 ![[LOFO_1_autre_2.pdf]]
+
 ![[LOFO_2.pdf]]
+
 ![[LOFO_2_autre.pdf]]
+
 ![[LOFO_2024.pdf]]
+
 ![[lofo_exam20.pdf]]
+
   
 ### Notes
 #### Notes

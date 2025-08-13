@@ -9,6 +9,7 @@ Owner: "Florian "
     - Granularity due to subnetting/routing.
     - Hoarding.
 ![[Untitled 133.png|Untitled 133.png]]
+
 # IPv6 to the rescue
 [![](https://media2.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif?cid=7941fdc65djb4ve1q85wez4h9c8dvffeplskl7irdtz2ptld&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://media2.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif?cid=7941fdc65djb4ve1q85wez4h9c8dvffeplskl7irdtz2ptld&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 - More granularity: switching from classes (/8,/16 or /24), to Classless Inter-Domain Routing (CIDR) with any prefix length

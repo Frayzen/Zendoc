@@ -29,3 +29,4 @@ dot -Tpng output.dot > automaton.png
 xdg-open automaton.png
 ^ this will present this image :
 ![[Untitled 51.png|Untitled 51.png]]
+

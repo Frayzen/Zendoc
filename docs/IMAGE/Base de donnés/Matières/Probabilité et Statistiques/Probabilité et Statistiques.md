@@ -4,6 +4,7 @@ title: Probabilité et Statistiques
 
 ## Polycopié du cours
 ![[polycopiepbs2.pdf]]
+
 ## À réviser
 ### Exercices :
 - F1 : 11. 13, 14
@@ -20,6 +21,7 @@ title: Probabilité et Statistiques
 - F2 : 5, 15
   
 [[Notes pour le partiel]]
+
   
 ### Notes
 #### Notes

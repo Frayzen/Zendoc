@@ -3,8 +3,10 @@ title: Report
 Owner: Matcha
 ---
 ![[Enonc_Informatique_Quantique_2024.pdf]]
+
 # Exercice 1
 ![[Untitled 76.png|Untitled 76.png]]
+
 Multiplying $A\times X$:
 We add $A$ to $X$ if the $1^{st}$ bit of $X$ is $1$, then we shift $A$ of $1$ to the left. Finally we add $A$ shifted to $X$ again if the $2^{nd}$ bit of $X$ is $1$.
   
@@ -27,6 +29,7 @@ qc.nop();
 a.read();
 ```
 ![[Untitled 1 51.png|Untitled 1 51.png]]
+
 En informatique quantique, la représentation d'un nombre sur $n$ qubits permet de coder des nombres entiers de $0$ à $2^n - 1$. Dans le cas de $5$ qubits, on peut représenter des nombres de $0$ à$2^5 - 1 = 31$.
 Les multiples de $4$ dans cette plage sont : $0, 4, 8, 12, 16, 20, 24,$et $28$. La plus grande valeur multiple de $4$ est donc $28$. En ajoutant $4$ à $28$, on obtient $32$, ce qui dépasse la capacité de $5$ qubits. En conséquence, ce dépassement de capacité fait que le résultat revient à $0$. Ce phénomène est similaire à l'overflow en arithmétique binaire classique.
   

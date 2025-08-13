@@ -6,10 +6,12 @@ Mac address (6 bytes) used for LAN switching
 # Composition
 It is composed by two parts:
 ![[Untitled 144.png|Untitled 144.png]]
+
 **ID of vendor:** Think of the ID of the vendor as the "Brand Name" of the network device. It's like the company name or logo on a product.
 **Card Number:** The card number is like the "Serial Number" of the network device. It's unique to each individual device produced by a manufacturer.
 ## Example
 ![[Untitled 1 97.png|Untitled 1 97.png]]
+
 # Type
 MAC (Media Access Control) addresses come in three main types:
 1. **Unicast MAC Address**:

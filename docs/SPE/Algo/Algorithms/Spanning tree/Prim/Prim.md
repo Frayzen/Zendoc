@@ -4,21 +4,27 @@ Owner: "Florian "
 ---
 # Description
 ![[Untitled 116.png|Untitled 116.png]]
+
 # Pseudocode
 ![[Untitled 1 83.png|Untitled 1 83.png]]
+
   
 # Example
 1.
 ![[Untitled 2 60.png|Untitled 2 60.png]]
+
 2.
 ![[Untitled 3 46.png|Untitled 3 46.png]]
+
 ⬛ = potentials
 🟥 = picked
 ⬜ = either not seen or not considered anymore
 3.
 ![[Untitled 4 33.png|Untitled 4 33.png]]
+
 4.
 ![[Untitled 5 23.png|Untitled 5 23.png]]
+
   
   
   

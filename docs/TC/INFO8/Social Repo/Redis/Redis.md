@@ -3,6 +3,7 @@ title: Redis
 Owner: Tim Pearson
 ---
 [[Example workflows]]
+
 ### **1. Redis’s Core Role in Your Project**
 Redis is primarily used for two purposes in your architecture:
 1. **Pub/Sub Messaging** (Asynchronous communication between services).

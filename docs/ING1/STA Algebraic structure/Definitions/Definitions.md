@@ -13,6 +13,7 @@ called units.}$
 - examples of units
     
     ![[Untitled 108.png|Untitled 108.png]]
+
     
 $\text{to find the units/invertable elements of any } \mathbb{Z}/n \mathbb{Z}, \\ \text{it is equvalent to finding all the integers, x, such that :} \\  
 GCD(x,n)=1$
@@ -27,6 +28,7 @@ GCD(x,n)=1$
 |Unique Mult id||||||**·** idu|**· idu**|**·** idu|idu|**· idu**|
 |No Zero Divisors||||||||**· zd**|**· zd**|**· zd**|
 ![[Untitled 1 76.png|Untitled 1 76.png]]
+
 f
 ### TYPES OF RINGS
 ### Ring w\1

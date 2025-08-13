@@ -3,6 +3,7 @@ title: Automata
 Owner: Tim Pearson
 ---
 ![[Untitled 54.png|Untitled 54.png]]
+
 ## Finite Automata _A_
 - five components
     - finite Q states
@@ -12,6 +13,7 @@ Owner: Tim Pearson
     - A set of accepting states F (final)
 - e then write A = (Q, Σ, δ, I , F ).
 ![[Untitled 1 33.png|Untitled 1 33.png]]
+
   
 ## Properties
 ### Determinism
@@ -34,13 +36,18 @@ Given a ==NFA== ,==_A_== on an alphabet Σ, there exists an equivalent ==DFA,== 
         we add a sink state that is not accepting with a self loop. then add the missing edges towards it
         
         ![[Untitled 2 23.png|Untitled 2 23.png]]
+
         
     
     ![[Untitled 3 18.png|Untitled 3 18.png]]
+
     
       
     
 - this ^ completion algorithm can be applied to any finite automata
 [[ε-NFA and Thompson (1)]]
+
 [[Pumping lemma (1)]]
+
 [[Moores Minimizing algorithm (1)]]
+

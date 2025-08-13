@@ -3,21 +3,34 @@ title: Fourier series
 Owner: "Florian "
 ---
 - [[#Related]]
+
 - [[#Definitions]]
+
     - [[#Piece-wise continuous]]
+
     - [[#T-Periodic]]
+
     - [[#Fourier series]]
+
 - [[#Lesson]]
+
 - [[#Exercises]]
+
     - [[#Correction]]
+
 [[Complex coefficients]]
+
 # Related
 [[D Spaces]]
+
 [[Parseval Theorem]]
+
 [[Lejeune-Dirichlet]]
+
 # Definitions
 ## **Piece-wise continuous**
 ![[Untitled 5.png|Untitled 5.png]]
+
 A function that admits a finite number of points where it is not continuous (possibly 0). Every points have to admit finite limits in both directions.
 ## T-Periodic
 $\forall t\in \R ,f(t + T) = f(t)$
@@ -39,9 +52,13 @@ In case of 2 pi periodic functions
 > [!important] reminder: f(x) odd function ⇒ a_n = 0, f(x) even ⇒ b_n = 0
 # Lesson
 ![[FicheGeneralitessecurisee.pdf]]
+
 # Exercises
 ![[Ex01securise.pdf]]
+
 ## Correction
 ![[CorEx01securise.pdf]]
+
   
 [[Useful stuff]]
+

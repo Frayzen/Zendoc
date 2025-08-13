@@ -22,6 +22,7 @@ Apprendre :
   
 ### Exemple simple : chauffage
 ![[image 83.png|image 83.png]]
+
 On a un parametre qui evolue au cours du temps.
 Ici on peut faire en sorte d’avoir un parametre de tempperature “ideale” qui s’adapte selon l’utilisation du chaiffage.
   
@@ -39,11 +40,14 @@ Examples: KNN, embedding spaces
 ### Intelligence Artificielle VS Machine learning VS Deep Learning
 IA $\supset$ Machine Learning $\supset$ Deep Learning
 ![[image 1 16.png|image 1 16.png]]
+
 ![[image 2 16.png|image 2 16.png]]
+
 AI is a very fuzzy concept, much like “any computer program doing something useful”. Think “if-then” rules.
 ML can be considered a subfield of AI since those algorithms can be seen as building blocks to make computers learn to behave more intelligently by somehow generalizing rather than just storing and retrieving data items like a database system would do.
 Engineering point of view: ML is about building programs with tunable parameters (typically an array of floating point values) that are adjusted automatically so as to improve their behavior by adapting to previously seen data.
 ![[image 3 13.png|image 3 13.png]]
+
   
 ### Domaine liés
 - Statistiques
@@ -70,8 +74,11 @@ Engineering point of view: ML is about building programs with tunable parameters
 Given a finite amount of training data, you have to derive a relation for an infinite domain.
 In fact, there is an infinite number of such relations.
 ![[image 4 12.png|image 4 12.png]]
+
 ![[image 5 12.png|image 5 12.png]]
+
 ![[image 6 12.png|image 6 12.png]]
+
 Les données sont potentiellement bruitées.
 Il faut trouver une facon de choisir 1 seule solution dans un grands nombre de solutions.
 On ne veut pas etre trop generique, trop lisser les informations. Mais on ne veut pas non plus etre trop proche des données.
@@ -103,16 +110,20 @@ Example of a prior: smoothness
   
 On va devoir discrétiser l’espace possible.
 ![[image 7 11.png|image 7 11.png]]
+
   
 ### Problème intrinsec au bruit
 Your data is not perfect (can have noisy or erroneous labels). (or “Every model is wrong.”) Even if there exist an optimal underlying model, the observations are corrupted by noise
 ![[image 8 9.png|image 8 9.png]]
+
 ### Biais (inductif), approximation de l’erreur
 We are exploring a restricted subset of all possible solutions. Your classifier needs to drop some information about the training set to have generalization power (simplify to generalize).
 ![[image 9 9.png|image 9 9.png]]
+
 ### Variance, éstimation de l’erreur
 You have many ways to explain your training dataset. It is hard to find an optimal solution among those many possibilities. Our exploration is not very accurate, we are limited by data we see during training.
 ![[image 10 8.png|image 10 8.png]]
+
   
 ### Compromis bias / variance
 - Low bias $⇔$ high variance: large search set, can capture many useless details — ==overfitting==.
@@ -120,7 +131,9 @@ You have many ways to explain your training dataset. It is hard to find an optim
 - Solutions: ==regularization== (penalize solutions which are too complex), ==early stopping== (stop  
     when no more progress
 ![[image 11 7.png|image 11 7.png]]
+
 ![[image 12 7.png|image 12 7.png]]
+
 ## Paramètres d’un prblème de ML
   
 - Type de problème
@@ -134,18 +147,21 @@ You have many ways to explain your training dataset. It is hard to find an optim
 f(x) → dans R
 Trouver une droite
 ![[image 13 7.png|image 13 7.png]]
+
 input :
 output :
   
 ### Classification
 f(x) → y dans N
 ![[image 14 7.png|image 14 7.png]]
+
 input
 output:
   
 ### Éstimation de densité
 P(x). Oncherche la proba de x dans son domaine. P(y|x)
 ![[image 15 7.png|image 15 7.png]]
+
 input output
   
 ### Autre maniere de voir les chose
@@ -166,13 +182,17 @@ input output
 # ML Engineering
   
 ![[image 16 7.png|image 16 7.png]]
+
   
 ![[image 17 7.png|image 17 7.png]]
+
 Simplified view of pre-2010 Machine Learning
   
 ### Scikit-Learn
   
 ![[image 18 7.png|image 18 7.png]]
+
   
 ### Representer les donnees
 ![[image 19 7.png|image 19 7.png]]
+

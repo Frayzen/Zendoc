@@ -4,6 +4,7 @@ Owner: Tim Pearson
 ---
   
 [[Overview]]
+
 ### Problem (1/2)
 You need to code a real-time binarization algorithm (Otsu's method). Otsu's method is a simple binarization method where the threshold is defined based on histogram analysis. The method is described here.
 ### Input
@@ -48,6 +49,7 @@ otsu_mt               6.67 ms       6.65 ms     86            items_per_second=1
 ## Problem 2 - A Concurrent Structure for PES
 You need to code a concurrent data structure to manage the Pending Event Set (PES). The goal is to manage pending events for processing concurrently.
 ![[Untitled 61.png|Untitled 61.png]]
+
 **Simplified Problem: A set of 24-bit integers to be managed concurrently (addition, removal, search for the smallest element)**
 ### Interface
 ```C++

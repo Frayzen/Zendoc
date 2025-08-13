@@ -18,11 +18,13 @@ ip address # or ip a
 ```
 ![[Untitled 131.png|Untitled 131.png]]
 
+
 > [!important] A machine could have more than one IP, even on the same interface
 ## Local IP network
 On a local network, one can talk with all the addresses having the same **prefix**.
 A prefix defines a specific amount of bits that will be consider as “header” of the address. Therefore, all ip addresses can be divided in two distinct part: the prefix and the host.
 ![[Untitled 1 91.png|Untitled 1 91.png]]
+
 The usage of the “ _/ 19_” specify that the prefix length is 19.
 - This address is part of the 172.17.0.0/19 (sub)net.
 - The first usable address of this net is 172.17.0.1, the last one is 172.17.31.254.
@@ -42,6 +44,7 @@ Class C = “/24” = 255.255.255.0
 # IP assignation
 IP addresses are globally unique ressources assigned by a central authority. IP addresses are globally unique resources managed and allocated by a central authority (IANA and RIRs) to ensure that every device connected to the Internet has a unique identifier and to facilitate the efficient operation of the global Internet
 ![[Untitled 2 66.png|Untitled 2 66.png]]
+
 - **IANA**: The IANA manages the allocation of IP address space to the five regional Internet registries (RIRs)
 - **Allocation Policies**: The allocation of IP address space is governed by policies developed through community consensus within each RIR's region.
 # Address Resolution Protocol

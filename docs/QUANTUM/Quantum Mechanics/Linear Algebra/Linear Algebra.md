@@ -3,7 +3,9 @@ title: Linear Algebra
 Owner: Tim Pearson
 ---
 [[Change of Basis]]
+
 [[QUANTUM/Quantum Mechanics/Linear Algebra/Definitions/Definitions|Definitions]]
+
 # 1 Introduction
 ## 1.1 Qubits
 - A **qubit** is mathematically represented by a **linear combination**, or **superposition**, (where$( \alpha, \beta \in \mathbb{C}^2 )$:$|\psi\rangle = \alpha |0\rangle + \beta |1\rangle$  

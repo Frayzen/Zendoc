@@ -78,6 +78,7 @@ services:
 ```
 ### 2️⃣ Application front/back-end
 ![[image 94.png|image 94.png]]
+
 L'application est composée des éléments suivants :
 - **2 services** basés sur des images Docker : `webapp` et `database`
 - **1 secret** (certificat HTTPS), injecté dans le frontend

@@ -19,4 +19,6 @@ R&D OS conception and network protocols engineer
 
 [[Principals of OS]]
 
+
 [[Threads & Scheduler]]
+

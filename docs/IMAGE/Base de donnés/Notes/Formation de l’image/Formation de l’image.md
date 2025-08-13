@@ -8,6 +8,7 @@ Supports:
   - "[[tifo_formation_image_(1)_compressed.pdf]]"
 ---
 [[Rappels]]
+
   
 ## Acquisition
 Difference CCD / CMOS
@@ -23,13 +24,16 @@ Technologies :
 - LCD (Liquid Cristal Display avec Neons ou leds)
 - LED
 ![[image 28.png|image 28.png]]
+
   
   
 ## Perception
   
 ### L’oeil
 ![[image 1 11.png|image 1 11.png]]
+
 ![[image 2 11.png|image 2 11.png]]
+
 Capteurs :
 - Cônes (7 000 000), perception r/v/b, vision diurne, maximal dans la fovéa
 - Bâtonnets (120 000 000), vision scotopique, maximal en périphérie
@@ -46,16 +50,24 @@ Dan l’oeil il n’y a pas de différence entre un rayon jaune et deux rayons v
   
 ### ⚠️ A notre perception
 ![[image 3 8.png|image 3 8.png]]
+
 ![[image 4 7.png|image 4 7.png]]
+
 Ici toute les lignes sont paralleles.
 ![[image 5 7.png|image 5 7.png]]
+
 ![[image 6 7.png|image 6 7.png]]
+
 Ici les lignes sont droites.
 ![[image 7 6.png|image 7 6.png]]
+
 ![[image 8 4.png|image 8 4.png]]
+
 ![[image 9 4.png|image 9 4.png]]
+
 Ici les lignes et disque centraux sont de meme taille.
 ![[image 10 3.png|image 10 3.png]]
+
 ici les cercles centraux sont de la meme couleur.
   
   

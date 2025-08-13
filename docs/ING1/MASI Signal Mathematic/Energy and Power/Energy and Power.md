@@ -7,10 +7,12 @@ $E_x = ||x||^2$
 - We usually use the **norm** $E_x = \int_I |x(t)|^2 dt$
 - Any signal with [[Signal Classification]] has **finite energy**
 - _Real life_ signals are always [[Signal Classification]] and have [[Signal Classification]]
+
   
 - Example
     
     ![[Untitled 43.png|Untitled 43.png]]
+
     
 ### $L^{2}(I)$ Space
 $\mathcal{L}^2(I) \text{ is the space of square-integrable functions with finite energy over I:} \\  
@@ -46,4 +48,5 @@ $P_x = \frac{1}{T}\int_{- \frac{T}{2}}^\frac{T}{2}|x(T)|^2dt = \frac{1}{T} \int 
 > **single** period
 # Relationship Energy / Mean Power
 ![[Untitled 1 23.png|Untitled 1 23.png]]
+
 $E_x < + \infty \Rightarrow P_x = 0 \\ 0 < P_x < + \infty \Rightarrow E_x = + \infty$

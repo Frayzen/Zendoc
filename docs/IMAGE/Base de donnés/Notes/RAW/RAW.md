@@ -14,3 +14,4 @@ La couleur est lié à la perception et n’est pas a priori une “propriété 
 Combinaison des 3 spectre qui dis ce qu’on va réellement voir.
 3 types de capteurs :
 ![[bayer-pattern.png]]
+

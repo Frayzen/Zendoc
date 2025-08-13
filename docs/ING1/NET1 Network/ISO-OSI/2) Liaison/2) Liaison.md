@@ -16,6 +16,7 @@ Ethernet is the most used protocol of layer 2
 The IEEE 802 organization cover the physical and data link layer specifications for technologies such as Ethernet and wireless
 It has proposed a new architecture for layer 2 where **physical layer is divided in 2**
 ![[Untitled 164.png|Untitled 164.png]]
+
 ### LLC (Logical Link Control)
 **LLC (Logical Link Control)** is like an air traffic controller for data traveling over a network. It helps manage the flow of data between devices to ensure they talk to each other properly.
 1. **Traffic Control**: LLC makes sure that data packets are sent and received in the right order and that devices don't talk over each other.
@@ -44,6 +45,7 @@ In a nutshell, MAC is the **network bouncer** that keeps things organized and pr
 ### Commutation table (CAM)
 A **Commutation Table** is responsible for efficiently directing network traffic, based on MAC (Media Access Control) addresses, and is used by switches to forward frames to their destination ports.
 ![[Untitled 1 111.png|Untitled 1 111.png]]
+
 **Static CAM**: You write down in a book who's allowed to come to your party. You have control but need to update it if someone new joins the party.
 1. **Manual Configuration**: In a Static CAM table, network administrators manually configure the entries in the CAM table. They specify which MAC addresses are associated with which network ports.
 2. **Predictable**: Static CAM entries are fixed and do not change unless an administrator modifies them. This makes network management predictable and gives full control over the CAM table.
@@ -76,6 +78,7 @@ Used for discovering the link layer address associated with a given internet lay
 - Internet layer address: IPv4, …
 It is a request-response protocol
 ![[Untitled 2 78.png|Untitled 2 78.png]]
+
 **Scenario**: You have five devices (A, B, C, D, and E) connected to a switch in a small local network. Each device wants to communicate with another device by knowing their MAC address.
 **ARP Process in a Simple Network**:
 1. **Device A Wants to Communicate with Device B**:

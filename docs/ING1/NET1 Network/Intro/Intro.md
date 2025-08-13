@@ -16,17 +16,20 @@ Owner: "Florian "
 ## Topology
 ### Bus
 ![[Untitled 114.png|Untitled 114.png]]
+
 - Everything connected to a single cable
 - One-Way communication
 - MAC Protocol mandatory
 - Not robust
 ### Ring
 ![[Untitled 1 81.png|Untitled 1 81.png]]
+
 - Unidirectional data-flow
 - Cheap
 - A single node can cause the entire network to fail
 ### Star
 ![[Untitled 2 59.png|Untitled 2 59.png]]
+
 - More used one
 - Hub = central node
 - Robust
@@ -34,10 +37,12 @@ Owner: "Florian "
   
 ### Mesh
 ![[Untitled 3 45.png|Untitled 3 45.png]]
+
 - Every machine is connected to all the others
 - High fault tolerance and maintenance cost (N machine = N(N-1)/2 wires)
 ### Tree
 ![[Untitled 4 32.png|Untitled 4 32.png]]
+
 - Hierarchical flow of data
 - HUBs are necessary
 - Adding nodes require modification of communication tables

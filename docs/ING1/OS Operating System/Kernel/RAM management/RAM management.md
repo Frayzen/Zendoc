@@ -6,6 +6,7 @@ Owner: "Florian "
 - Reminder about primary storage
     
     ![[Untitled 143.png|Untitled 143.png]]
+
     
     - **primary**  
         (can be used directly by CPU)
@@ -25,7 +26,9 @@ Owner: "Florian "
 - **Protection and Isolation**: Each process must run as if it's the only one in RAM, ensuring protection and isolation from other processes.
 # Solutions
 [[Segmentation]]
+
 [[Paging]]
+
 
 > [!important] Segmentation is
 > 

@@ -82,7 +82,12 @@ Isolation via 2 syscall:
   
 ### Container isolation boxes
 ![[Untitled 110.png|Untitled 110.png]]
+
 ![[Untitled 1 77.png|Untitled 1 77.png]]
+
 ![[Untitled 2 57.png|Untitled 2 57.png]]
+
 ![[Untitled 3 43.png|Untitled 3 43.png]]
+
 ![[Untitled 4 31.png|Untitled 4 31.png]]
+

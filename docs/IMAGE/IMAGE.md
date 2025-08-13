@@ -9,10 +9,15 @@ Owner: Matcha
 ### Navigation
 ---
 [[IMAGE/Matières/Matières]]
+
 [[DM et projet]]
+
 [[Examens]]
+
 [[IMAGE/Cours/Cours]]
+
 [[Base de donnés]]
+
 ### Cours à reprendre
 
 > [!important]
@@ -29,7 +34,9 @@ Owner: Matcha
 ### Syllabus
 ---
 ![[Syllabus_TC_2026.pdf]]
+
 ![[20250402_MAQ_Syllabus_S8_IMAGE_V01.pdf]]
+
 ### Matières
 #### Matières
 |Name|![](https://www.notion.so/icons/checklist_gray.svg)Assignments/Exams|Code|![](https://www.notion.so/icons/chart-donut_gray.svg)Coefficient|Commencé ?|![](https://www.notion.so/icons/hashtag_gray.svg)Examens à venir|![](https://www.notion.so/icons/gradebook_gray.svg)Moyenne|Moyenne /20|Moyenne pondérée|![](https://www.notion.so/icons/clipping_gray.svg)Notes|![](https://www.notion.so/icons/user_gray.svg)Professeur|![](https://www.notion.so/icons/more_gray.svg)Projets/DM|![](https://www.notion.so/icons/hashtag_gray.svg)Projets/DM Terminés|![](https://www.notion.so/icons/calendar-month_gray.svg)Semestre|![](https://www.notion.so/icons/circle-dashed_gray.svg)Status|![](https://www.notion.so/icons/hashtag_gray.svg)Total Projets/DM|UE|URL Moodle|
@@ -74,6 +81,9 @@ Owner: Matcha
 ---
 ### Autres
 [[Conseils]]
+
 [[Kick Off]]
+
   
 ![[24-25_Macroplanning-ING.pdf]]
+

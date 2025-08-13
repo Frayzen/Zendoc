@@ -10,6 +10,7 @@ $(f \ast g)\ast h = f \ast (g \ast h)$
 ### **Distributive**
 $f∗(g+h)=(f∗g)+(f∗h)$
 ### Convolution with the [[Dirac Delta]]
+
 $f∗δ(t)=f(t)$
 ### Convolution Theorem
 $\mathscr{F}(f∗g)=\mathscr{F}(f)⋅\mathscr{F}(g)$

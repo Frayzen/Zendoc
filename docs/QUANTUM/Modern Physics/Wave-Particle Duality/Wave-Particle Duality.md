@@ -3,6 +3,7 @@ title: Wave-Particle Duality
 Owner: Tim Pearson
 ---
 [[Exercise]]
+
 ## 1 Notion of a Photon
 - **energy** of an EM wave is qunatized, each **qaunta** of energy carries this amount of energy:
     
@@ -37,6 +38,7 @@ Owner: Tim Pearson
     where $k= 1.38 \times 10 ^{-23} JK^-1$ is the **Boltsmann constant**
     
     ![[image 13.png|image 13.png]]
+
     
 - This **Planck law** correctly represents the distribution of **radiation emitted** by a black body at a temperature $T$
 - By integrating $R_T(\lambda)$we find the **Stefan-Boltzmann law** and we can then express $\sigma$ as a function of the fundamental constants, i.e.
@@ -81,9 +83,11 @@ Owner: Tim Pearson
     
 - it is then possible that a photon performs a **inelastic collision** with an electron (for example), we then speak of the quantity of **Compton Diffusion**
 ![[image 1 6.png|image 1 6.png]]
+
 - Diagram showing the collision of a photon on an electron at rest.  
     
 ![[image 2 6.png|image 2 6.png]]
+
 - Feynman diagram of Compton scattering. The "collision"  
     in fact consists of an absorption and emission of photons.
 - Applying the principle of conservation of momentum we obtain the following system, namely
@@ -113,10 +117,12 @@ FINISH
 ## 5.1 The comparison between waves and particles
 - In contrast to the previous results, the interference and diffraction phenomena highlight the wave aspect of light.
 ![[image 3 3.png|image 3 3.png]]
+
 - Interference occurs when two waves overlap after passing through a barrier with two slits.
 - The intensity of the resulting wave of the superposition $I_2$ is different from the simple sum of the intensities of the individual waves, $I_a$ an $I_b$, thats to say $I_2 \ne I_a I_b$
 - Now we carry out this same experiment using a conventional particle gun, noting $P_2$ as the probability of finding a particle at a given position on the screen located after the two slits.
 ![[image 4 3.png|image 4 3.png]]
+
 - we note $P_{a,b}$ the probabilty for one particle to pass by the slot $a$ or $b$, we precisely check that $P_2 = P_a + P_b$
 - This clearly shows the difference between wave and particle since only waves produce interference
   
@@ -126,6 +132,7 @@ FINISH
 - Over a sufficiently long time, we see an interference  
     pattern forming, indicating that the photon is not just a particle...
 ![[image 5 3.png|image 5 3.png]]
+
 - In order to take into account the wave and corpuscular nature of the photon, we introduce the concept of probability wave.
 - Indeed, the photon has a greater probability of appearing at the locations where the irradiance is highest, and vice versa.
 - Given that the irradiance of light is proportional to the  
@@ -147,7 +154,9 @@ FINISH
 - When we try to measure the position of a wave, it is not well defined because the wave is spread out in space. On the other hand, its wavelength $\lambda$ is well defined and measured.
 - We can also produce a localized pulse, at $x_0$ for example, moving at speed $\overrightarrow{v}$. Its position is well defined unlike its wavelength
 ![[image 6 3.png|image 6 3.png]]
+
 ![[image 7 3.png|image 7 3.png]]
+
 - It is possible to obtain an intermediate case, where the wave is fairly well localized, with a relatively well-known wavelength.
 - We obtain a wave packet whose position is $x = x_0 \pm \Delta x$, where $\Delta x$ is the uncertainty on the position.
 - A wave packet corresponds to the superposition of several sinusoidal waves, whose wavelength varies between $\lambda _ 0 - \Delta \lambda$ and $\lambda_0 + \Delta \lambda$.

@@ -4,11 +4,16 @@ Owner: Tim Pearson
 ---
 # Math tools
 [[Series Formulas]]
+
 [[Logarithm]]
+
 [[Function comparison]]
+
 [[ING1/CPXA Complexity of Algorithms/Remember]]
+
 # Complexity computation
 [[Complexity with recursivity]]
+
 ## Computation of complexity
 **Some complexity already computed**
 - **DivideToReign:** $log_2(n)$
@@ -19,10 +24,16 @@ Owner: Tim Pearson
 - **BasicSort:** $n$
 - **n Matrix Multiplication:** $n^3$
 [[Approximation of complexity]]
+
 ## Well know algorithms
 [[Selection sort]]
+
 [[Insertions sort]]
+
   
 [[Master Theorem]]
+
 [[Karatsubas Multiplication algorithm]]
+
 [[For the exam]]
+

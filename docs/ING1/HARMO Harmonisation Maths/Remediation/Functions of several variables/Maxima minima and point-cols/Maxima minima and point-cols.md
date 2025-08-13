@@ -32,8 +32,11 @@ $f(x, y) = r x² + 2s xy + ty²$
 > [!important] Depending on Monge parameters r, s, t, one can determine the nature of the point (0, 0).
 To show this, it suffices to write the function f(x, y) under canonical form or reduced form in function of its parameters.
 ![[Untitled 153.png|Untitled 153.png]]
+
 ![[Untitled 1 104.png|Untitled 1 104.png]]
+
 ![[Untitled 2 72.png|Untitled 2 72.png]]
+
 **Then:**
 - r is the second x derivate at point (x0, y0)
 - s is the x derivate at point (x0, y0) (_or y x, either one_)

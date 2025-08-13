@@ -10,7 +10,9 @@ The transport problem involves delivering a product from multiple origins to mul
 - Demand: 400, 500, 600
 - A dummy client can be added to balance the unbalanced supply and demand, e.g., demand = 300 for the fake client with cost = 0
 ![[Untitled 71.png|Untitled 71.png]]
+
 ![[Untitled 1 47.png|Untitled 1 47.png]]
+
 ## Greedy Algorithm
 A greedy algorithm for the transport problem attempts to minimize the transportation cost by making locally optimal choices at each step. This involves selecting the most cost-effective allocation of units from origins to destinations until all demands are met.
 **Steps:**
@@ -20,13 +22,18 @@ A greedy algorithm for the transport problem attempts to minimize the transporta
     - For each origin, allocate as many units as possible to the destination with the lowest transportation cost until either the supply is exhausted or the demand is met.
 ### Example
 ![[Untitled 2 34.png|Untitled 2 34.png]]
+
 ![[Untitled 3 26.png|Untitled 3 26.png]]
+
   
 ![[Untitled 4 20.png|Untitled 4 20.png]]
+
 ![[Untitled 5 14.png|Untitled 5 14.png]]
+
   
 ### Cheapest link are not necessarily the best
 ![[Untitled 6 10.png|Untitled 6 10.png]]
+
   
 # Modelisation of the Transport problem
 ## **1. Network Representation:**

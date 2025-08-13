@@ -25,6 +25,7 @@ Assignments/Exams:
   
 ![[COURS__2023-2024.pdf]]
 
+
 > [!important] Préciser aux IA que c’est du droit français ! Risque d’avoir un mélange de lois de plusieurs pays.
   
 ### Notes
@@ -40,3 +41,4 @@ Assignments/Exams:
 ### Examens
   
 [[COURS _2023-2024]]
+

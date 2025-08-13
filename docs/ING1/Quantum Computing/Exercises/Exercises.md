@@ -4,9 +4,11 @@ Owner: Matcha
 ---
 TD
 ![[TD_QUAC.pdf]]
+
   
 # 1 Addition of two quantic bits
 ![[Untitled 79.png|Untitled 79.png]]
+
 Show that for $a \in \{ |00\rangle, |01\rangle, |10\rangle, |11\rangle \}$, we obtain at the output the value $a + b$ (on the first two quantum lines) where $b \in \{|0\rangle, |1\rangle\}$ (up to overflow), in other words, $a$ becomes $a+$b.$ First justify it manually (think carry), then demonstrate it formally with a calculation.
 ## Resolution step-by-step
 - If $b=|0\rangle$ then no door activates so $a=a+b$
@@ -36,6 +38,7 @@ Show that for $a \in \{ |00\rangle, |01\rangle, |10\rangle, |11\rangle \}$, we o
   
 # 2 Conditional phase shift
 ![[Untitled 1 54.png|Untitled 1 54.png]]
+
 Show that when starting from the state $|00\rangle$, we arrive at the state:
 $|00\rangle+|01\rangle+|10\rangle-|11\rangle$
 In other words, we have phase-shifted only the state $|11\rangle$ by $\pi$.
@@ -69,6 +72,7 @@ $|00\rangle+|01\rangle+|10\rangle-|11\rangle$
   
 # 3- Swap Test
 ![[Untitled 2 40.png|Untitled 2 40.png]]
+
 ### Show that when the two qubits have the same input value, the output qubit always shows 1
 It is important to find the situations where we are sure to have one result (ex: for 2 equal signals without spy)  
 We want the most certitude
@@ -156,6 +160,7 @@ $\frac{1}{2^n}\leq0,01\ \Longrightarrow \ n\geq7$
   
 # 4- Spy Hunter
 ![[Untitled 3 31.png|Untitled 3 31.png]]
+
 **Reminder from the lecture:**
 Alice transmits the classical bit $A_1 \in \{0,1\}$, and changes its polarization with a Hadamard gate if and only if $A_2 = 1$ (she does not change the polarization for $A_2 = 0$). Similarly, Bob at the reception will change the polarization with a Hadamard gate if and only if the bit $B_2$ is $1$.
 ### Case without eavesdropper: calculate the probability that Bob receives what Alice has sent. Deduce the overall probability that Bob received the value sent by Alice.
@@ -200,6 +205,7 @@ There is a ==$50\%$== chance for Bob to recieve the value $A_1$ that Alice sent.
   
 # 5- Quantum Teleportation
 ![[Untitled 4 25.png|Untitled 4 25.png]]
+
 ### Demonstration
 - **Staring state:** $\alpha|00$==$0$==$\rangle+\beta|00$==$1$==$\rangle$
 - **Hadamar:** $\frac{1}{\sqrt2}\big(\alpha|000\rangle+\alpha|010\rangle+\beta|001\rangle+\beta|011\rangle\big)$
@@ -221,6 +227,7 @@ We always get ==$\alpha|0\rangle+\beta|1\rangle$==
   
 # 6- Quantic Fourier Transform
 ![[Untitled 5 18.png|Untitled 5 18.png]]
+
 Assume you have an input of the form: $A \left| 00 \right\rangle + B \left| 01 \right\rangle + C \left| 10 \right\rangle + D \left| 11 \right\rangle$,
 with the second qubit representing the most significant bit, meaning that$\left| XY \right\rangle$ has $X$ as the most significant bit and $Y$ as the least significant bit. After applying various operators, observe the coefficients you obtain in the form: $A' \left| 00 \right\rangle + B' \left| 01 \right\rangle + C' \left| 10 \right\rangle + D' \left| 11 \right\rangle$. What do you notice about the new coefficients in terms of phase? That is, express each coefficient in a complex logical sequence. What connects them?
 Now, imagine the output is "$0$", that is the state $\left| 00 \right\rangle$. What did you have as input? And for "$1$", "$2$", and "$3$"? In particular, what happened to "$3$" in terms of signal processing? Justify why one can say that the input corresponds to a frequency by observing the corresponding output in circular notation.

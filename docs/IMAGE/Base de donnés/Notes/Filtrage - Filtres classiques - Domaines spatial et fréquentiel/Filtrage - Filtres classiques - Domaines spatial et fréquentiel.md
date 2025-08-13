@@ -22,7 +22,9 @@ Paramètre / Taille du Noyau : On dépend surtout de l’écart type que l’on 
 ### Résultats
 Va être meilleure sur les contours
 ![[daff893a-8123-4056-bf9e-423b324add83.png]]
+
 ![[image 36.png|image 36.png]]
+
   
   
 ## Flitre Médian
@@ -36,12 +38,14 @@ Trier l'ensemble des valeurs des intensités des pixels sur un voisinage puis re
 - Préserve l'information de contour
 - Est un peu lourd (tri)
 ![[image 1 13.png|image 1 13.png]]
+
 Le bruit se fais globalemet toujours éeliminer.
 On ne dégrade pas les contours.
 
 > [!important] S’utilise quand on a des rayures ou de bruit _poivre et sel._
 ### Comparaison avec filtre Gaussien pour bruit poivre et sel
 ![[image 2 13.png|image 2 13.png]]
+
   
 ## Filtre Gaussien selectif ou filre bilatéral
   
@@ -50,12 +54,17 @@ Faire contribuer principalement les pixels qui ont une couleur proche de la coul
 On peut également mettre un seuil. ==Mais attention cela rendras un peu comme si on avait repeint à la main par dessus, on auras comme si on avais fais un flou puis appliquer un coup de pincaux sur les bordures.==
 $\sum G(\|p-q\|)I(q)$
 ![[image 3 10.png|image 3 10.png]]
+
 ![[image 4 9.png|image 4 9.png]]
+
 ![[daff893a-8123-4056-bf9e-423b324add83.png]]
+
 Originale
 ![[image 36.png|image 36.png]]
+
 Filtre Gaussien
 ![[image 5 9.png|image 5 9.png]]
+
 Filtre Gaussien selectif
   
 ## Filtre de Nagao
@@ -64,7 +73,9 @@ Faire un médian mais dans la région de variance faible.
 On ne sais pas où est la frontière. On va donc prendre toute les soltuyions de masques pour ce pixel et in va calculer la variance pour chacun de ces masques. On va appliquer celui avec la plus petite variances.
 On ne fais donc pas focrément dans le masque centrale.
 ![[image 6 9.png|image 6 9.png]]
+
 ![[image 7 8.png|image 7 8.png]]
+
 On garde bien la distinction entre les frontières.
   
 ## Détection de bords
@@ -72,36 +83,50 @@ On garde bien la distinction entre les frontières.
 ### Définition de la notion de bord / contour
 Transition brutale de luminance (échelon)
 ![[image 8 6.png|image 8 6.png]]
+
 Théorie
 ![[image 9 6.png|image 9 6.png]]
+
 Pratique
 ### Calcul de la dérivée
 $lim_{h\rightarrow 0}\frac{f(x+h)-f(x)}{h}$
 ![[image 10 5.png|image 10 5.png]]
+
 Dans notre cas on est pas en continu mais en discret :
 $f'(x)=(f(x+1)-f(x))\ ou\\ \frac{1}{2}*(f(x+1)-f(x-1))$
 ![[image 11 4.png|image 11 4.png]]
+
   
 ### Filtre de Roberts
 Les contours ne sont pas forcemment nets
 ![[image 12 4.png|image 12 4.png]]
+
   
 ### Sobel
 ![[image 13 4.png|image 13 4.png]]
+
 Filtre triangulaire / gaussien pour lisser
 ![[image 14 4.png|image 14 4.png]]
+
 ### Prewitt
 ![[image 15 4.png|image 15 4.png]]
+
 Filtre moyenneur pour lisser
 ![[image 16 4.png|image 16 4.png]]
+
   
 On va le plus souvent utilisé Sobel
 ![[image 17 4.png|image 17 4.png]]
+
 ### Résultats Sobel
 ![[image 18 4.png|image 18 4.png]]
+
 ![[image 19 4.png|image 19 4.png]]
+
 ![[image 20 4.png|image 20 4.png]]
+
 ![[image 21 4.png|image 21 4.png]]
+
   
 ### Récupération des contours à ârtir de l’image du gradient
 Le vecteur gradient est orthogonal aux lignes de niveaux, plus sa norme est grande plus la  
@@ -112,17 +137,22 @@ Différantes statégies:
 - Recherche de lignes de crête
 Problème : Diffuculté au niveaud es contours fermés ou ouverts.
 ![[0a16a605-8ace-4e2d-af3a-e6cae10d0b01.png]]
+
 ![[0e16a63c-d993-422b-a681-84e9f8594abd.png]]
+
   
 ### Seuillage par Hystérésis
 On va prendre 2 seuil, un tolérant et un strcicte.
 Avec le seuil tolérant on obtient plus que ce que l’on veut. Avec le strict on perd de l’information, elle est dégrader.
 On va donc venir fusionner les deux. On va compléter le seuil stricte à l’aide du seuil tolérant, on va également éliminé les “tâches” présentes sur le seuil tolérant en voyant qu’elles n’ont pas d’homologues dans le seuil strict.
 ![[image 22 4.png|image 22 4.png]]
+
 Seuil tolérant
 ![[image 23 3.png|image 23 3.png]]
+
 Seuil strict
 ![[image 24 3.png|image 24 3.png]]
+
 Fusion
 
 > [!important] Trouver les 2 seuils est beaucoup plus facile que de trouvé le seuil idéal.
@@ -131,12 +161,14 @@ Fusion
 L'amplitude est donnée par la plus forte réponse. L'orientation est déduite du masque qui a donné la plus forte réponse.
 ![[image 25 3.png|image 25 3.png]]
 
+
 > [!important] Ce n’est plus trop utilisé.
   
   
 ### Frei-Chen
 Compliquer à caculer, on utilise plus souvent Sobel.
 ![[image 26 3.png|image 26 3.png]]
+
   
 ### Le Laplacien
 **Utilisation de la dérivée seconde :** Un point de contour est un passage à zéro de la dérivée seconde
@@ -147,8 +179,11 @@ $f'(x)=f(x+1)-f(x)
 f''(X)=f(X+1)-2*f(X)+f(X-1)$
 **Masque :**
 ![[image 27 3.png|image 27 3.png]]
+
 ![[image 28 3.png|image 28 3.png]]
+
 ![[image 29 3.png|image 29 3.png]]
+
   
 ### Conclusion
 Le calcul des dérivées est approché au moyen de filtres
@@ -172,6 +207,7 @@ Cf filtre de Canny/Deriche
 ### Détection de coins
 Coin = gradient fort dans deux directions
 ![[image 30 3.png|image 30 3.png]]
+
   
 ### Moravec
 Pour chaque point
@@ -180,12 +216,15 @@ Pour chaque point
 - On réitère le calcul avec des décalages dans toutes les directions
 - Pour chaque point, on garde, parmi tous les décalages $i$ le résultat de $S_i$ qui a donné la plus faible valeur
 ![[image 31 2.png|image 31 2.png]]
+
 Permet de détecter les contours. On a un cas particulier dans les coins → on va avoir un gradient fort en $x$ et en $y$. Ne marche que si on est bien orienté.
   
 **Calcul d’un critère sur toute l’image**
 ![[image 32 2.png|image 32 2.png]]
+
 **Calcul d’un critère pour chaque point**
 ![[image 33 2.png|image 33 2.png]]
+
 **Un coin maximal local de** $c(x,y)$
   
 Sensible au bruit (des petites imperfections peuvent être prises pour des coins)
@@ -197,8 +236,11 @@ quelques directions)
 On va réviser le critère pour être plus robuste.
 On va usuellement rajouter une gaussienne.
 ![[image 34 2.png|image 34 2.png]]
+
 ![[image 35 2.png|image 35 2.png]]
+
 ![[image 36 2.png|image 36 2.png]]
+
 Nouveau critère $H$
 - $H=det(M)-\alpha\ trace(M)^2$
 - $\lambda_1\ \lambda_2$ les deux valeurs propres : $det(M)=\lambda_1\lambda_2$ et $trace(M)=\lambda_1+\lambda_2$
@@ -222,6 +264,7 @@ Détection basée sur le produit vectoriel
   
 **Pour chaque point** $i$**, avec un voisinage** $V_i$**, on détermine un critère** $k$ **:**
 ![[image 37.png]]
+
   
 ### Conclusion
 Difficiles à parametrer
@@ -234,7 +277,9 @@ Difficiles à parametrer
 ### Résultats
 À prendre avec des pincettes car les paramètres varie. On ne peut pas dis qui est le meuilleurs ici.==Difficile à voi mais il y a des points rouges dans les coins.==
 ![[image 38.png]]
+
 ![[image 39.png]]
+
 Points importants
 - Stabilité (bruit, changement de point de vu)
 - Pertinent pour le calcul de descripteurs (discriminent)
@@ -251,17 +296,24 @@ Autres
 - Egomotion estimation
 - Indexation d’image
 ![[image 40.png]]
+
   
 ## Amélioration de la netteté
 ### Laplacien
 ![[image 41.png]]
+
 ![[image 42.png]]
+
 ![[image 43.png]]
+
 ![[image 44.png]]
+
   
 On augmente la netteté mais on renforce le bruit.
 ![[image 45.png]]
+
 ![[image 46.png]]
+
   
   
 # Signal
@@ -284,20 +336,25 @@ Représentation Mathématique d'un phénomène physique
 ### Énergie
 ![[image 47.png]]
 
+
 > [!important] Bien à savoir mais ne va pas nous être très utilie.
   
 ### Puissance
 ![[image 48.png]]
+
   
 ## Signaux classiques
 ![[image 49.png]]
+
 Le sinus cardinal est très important
   
 ## Séries et transformée de Fourier
   
 ![[image 50.png]]
+
 Que vaut : Ce sont des vectuers orthogonaux donc elle vaut 0 si n diff m et 1 sinon
 ![[image 51.png]]
+
   
 ### Fréquence
 **Basse fréquences**
@@ -309,6 +366,7 @@ Que vaut : Ce sont des vectuers orthogonaux donc elle vaut 0 si n diff m et 1 si
   
 ### Spectre
 ![[image 52.png]]
+
   
 
 > [!important]
@@ -319,9 +377,11 @@ Que vaut : Ce sont des vectuers orthogonaux donc elle vaut 0 si n diff m et 1 si
   
 ### Passage d’une reorésentation à l’autre
 ![[image 53.png]]
+
   
 ### Transformées usuelle
 ![[image 54.png]]
+
   
 ### Existence
 - $f(t)$ bornée
@@ -330,6 +390,7 @@ Que vaut : Ce sont des vectuers orthogonaux donc elle vaut 0 si n diff m et 1 si
   
 ### Propriété
 ![[image 55.png]]
+
   
   
 # Filtrage : Transformée de Fourier
@@ -338,13 +399,17 @@ Que vaut : Ce sont des vectuers orthogonaux donc elle vaut 0 si n diff m et 1 si
   
 - Le signal est borné et chantilloné
 ![[image 56.png]]
+
 ![[image 57.png]]
+
   
 - Signal discret (échantillonné) + support borné : **TFD**
 ![[image 58.png]]
 
+
 > [!important] On travail dans les complexes !
 ![[image 59.png]]
+
   
 ## Spectre
   
@@ -370,21 +435,26 @@ On est en complexe et le signal d’origine est réel.
 ## Signal borné et échantillonné
 ### Soit le pic de dirac
 ![[image 60.png]]
+
 On va prendre une infinité de pic de dirac et les translaté d’une constante, on a un peigne de dirac $W$.
 ![[image 61.png]]
+
   
 ## TFD - Transformé de Fourier Discrète
   
 On va l’utiliser car on a un signal discret (échantillonné) et un support borné.
 ![[image 62.png]]
+
   
 ### Notes
 $F_e$ la fréquence d’échantillonage
 ![[image 63.png]]
+
   
 ### Calcul rapide
   
 ![[image 64.png]]
+
 Pour calculer la TFD sur un signal de taille N, on calcul la transformée de Fourier sur les coefficients pairs (N/2) et la transformée de Fourier sur les coefficients impairs (N/2) … et récursivement.
 On calcul on nouvelle tranformé de Fourier sur un sous-signal assez petit.
   
@@ -392,7 +462,9 @@ On calcul on nouvelle tranformé de Fourier sur un sous-signal assez petit.
   
 ### Visualisation du spectre
 ![[image 65.png]]
+
 ![[f99e868c-e55e-423b-834a-cadfdcb748d6.png]]
+
 On interverti les cadrants. Les basses fréquences se retrouvent au centre.
   
   
@@ -400,11 +472,13 @@ On interverti les cadrants. Les basses fréquences se retrouvent au centre.
   
   
 ![[image 66.png]]
+
 Linéaire.
 Si on connaît la réponse impultionnnelle on connaît la sortie du filtre à n’importe quel signal.
   
 ## Réponse impultionnelle
 ![[image 67.png]]
+
   
 ## Propriétés
   
@@ -418,6 +492,7 @@ $(x(t)*y(t))*z(t)=x(t)*(y(t)*z(t))$
 ### Théorème de Plancherel
 ![[image 68.png]]
 
+
 > [!important] Super important. R`pond à la question : Comment on applique le filtre ?
 ### Autre propriété (à connaître)
 $f'*g=f*g'=(f*g)'$
@@ -426,6 +501,7 @@ $f'*g=f*g'=(f*g)'$
   
 ### Spectre d'un signal échantillonné
 ![[9022fe49-fafc-48d5-9097-f908fbaf93b2.png]]
+
 Pas besoin de calculer une transformé de Fourier plus grande comme on a tout à l’infini.
   
 ### Revisite du filtrage
@@ -434,8 +510,10 @@ Pas besoin de calculer une transformé de Fourier plus grande comme on a tout à
 - Passe bande
 - Réjecteur
 ![[7dd54bdb-44e4-4d92-885b-9e51318e7e3c.png]]
+
 Ici c’est pénible. Hors on sait qu’on peut remplacer la multiplication du domaine fréquenciel par une convolution dans le domaine spatial.
 ![[image 69.png]]
+
   
 ### Déconvolution
 **Convolution :** $f*h\Rightarrow F \times H$
@@ -477,27 +555,35 @@ Effet :
 ## Propriété de la TF2D
   
 ![[image 70.png]]
+
 ### Translation
 ![[image 71.png]]
+
 ### Rotation
 ![[image 72.png]]
+
 
 > [!important] Très utilie pour déterminer la rotation d’une image.
 ### Réduction
 ![[image 73.png]]
+
 ### Somme
 ![[image 74.png]]
+
   
 ## Impacte du Flou
   
 On va voir si les gradients sont francs.
 ![[image 75.png]]
+
 ![[image 76.png]]
+
 Problème dans les zones aux couleurs uniformes.
   
 ## [Skew estiation](https://fr.wikipedia.org/wiki/Asym%C3%A9trie_\(statistiques\))
   
 ![[image 77.png]]
+
   
   
 # Autres transformations
@@ -512,6 +598,7 @@ Problème dans les zones aux couleurs uniformes.
   
 ## DCT - Discret Cosinus Tranform
 ![[image 78.png]]
+
   
 ## Short Term Fourier Transform
 ### Problème
@@ -519,6 +606,7 @@ FT : soit le temps, soit la fréquence
 ### Solution
 Ne considérer que les petits intervalles
 ![[9a0dcdb2-91f3-4f40-aa14-e7def405782f.png]]
+
 ### Impact de la taille de $W$
 - $W$ étroit $⇒$ localisation temporelle correcte mais mauvaise résolution fréquentielle
 - $W$ large $⇒$ localisation teporelle imprécise mais bonn résolution temporelle
@@ -539,5 +627,7 @@ une fois pour toutes.
 ### Définition
   
 ![[image 79.png]]
+
   
 ![[image 80.png]]
+

@@ -8,7 +8,9 @@ The RS-232 Protocol is associated with old-school wire cable called “Serial Po
 > [!important] This is also called an UART (Universal asynchronous receiver-transmitter).
 ## Pins
 ![[Untitled 68.png|Untitled 68.png]]
+
 ![[Untitled 1 44.png|Untitled 1 44.png]]
+
 There is several pins on the cable.
 |   |   |   |
 |---|---|---|
@@ -25,8 +27,10 @@ There is several pins on the cable.
 > [https://en.wikibooks.org/wiki/Serial_Programming/8250_UART_Programming](https://en.wikibooks.org/wiki/Serial_Programming/8250_UART_Programming)  
 The UART chip has a total of 12 different registers that are mapped into 8 different Port I/O locations. Obviously that means there is more than one register that uses the same Port I/O location, and affects how the UART can be configured.
 ![[Untitled 2 31.png|Untitled 2 31.png]]
+
 In reality, two of the registers are really the same one but in a different context, as the Port I/O address that you transmit the characters to be sent out of the serial data port is the same address that you can read in the characters that are sent to the computer. Another I/O port address has a different context when you write data to it than when you read data from it... and the number will be different after writing the data to it than when you read data from it.
 ![[Untitled 3 23.png|Untitled 3 23.png]]
+
 - DLAB column
     
     One of the issues that came up when this chip was originally being designed was that the designer needed to be able to send information about the baud rate of the serial data with 16 bits.
@@ -63,6 +67,7 @@ In reality, two of the registers are really the same one but in a different cont
     $DivisorLatchValue=\frac{115200}{BaudRate}$
     
     ![[Untitled 4 17.png|Untitled 4 17.png]]
+
     
     > [!important] Do not forget to assign the High Byte to zero for baud rates 600 and above
     
@@ -71,6 +76,7 @@ In reality, two of the registers are really the same one but in a different cont
     This register allows you to control when and how the UART is going to trigger an interrupt event with the hardware interrupt associated with the serial COM port.
     
     ![[Untitled 5 11.png|Untitled 5 11.png]]
+
     
     - The Received Data interrupt is a way to let you know that there is some data waiting for you to pull off of the UART.
     - The Transmitter Holding Register Empty Interrupt is to let you know that the output buffer (on more advanced models of the chip like the 16550) has finished sending everything that you pushed into the buffer.
@@ -85,6 +91,7 @@ In reality, two of the registers are really the same one but in a different cont
     > [!important] When you are writing an interrupt handler for the 8250 chip (and later), this is the register that you need to look at in order to determine what exactly was the trigger for the interrupt
     
     ![[Untitled 6 8.png|Untitled 6 8.png]]
+
     
 - **FFC +2**
     
@@ -93,6 +100,7 @@ In reality, two of the registers are really the same one but in a different cont
     > [!important] Keep in mind that this is a "write only" register
     
     ![[Untitled 7 7.png|Untitled 7 7.png]]
+
     
 - **LCR +3**
     
@@ -102,6 +110,7 @@ In reality, two of the registers are really the same one but in a different cont
     - Setting the bit patterns that will be used for both receiving and transmitting the serial data. In other words, the serial data protocol you will be using (8-1-None, 5-2-Even, etc.).
     
     ![[Untitled 8 6.png|Untitled 8 6.png]]
+
     
     - The first two bits (Bit 0 and Bit 1) control how many data bits are sent for each data "word" that is transmitted via serial protocol. For most serial data transmission, this will be 8 bits
     - Bit 2 controls how many stop bits are transmitted by the UART to the receiving device
@@ -112,6 +121,7 @@ In reality, two of the registers are really the same one but in a different cont
     This register allows you to do "hardware" flow control, under software control. Or in a more practical manner, it allows direct manipulation of four different wires on the UART that you can set to any series of independent logical states, and be able to offer control of the modem. It should also be noted that most UARTs need Auxiliary Output 2 set to a logical "1" to enable interrupts.
     
     ![[Untitled 9 4.png|Untitled 9 4.png]]
+
     
 - **LSR +5**
     
@@ -120,6 +130,7 @@ In reality, two of the registers are really the same one but in a different cont
     > [!important] Keep in mind that this is a "read only" register, and any data written to this register is likely to be ignored or worse, cause different behavior in the UART
     
     ![[Untitled 10 4.png|Untitled 10 4.png]]
+
     
     - Bit 7 refers to errors that are with characters in the FIFO.
     - Bit 6 is set to a logical "1" if all characters have been transmitted (including the FIFO, if active), and the "shift register" is done transmitting as well.
@@ -135,6 +146,7 @@ In reality, two of the registers are really the same one but in a different cont
     This register is another read-only register that is here to inform your software about the current status of the modem.
     
     ![[Untitled 11 4.png|Untitled 11 4.png]]
+
     
     - Carrier Detect will stay in a logical state of "1" while the modem is "connect" to another modem
     - The Ring Indicator bit is directly tied to the RS-232 wire also labeled "RI" or Ring Indicator
@@ -193,6 +205,7 @@ The “ports” are a bus of secondary address which devices can be connected at
 To be able to configure the driver to the serial port. We want to send data to 2 ports.
 ![[Untitled 12 4.png|Untitled 12 4.png]]
 
+
 > [!important] Here, the % are replaced by the values.
 > 
 >   
@@ -200,10 +213,14 @@ To be able to configure the driver to the serial port. We want to send data to 2
 Here, we send 1 byte and receive 1 byte from a port.
 The implementation of outb is already implemented in the io.h file.
 ![[Untitled 13 4.png|Untitled 13 4.png]]
+
 serial_init three first lines setup the divisor latch.
 ![[Untitled 14 2.png|Untitled 14 2.png]]
+
 ![[Untitled 15 2.png|Untitled 15 2.png]]
+
 ![[Untitled 16 2.png|Untitled 16 2.png]]
+
 ## PortIO
 - **inb** instruction
 - **outb** instruction

@@ -120,6 +120,7 @@ Since you are receiving bytes by reading from the socket fd, you must bear in mi
 > **NOT** persistent and has to be closed every time.
   
 [[Basic server]]
+
   
 **Signal Handler**
 - SIGINT: clean shutdown (free all) and return 0

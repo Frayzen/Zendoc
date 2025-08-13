@@ -12,6 +12,7 @@ Owner: "Florian "
 The program itself, which is a set of instructions and data, is typically stored in non-volatile storage (like your hard drive or SSD). When you run a program, it's loaded from this storage into the computer's RAM (Random Access Memory) for execution.
 # Memory Layout of a process
 ![[Untitled 141.png|Untitled 141.png]]
+
 _Here, “text” represents the code_
   
 # Components
@@ -50,6 +51,7 @@ Processes can communicate using:
 > - If the buffer overflows, the writing process will be blocking.
   
 ![[Untitled 1 95.png|Untitled 1 95.png]]
+
 - Sockets (with the flag AF_UNIX flag). It can be anonymous or named, just like pipes. Sockets were originally used to communicate on the network but their behavior have been used to communicate internally between two processes as well.  
     There is several advantages with this method.
     

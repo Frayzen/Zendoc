@@ -15,6 +15,7 @@ The GDT is a data structure used by Intel x86 processors to define the character
 The LDT is similar to the GDT but is used for defining memory segments specific to an individual process or a group of processes.
 - Each process can have its own LDT
 ![[Untitled 67.png|Untitled 67.png]]
+
 ## Logical address translation
   
 A logical address consists of a 16-bit segment selector and a 32-bit offset.
@@ -23,6 +24,7 @@ The segment selector identifies the segment the byte is located in and the offse
 The processor translates every logical address into a linear address. A linear address is a 32-bit address in the processor’s linear address space. Like the physical address space, the linear address space is a flat (unsegmented), 232 -byte address space.
 The linear address space contains all the segments and system tables defined for a system.
 ![[Untitled 1 43.png|Untitled 1 43.png]]
+
 # Segment register
 A list of segment register is not enough: we need segment registers to know which segment is the current active.
 - ss: stack segment
@@ -32,11 +34,13 @@ A list of segment register is not enough: we need segment registers to know whic
 A long jump is a jump to another segment
   
 ![[Untitled 2 30.png|Untitled 2 30.png]]
+
 ### Segment selector
 A segment selector is a 16-bit identifier for a segment.
 It does not point directly to the segment,  
 but instead points to the segment descriptor that defines the segment.
 ![[Untitled 3 22.png|Untitled 3 22.png]]
+
 - Index: selects one of 8192 descriptors in the GDT or LDT. The processor multiplies the index value by 8 and adds the result to the base address of the GDT or LDT. (from the GDTR or LDTR)
 - Table Indicator flag: Specifies the descriptor table to use:
     - clearing this flag selects the GDT;

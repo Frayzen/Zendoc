@@ -99,6 +99,7 @@ end process;
 ```
 ![[image 8.png|image 8.png]]
 
+
 > [!important] The assignment is done with `:=`
   
 ```VHDL

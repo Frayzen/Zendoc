@@ -20,6 +20,7 @@ Owner: Matcha
   
 Conventionally, terms are things you add, factor are things you multiply
 ![[Untitled 92.png|Untitled 92.png]]
+
   
   
 We could keep this parse tree but it :
@@ -46,13 +47,16 @@ exp:
 	exp "+" term { $ = new Add($1, $3); }
 ```
 ![[Untitled 1 63.png|Untitled 1 63.png]]
+
   
 ### Hierarchy
 ![[Untitled 2 45.png|Untitled 2 45.png]]
+
 ⬅️ Not suitable because the subclasses share a lot
   
 $\Longrightarrow$ Refractorisation
 ![[Untitled 3 35.png|Untitled 3 35.png]]
+
 ```C++
 class Exp {
 protected:

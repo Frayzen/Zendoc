@@ -13,15 +13,18 @@ Supports:
 On veux faire les choses **rapidement.**
 ### Les 3 grands domaines d’applications
 ![[image 92.png|image 92.png]]
+
 - Developpement mobile : batterie limité
 - Analyse de Big Data : Énorme volume de données
 - Systèmes en temps réel : dois fournir une réponse dans un temps limité
 Le
 ![[image 1 25.png|image 1 25.png]]
+
   
 # Scientific computing
   
 ![[ikonas.mp4]]
+
   
 Dans les années 70, les GPU étaient destinés à la synthèse d'images.
 « Tous les calculs sont effectués dans l'écran Adage 3000 » (1)
@@ -39,6 +42,7 @@ A permis d'obtenir les premiers résultats GPGPU :
 - Rumpf et Strzodka (2001) : premières EDP GPU (diffusion, segmentation d'image)
 - NVIDIA SDK Game of Life, Shallow Water (Greg James, 2001)
 ![[738-front.jpg]]
+
   
 ### GPGPU devienne à la mode (2006)
   
@@ -56,10 +60,12 @@ Deux facteurs expliquent l'essor massif du développement de GPGPU :
   
 Le « calcul haute performance » (HPC) donne naissance aux centres de données d'entreprise.
 ![[image 2 25.png|image 2 25.png]]
+
   
 ## Systèmes embarqués (2013)
   
 ![[image 2 24.png|image 2 24.png]]
+
   
 # La Programmation Parallèle
   
@@ -78,6 +84,7 @@ Le « calcul haute performance » (HPC) donne naissance aux centres de donnée
   
 Loi de Moore : les processeurs ne sont plus 2x plus puissants chaques années.
 ![[image 3 21.png|image 3 21.png]]
+
 Les processeurs deviennent intelligents :
 - Exécution hors service / renommage dynamique des registres
 - Exécution spéculative avec prédiction de branchement
@@ -86,18 +93,21 @@ Les processeurs deviennent super-scalaires :
 - … la quantité de données à traiter a explosé !
 Il nous faut une autre façon de concevoir la « vitesse ».
 ![[image 4 20.png|image 4 20.png]]
+
   
 ## Programmation parallèle orienté-données
   
 ### Ligne de d’assemblage d’une fabrique de sandwichs
   
 ![[image 3 22.png|image 3 22.png]]
+
 Comment préparer plusieurs sandwichs le plus rapidement possible ?
 - Optimiser la ==**latence**== : temps de préparation d'un sandwich.
 - Optimiser le ==**débit**== : nombre de sandwichs préparés pendant une durée donnée.
   
 ### Taxonomie de Flynn
 ![[image 4 21.png|image 4 21.png]]
+
 - SISD : pas de parallélisme
 - SIMD : même instruction sur un groupe de données (vecteur)
 - MISD : rare, principalement utilisé pour le code tolérant aux pannes
@@ -111,6 +121,7 @@ Comment préparer plusieurs sandwichs le plus rapidement possible ?
 - Angela coupe les tomates
 - Kim coupe le fromage
 ![[image 5 20.png|image 5 20.png]]
+
 Temps pour faire 1 sandwitch : $\frac{s}{4}$ (400% de speed-up)
   
 ### Optimisation du ==débit== - MIMD Horizontal with multiple jobs
@@ -119,6 +130,7 @@ Temps pour faire 1 sandwitch : $\frac{s}{4}$ (400% de speed-up)
 - Donald fais le sandwitch 2
 - …
 ![[image 6 19.png|image 6 19.png]]
+
 Temps pour faire 4 sandwitch : $s$ (400% speed-up)
   
 ### Optimisation du ==débit== - (MIMD Vertical Pipelining)
@@ -128,12 +140,14 @@ Temps pour faire 4 sandwitch : $s$ (400% speed-up)
 - Angela coupe les tomates
 - …
 ![[image 7 18.png|image 7 18.png]]
+
 Temps pour faire 4 sandwitch : $s$ (400% speed-up)
   
 ### **Optimize du** ==**débit**== **- SIMD DLP**
   
 A worker has many arms and make 4 sandwiches at a time
 ![[image 8 16.png|image 8 16.png]]
+
 Temps pour faire 4 sandwitch : $s$ (400% speed-up)
   
 ## Tendances
@@ -143,13 +157,16 @@ La conception orientée données a transformé la façon dont nous concevons les
 - Taille vectorielle plus importante, ISA plus orientée vecteur
 - Nombre accru de cœurs (unités de traitement)
 ![[image 9 16.png|image 9 16.png]]
+
 Les performances de pointe / cœurs diminuent.
 Les performances de pointe mondiales augmentent (avec plus de cœurs !).
 ![[image 10 15.png|image 10 15.png]]
+
   
 ### Perfomances CPU vs GPU
   
 ![[image 11 14.png|image 11 14.png]]
+
   
 ### Vers une architecture homogène
   

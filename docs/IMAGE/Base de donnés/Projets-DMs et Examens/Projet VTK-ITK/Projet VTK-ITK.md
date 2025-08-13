@@ -8,6 +8,7 @@ Pourcentage: "0"
 Overall: "0"
 ---
 ![[2025-ITK-VTK-MiniProjet.pdf]]
+
 |   |   |
 |---|---|
 |Execution du code|Le code ne s'execute pas0 pointsLe code s’exécute partiellement / nécessite des inputs manuels1.5 pointsLe code s’exécute complètement  <br>sans intervention manuelle2.5 points|

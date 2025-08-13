@@ -35,6 +35,7 @@ $cos(x) = 1 - \frac{x²}{2!} + \frac{x^4}{4!} -...$
   
 Distance is an applications d : E x E → R+
 ![[Untitled 166.png|Untitled 166.png]]
+
 # Vector space
 A vector space has an intern law (+) and extern law (.)
 Let E be a vector space and u,v,w belongs to it
@@ -53,6 +54,7 @@ The **extern law** (_multiplication by scalar)_ is:
 The norm (_written || . ||_ ) is a function from E → [0, +inf[ satisfying:
 ![[Untitled 1 113.png|Untitled 1 113.png]]
 
+
 > [!important] As soon as we defined a
 > 
 > **norm** we can define a **distance** by:  
@@ -61,7 +63,11 @@ The norm (_written || . ||_ ) is a function from E → [0, +inf[ satisfying:
 ### When p < inf:
 ### When p = inf:
 ![[Untitled 2 80.png|Untitled 2 80.png]]
+
 ![[Untitled 3 58.png|Untitled 3 58.png]]
+
 ![[Untitled 4 40.png|Untitled 4 40.png]]
+
   
 ![[Untitled 5 28.png|Untitled 5 28.png]]
+

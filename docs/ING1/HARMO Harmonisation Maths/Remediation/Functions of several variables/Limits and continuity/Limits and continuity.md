@@ -17,6 +17,7 @@ From that, we can establish a **first definition** of the limit allowing to buil
 > directions ou chemins (en fait une infinité...).
 ## Interior point and boundary point
 ![[Untitled 169.png|Untitled 169.png]]
+
 - An interior point is a point that has a disk fully contained inside of the domain
 - A boundary point has a disk which can lands outside of the domain
 It raises a **problem**: the limit cannot be defined by a simple disk considering the boundary points
@@ -42,6 +43,7 @@ $f_x = \delta f/\delta x$
 ### Context
 We can study f(x,y0) or f(x0,y) to study the function in a specific direction at a given point.
 ![[Untitled 1 115.png|Untitled 1 115.png]]
+
 ## Saddle Point
 
 > [!important] We call a saddle point the value (x0,y0,…) which validates:
@@ -49,6 +51,7 @@ We can study f(x,y0) or f(x0,y) to study the function in a specific direction at
 >   
 > fx = fy = … = 0
 ![[Untitled 2 82.png|Untitled 2 82.png]]
+
 For a function of two variables, we compute 4 derivate: fxy, fyx, fxx and fyy
 In most of the case, fxy is fyx are the same (_See Schwarz theorem_)
 ## Hessienne matrix

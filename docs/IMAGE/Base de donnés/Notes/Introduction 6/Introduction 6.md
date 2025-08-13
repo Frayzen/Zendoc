@@ -10,7 +10,9 @@ Supports:
 # [Un neurone](https://www.ricou.eu.org/iren/notes_rn.html#Neurones)
   
 ![[image 93.png|image 93.png]]
+
 ![[image 1 26.png|image 1 26.png]]
+
 On a quelque chose de linéaire → On va donc appliquer une fonction $f$ pour enlever la linéarité.
   
 ## Les maths
@@ -23,6 +25,7 @@ On a quelque chose de linéaire → On va donc appliquer une fonction $f$ pour e
     - $\sigma$ la fonction d’activation
 ### Fonction d’activation
 ![[image 2 26.png|image 2 26.png]]
+
   
 ## Théorème d’approximation
   
@@ -33,6 +36,7 @@ est dense dans $\mathscr{C}(\mathbb{R})$ au sens de la convergence uniforme sur 
 ## Un premier réseau neuronal
   
 ![[image 3 23.png|image 3 23.png]]
+
 ### Évaluer les couples d’entrée $(1,1), (0,1), (1,0)$ et $(0,0)$ avec $σ$ une logistique
 On fais i x coef de la fleche puis on aditionne les fleches, puis on aditionne avec la fleche du haut, si > 0 alors on a 1.
   
@@ -64,6 +68,7 @@ Les données doivent être
 - de bonne qualité (pour ne pas tromper le réseau)
 On appronfondira avec des exemples et l’utilisation de Pandas pour nettoyer les données.
 ![[image 4 22.png|image 4 22.png]]
+
   
 Si on trie les étiquettes au hasard on auras 0,5.
   
@@ -73,6 +78,7 @@ C’est la partie tactique et artistique.
 
 > [!important] L’étude des différents réseaux n’entre pas dans le cadre de ce cours d’introduction.
 ![[image 5 21.png|image 5 21.png]]
+
   
 # [Fonction d’erreur](https://www.ricou.eu.org/iren/notes_rn.html#Fonction%20d%27erreur)
   

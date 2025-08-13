@@ -40,6 +40,7 @@ The mechanism of **Priv Drop** is really useful in this context to prevent dange
 In this context, all of the initialization should be made at the very beginning of the program. One should focus on having the least amount of code running as root.
 ### What about setuid ?
 ![[Untitled 161.png|Untitled 161.png]]
+
 You are encouraged to read the **intro(2)** and **setuid(2)**.
 # Designing software
 The notion of **role** in any software is an identity that can:

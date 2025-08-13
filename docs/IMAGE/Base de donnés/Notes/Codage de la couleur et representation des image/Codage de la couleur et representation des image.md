@@ -16,6 +16,7 @@ Supports:
   
 On code une couleur par 3 composantes : Teinte, luminance et saturation. L'espace ressemble à deux cônes que l'on a joint par leurs bases. Une couleur est un point de cet espace.
 ![[image 30.png|image 30.png]]
+
 ### Teinte
 C'est l'angle sur le disque :
 - 0° rouge
@@ -29,12 +30,16 @@ La luminance est la hauteur dans le cône
 ### Saturation
 La saturation (« pureté de la couleur ») est la distance au centre du disque
 ![[image 1 12.png|image 1 12.png]]
+
 Photo oiginale
 ![[image 2 12.png|image 2 12.png]]
+
 H
 ![[image 3 9.png|image 3 9.png]]
+
 L
 ![[image 4 8.png|image 4 8.png]]
+
 S
 C’est un modele intuitif pour choisir une couleur
 
@@ -49,6 +54,7 @@ Le plan de luminance est simplement l’image en niveau de gris
 Luminance et
   
 ![[YCbCr-CbCr_Scaled_Y50.png]]
+
 On est en 3D avec un axe pour la luminance
 $Y = K(R+G+B)$
 $U=B+Y$
@@ -59,9 +65,13 @@ $G=Y/K-R-B=(K’Y-U-V)$
 $B=Y+U$
 Ce type de representation est surtout utile en compression.
 ![[image 5 8.png|image 5 8.png]]
+
 ![[image 6 8.png|image 6 8.png]]
+
 ![[image 7 7.png|image 7 7.png]]
+
 ![[image 8 5.png|image 8 5.png]]
+
   
   
 ## Espace CMY (Cyan, Magenta, Yellow)
@@ -92,6 +102,7 @@ Une seule composante qui code la luminance
     - Composante au maximum → maximum de lumière (blanc)
 - Un niveau de gris quelconque = un point de l'axe :
 ![[da7b53f5-46d7-49f3-8350-74fbb47cf007.png]]
+
   
   
 ## **Conversions entre espaces de couleurs**
@@ -108,7 +119,9 @@ Il existe beaucoup de maniere de faire.
   
 ### RGV ↔ HLS
 ![[image 9 5.png|image 9 5.png]]
+
 ![[image 10 4.png|image 10 4.png]]
+
 H [0°, 360°] L [0,1] S[0,1]
 **Teinte :** éstimé en fonction de deux bornes min et max
 Pour $L <=0,5$ :
@@ -147,7 +160,9 @@ L'image est une fonction discrète 2D, elle est souvent codée par une matrice.
 Pour une image codée en RGB, un point de l'image = un triplet (r,g,b) de valeurs dans la matrice.
 Pour une image codée en niveaux de gris, un point de l'image = une valeur dans la matrice codant la luminance
 ![[image 11 3.png|image 11 3.png]]
+
 ![[image 12 3.png|image 12 3.png]]
+
   
 ## Acces aux pixels
   
@@ -166,9 +181,11 @@ Pixel = Picture element
   
 ### Discretisation spatiale (resolution)
 ![[image 13 3.png|image 13 3.png]]
+
 ### Echantillonage (amplitude) :
 Combien de couleur.
 ![[image 14 3.png|image 14 3.png]]
+
 - Codage par palette
     - Bits par pixels
         - 1 bpp
@@ -192,13 +209,17 @@ Maillage. On choisi intuitivement un maillagecarre mais ce n’est pas une solut
 ### Topologie
 Le probleme d’un maillage carre est le voisinage en diagonal, la distance seras de $\sqrt 2$ et on a un soucis si on “attache” les pixels diagonaux (choix de la connexité) . Il s’agit d’un probleme topologique.
 ![[image 15 3.png|image 15 3.png]]
+
 ![[image 16 3.png|image 16 3.png]]
+
 Si le fond est 8-connexe (en noir), la forme (en blanc) est 4-connexe
 Si le fond est 4-connexe (en noir), la forme (en blanc) est 8-connexe
 ⇒ Contradiction avec le théorème de Jordan
 On va donc changer la forme des pixels.
 ![[d377a033-28f8-4720-a58e-8b838ddb4fce.png]]
+
 ![[image 17 3.png|image 17 3.png]]
+
 On as plus de soucis de connexite ni de soucis de distance.
   
 ## Stockage / Transfert
@@ -223,6 +244,7 @@ JPEG, TIFF, PNM, PNG, BMP, GIF, TGA...
     
   
 ![[image 18 3.png|image 18 3.png]]
+
   
 |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|
@@ -243,12 +265,16 @@ Pour eclaircir l’image on va augmenter l’illumination en faisant $\times1.3$
 > [!important] Pour changer l'illumination il faut donc multiplier les valeurs des pixels par une constante (et non additionner/soustraire par une constante comme c'est usuellement fait).
   
 ![[image 19 3.png|image 19 3.png]]
+
 Image originale
 ![[image 20 3.png|image 20 3.png]]
+
 Image du fond
 ![[image 21 3.png|image 21 3.png]]
+
 Soustraction des 2
 ![[image 22 3.png|image 22 3.png]]
+
 Ratio des 2
   
   
@@ -260,26 +286,33 @@ image_resultat(x,y) = image_origin(g(x,y), h(x,y))
 ### Effet sepia
 On associe à un niveau de luminance, une couleur.
 ![[image 23 2.png|image 23 2.png]]
+
 ![[image 24 2.png|image 24 2.png]]
+
 ![[image 25 2.png|image 25 2.png]]
+
 ### Rotation - cisaillement
 Seulement appliquer une matrice de rotation et/ou un upscaling pose le probleme qu’on ne va pas remplir toute l’image de destination. On va calculer plein de pixel qui sont en dehors de l’image
 Pour pallier a ca on part de l’image de destination et on va chercher les pixels dans l’image d;origine. On fais les etapes dans le sens inverse.
 ![[image 26 2.png|image 26 2.png]]
+
   
 ### Etirement - retricissement
 Transformation linearie
 ![[image 27 2.png|image 27 2.png]]
+
   
 ### Autre
 Ondulation, spirale, Translation aleatroire
 ![[image 28 2.png|image 28 2.png]]
+
   
 ### Morphing
 En combinant
 - Une moyenne pondérée des images (dont les poids évoluent au cours du temps)
 - Un champ de vecteur translation
 ![[image 29 2.png|image 29 2.png]]
+
   
 
 > [!important] Toute manipulation spatiale demande a ce qu’on passe par l’antecedant !
@@ -304,25 +337,33 @@ Que faire lorsque l'on doit « chercher » la valeur d'un pixel mais que l'on ne
 (rapide) : prendre la valeur du pixel le  
 plus proche
 ![[image 30 2.png|image 30 2.png]]
+
 ### 2eme solution
 Faire une interpolation bi-linéraire.
 ![[image 31.png]]
+
 ![[b8c66256-9b44-42c8-976b-e7be2d03757f.png]]
+
   
   
 ## Interpolation bi-cubique
   
 Tenir compte de la dérivée pour interpoler. On utilise 4 points.
 ![[97a6e71c-0d83-4613-a4e2-df4a51dd0f3d.png]]
+
 ![[image 32.png]]
+
 Usuellement on map grace au derivees au deux points les plus proches et en interpolant un polynome.
 
 > [!important] Ici on interpole sur une seul ligne, en 2d il faut prendre les 2 lignes et les 2 colonnes les plus proches ⇒ on a besoin de 16 points.
   
 Le soucis ici est que si on as une marche d’escalier on a des chances que se soit faux. Cela réhausse les contraste en allant chercher des intensite en dehors du range d’origine.
 ![[image 33.png]]
+
 ![[image 34.png]]
+
   
 Il existe d'autres méthodes d'interpolation
 Pour faire le choix de l'interpolation, il faut faire un compromis entre vitesse et qualité
 ![[image 35.png]]
+

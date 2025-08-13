@@ -12,18 +12,25 @@ remember: floyd is a cunt
 > [[Warshall]] one
 # Pseudo code
 ![[Untitled 179.png|Untitled 179.png]]
+
 ## Example of applications
 ### Quick example
 ![[Untitled 1 122.png|Untitled 1 122.png]]
+
 ![[Untitled 2 87.png|Untitled 2 87.png]]
+
 ### Example of initial matrice
 ![[Untitled 3 63.png|Untitled 3 63.png]]
+
 ![[Untitled 4 44.png|Untitled 4 44.png]]
+
 ### Final matrice
 ![[Untitled 5 31.png|Untitled 5 31.png]]
+
   
 # Gitlab
 ![[Untitled 6 21.png|Untitled 6 21.png]]
+
 # ChatGPT implementation
 ```Python
 def floyd(graph):

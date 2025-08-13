@@ -9,6 +9,7 @@ Supports:
 ---
 ==2 séances : pages 1-62 et 63-80==
 ![[6930417cbdcfdde0b92908c566b74057f3a94918_2_690x388.jpeg]]
+
 Unreal Engine
   
 ### Objectif :
@@ -36,14 +37,17 @@ On va preferer faire une image moins precise et ajuster apres.
 - Photon map
   
 ![[image 22.png|image 22.png]]
+
   
   
 # Raytracing
   
 En principe on lance une “infinité” de rayons depuis la source pour espérer trouver ceux qui frappent l’œil de l’observateur.
 ![[image 1 10.png|image 1 10.png]]
+
 Difficile de suivre tous les rayons partant de la source en revanche il est possible d’estimer le chemin inverse. C’est le principe du raytracing.
 ![[image 2 10.png|image 2 10.png]]
+
 Faire le chemin inverse pour trouver les objets «vus».
 On va devoir calculer l’intersection des rayon avec tout les objets de la scene.
 Une fois qu’on sait qu’on as heurte un objet avec un pixel, pour detreminer la couleur il faut determiner les sources limuneuses qui contribu a la couleur.
@@ -51,11 +55,13 @@ Pour chaque objet vu, on peut estimer une approximation de l’éclairage local.
 On va estimer l;eclairage local en calculant la lumiere diffuse et celle reflechis.
 Les images vont etre de bonne qualite mais on ne va pas avoir un rendu realiste. Le rendu est faux car chaque objet deviens une source limuneuse de la scene.
 ![[image 3 7.png|image 3 7.png]]
+
 On ne va donc pas compte la reflexion de la lumiere sur l’objet.
 Approximation de deux types de contributions :
 - la partie diffuse
 - la partie spéculaireSource lumineuse
 ![[image 4 6.png|image 4 6.png]]
+
   
 ### Calcul de l’illumination locale :
 - Composante diffuse
@@ -68,10 +74,12 @@ Approximation de deux types de contributions :
 - Lumières directionnelles
 - Objets lumineux
 ![[image 5 6.png|image 5 6.png]]
+
   
   
 ## Modele local avec lumiere ponctuelle
 ![[image 6 6.png|image 6 6.png]]
+
 On connais de la source lumineuse avec la normale grace au produit scalaire.
 La composante diffuse
 - La propriété de diffusion de la surface est kd
@@ -80,15 +88,19 @@ La composante diffuse
 ### Composante diffuse
 ![[image 7 5.png|image 7 5.png]]
 
+
 > [!important] On reviendras sur l’ombre plus tard.
   
 ## Composante speculaire
 La propriété de réflexion de la surface est ks
 ![[image 8 3.png|image 8 3.png]]
+
 On va utiliser le produit scalaire pour dire que plus S se rapproche de L plus on va avoir de reflexion.
 Ici on ne mets pas la couleur.
 ![[image 9 3.png|image 9 3.png]]
+
 ![[image 10 2.png|image 10 2.png]]
+
   
 ## Calcul de l’illumination locale
   
@@ -97,10 +109,12 @@ Composante diffuse
 - Apport des sources primaires
 - Ne tient pas compte des sources secondaires
 ![[image 11 2.png|image 11 2.png]]
+
 Les « kd » incluent la couleur
 Il faut sommer toutes les sources lumineuses i..
   
 ![[image 12 2.png|image 12 2.png]]
+
 ajout possible d’un coefficient d’atténuation f (d) (d → distance
   
 ## Etape 1 : Prise en compte des sources primaires
@@ -116,9 +130,11 @@ Pour l’ensemble des points de l’image :
 ## Prise en compte des sources secondaires
   
 ![[a764623a-00b5-49ee-a347-61d0cdeda2bb.png]]
+
 On rappelle la fonction qui va chercher la lumiere pour aller cherche les reflets. Demande peu d‘ajout dans le code mais ajoute pas mal de complexité pour la machine.
 Il faut s arrater au bout d un moment, il est possible de faire par calcul mais la plupart des raytraceurs decide arbitrairement de s arreter a un certain nombre de rayons.
 ![[image 13 2.png|image 13 2.png]]
+
   
   
 ## Étape 2 : Prise en compte des sources primaires et certaines sources secondaires
@@ -136,6 +152,7 @@ Pour l’ensemble des points de l’image :
 Pour l’ensemble des rayons que l’on « lance » vers les sources primaires, il faut chercher si un objet de la scène ne s’est pas inséré entre le point considéré et la source. Pour cela, il faut à nouveau calculer l’intersection du rayon avec l’ensemble des objets de la scène et prendre le plus proche.
   
 ![[image 14 2.png|image 14 2.png]]
+
 Ici il manque la transparence des ombres, la lumiere ambiante.
   
 
@@ -161,6 +178,7 @@ Un pixel est une surface carré et on associe une couleur, intensité à tout le
 Manière de faire très binaire et non représentative de la réalité.
 On peut louper des objets.
 ![[image 15 2.png|image 15 2.png]]
+
   
 ## Solutions
 ### Sur-échantillonnage
@@ -175,10 +193,13 @@ On peut louper des objets.
   
 ### Résultats
 ![[a83f02e2-5701-4840-810c-4be5fc4a27e3.png]]
+
 Sans anti-aliasing
 ![[image 16 2.png|image 16 2.png]]
+
 Anti-aliasing (Upsampling) sur toute l’image (50 rays/pixel)
 ![[1ae165b1-f7d2-4ff5-a384-82b2cacd0df1.png]]
+
 Anti-aliasing sur les zones de gradient élevé (50 rays/pixel)
 On rajoute du temps de calcul.
 On calcul une première image grossière et on augmentr le nombre de rayons aux pixels d’interet.
@@ -192,6 +213,7 @@ On calcul une première image grossière et on augmentr le nombre de rayons aux 
 - ...
 ![[images.jpg]]
 
+
 > [!important] On vaa voir une hierarchie de volumes englobants
   
 ## Problème des objets transparents
@@ -200,10 +222,12 @@ Comme nous avons relancé le rayon réfléchi, il faut «suivre» le rayon réfr
 - Loi de la réfraction
 ### Milieux transparents
 ![[image 17 2.png|image 17 2.png]]
+
 Loi de la réfraction (Snell Decartes) :
 $n_1sin(i_1)=n_2sin(i_2)$
 ### Objets translucides
 ![[160b801a-73b0-4f3f-a781-3f76d8fe3469.png]]
+
 Distribution probabiliste
   
 ### Problème
@@ -213,20 +237,24 @@ Si on a plusieurs objets transparents à la suite on va avoir des soucis à calc
 **Solution approchée :** Ne pas dévier le rayon mais filtrer les longueurs d’ondes
 ![[3525f9e1-278f-4952-961b-3c2bc04e9b2b.png]]
 
+
 > [!important] On auras pas les caustiques ici.
   
   
 ## Problème de l’éclairage indirect
   
 ![[cefeef73-6a62-42e8-ad58-bf51f37b60df.png]]
+
 On ajoute la lumière ambiante : $I =$ ==$k_a ∗ I_a$== $+ Id + Is + Ir + It$
 ![[027733a2-bee5-416e-9917-5636accaf82a.png]]
+
   
   
 ## Probème de l’ombre
   
 L’origine des ombres tranchés proviens de la lumière ponctuelle.
 ![[e798d38b-4faf-4321-a469-91e72f510768.png]]
+
 ### Solution
 Ne plus considérer une lumière comme ponctuelle
 - Problème du temps de calcul
@@ -278,7 +306,9 @@ $B_i$ la radiosité de la surface $i$
 $⁍ ⁍$
 ### Calcul des $F_{ij}$ par hemi-cubes
 ![[image 18 2.png|image 18 2.png]]
+
 ![[image 19 2.png|image 19 2.png]]
+
 Ne permet pas directement de calculer une vue de la scène mais simplement l’illumination globale
 ### Avantages :
 - Prend mieux en compte les sources secondaires
@@ -316,15 +346,18 @@ Solution pour résoudre l’illumination
 ## BRDF : Bidirectional reflectance distribution function (Réflectivité bidirectionnelle)
   
 ![[image 20 2.png|image 20 2.png]]
+
 - Conservative
     
     ![[image 21 2.png|image 21 2.png]]
+
     
     On ne doit pas avoir plus d’energie sortante que d’energie entrante
     
 - Réciprocité de Helmholtz
     
     ![[image 22 2.png|image 22 2.png]]
+
     
 - Positivite
 ### Mesurée
@@ -342,8 +375,10 @@ $f_r(x, \theta_i,\theta_o)=k_df_d(x,\theta_i,\theta_o)+k_sf_s(x,\theta_i,\theta_
   
 On lance des rayon aleatoirement dans l’espace mais on tiens compte de la BRDF de l’objet. On converge donc plus vite vers une solution liee a la scene
 ![[image 23.png]]
+
 On ne calcul pas l’apport de la soucre lumineuse mais on espere juste qu’un des rayon tombe sur la source lumineuse. Ca va donc prendre un petit peu de temps.
 ![[image 24.png]]
+
 Ici on ne peut pas vraiment avoir de lumiere ponctuelle, on va preferer des objet lumineux.
   
 ### Avantages
@@ -368,6 +403,7 @@ Ici on ne peut pas vraiment avoir de lumiere ponctuelle, on va preferer des obje
 ### Amélioration du rendu
 Lancement des rayons depuis l’observateur **ET** depuis les sources lumineuses
 ![[image 25.png]]
+
 On tiens bien compte de la BRDF.
 ### Avantages
 - Facilite la recherche de chemin vers la source lumineuse
@@ -391,7 +427,9 @@ Beaucoup utilisée pour le cinéma
 Un point = un disque de couleur
 Calcul de l’illumination directe de la scène
 ![[image 26.png]]
+
 ![[9ef62f09-9c10-4920-8761-1ec8390d570d.png]]
+
 ### Calcul de l’illumination globale
 Calcul de la contribution des points sur un point :
 - Pour les points éloignés
@@ -402,6 +440,7 @@ Calcul de la contribution des points sur un point :
     - Utilisation directe du disque
   
 ![[image 27.png]]
+
   
 
 > [!important] Algorythme utilisé dans Pirate des Caraïbes

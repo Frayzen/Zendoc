@@ -3,6 +3,7 @@ title: Proofs
 Owner: "Florian "
 ---
 ![[Theorems_proof_Sequences_of_functions_English.pdf]]
+
 Proofs remember:
 1) Sup
 2) put everything in 1 equation

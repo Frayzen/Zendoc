@@ -66,6 +66,7 @@ $\oint_{\mathcal{C}}A \cdot dl = \iint_S(\nabla \land A) \cdot dS$
 - states that the total circulation along $\mathcal{C}$ is equal to the total ciculation in the closed surface
 - this is because any curl inside the surface will be canceled out by another except for those on the red line
 ![[image 12.png|image 12.png]]
+
 - $A$ is the vector field
 - $\mathcal{C}$ is the red contour
 - $dl = dxe_x +dye_y +dze_z$ = small line segment of $\mathcal{C}$
@@ -75,6 +76,7 @@ $\oint_{\mathcal{C}}A \cdot dl = \iint_S(\nabla \land A) \cdot dS$
 $\oiint_SA \cdot dS = \iiint_V(\nabla \cdot A)dV$
 - the total outward flux of a vector field through a closed surface is equal to the total divergence of that field throughout the volume it encloses.
 ![[image 1 5.png|image 1 5.png]]
+
 - $S$ is the surface of the sphere
 - $A$ is the vector field
 - $V$ is the volume of the sphere
@@ -82,6 +84,7 @@ $\oiint_SA \cdot dS = \iiint_V(\nabla \cdot A)dV$
   
 ## 1.1 Sinusoidal Plane Wave
 ![[image 2 5.png|image 2 5.png]]
+
 $E = E_zk - E_msin(ky - wt)k \\E = B_xi - B_msin(ky - wt)i$
 - $c = \lambda f = \frac{\omega}{k}$ with $\omega = 2 \pi f$
   
@@ -99,6 +102,7 @@ $E = E_zk - E_msin(ky - wt)k \\E = B_xi - B_msin(ky - wt)i$
     $v = c$ with the fields in the form:
     
     ![[image 3 2.png|image 3 2.png]]
+
     
   
 ## 2.1 Gauss Theorem
@@ -190,6 +194,7 @@ $E = E_zk - E_msin(ky - wt)k \\E = B_xi - B_msin(ky - wt)i$
 - for example, if $E$ oscilates along the $O_z$ axis, we say the wave has a rectilinear polarizatoin alone $z$
 - the word **rectilinear** indicates that the field is contain the $yz$ or $xz$ planes over time
 ![[image 4 2.png|image 4 2.png]]
+
 - To evaluate polarization, it is necessary to be able to define a  
     specific orientation over time of the end of E.
 - In the absence of such an orientation, the wave is non-polarized.  
@@ -201,6 +206,7 @@ Example of unpolarized light coming from the left and passing through a polarizi
 - When the end of the vector E describes a circle or an ellipse  
     during its rotation over time, we speak of circular or elliptical polarization.
 ![[image 5 2.png|image 5 2.png]]
+
 - The simplest way to polarize light is to use a  
     polarizer.
 - This works like a filter that absorbs a component  
@@ -210,6 +216,7 @@ Example of unpolarized light coming from the left and passing through a polarizi
     called polymers whose alignment direction corresponds to  
     the direction of polarization "allowed" by the polarizer.
 ![[image 6 2.png|image 6 2.png]]
+
 ## 6.1 Malus’ Law
 - Suppose that a polarized light is incident on a  
     polarizer with an irradiance $I_0$.
@@ -225,10 +232,13 @@ Example of unpolarized light coming from the left and passing through a polarizi
 - When the light incident on a polarizer is not polarized, we must calculate the average of Malus' law for all possible orientations.
 - Since the average value of $\cos ^2 \theta$ is equal to $1 / 2$, it follows that half of the incident irradiance is transmitted by the polarizer, i.e. $I_0 / 2$
 ![[image 7 2.png|image 7 2.png]]
+
 - A polarizer is placed in front of a liquid crystal display. The angle between the polarization of the light and the transmission axis is a) $\theta = 0 ^{\circ}$, b) $\theta = 45 ^{\circ}$, c) $\theta = 90 ^{\circ}$
   
   
   
   
 ![[image 8 2.png|image 8 2.png]]
+
 ![[image 9 2.png|image 9 2.png]]
+

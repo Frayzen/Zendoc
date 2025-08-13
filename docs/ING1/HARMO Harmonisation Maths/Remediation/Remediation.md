@@ -3,9 +3,13 @@ title: Remediation
 Owner: "Florian "
 ---
 [[Generalized Integral]]
+
 [[Approximation of functions]]
+
 [[Functions of several variables]]
+
 [[Formalisation Logique]]
+
 ### Piece-wise continuity
 basically we need this to be satisfied at all points of discontinuity:
 $lim_{x \rightarrow c^-} f(x) \in \mathbb{R} \ \ and \ \ lim_{x \rightarrow c^+} f(x) \in \mathbb{R}$

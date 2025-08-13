@@ -10,7 +10,9 @@ Note maximale: 12
 Overall: "0.45"
 ---
 [[Sujet]]
+
 [[Étude de l’influence du pas d’apprentissage sur la convergence de la descente de gradient à pas constant - Salomé Berger]]
+
 # Sujet
 Il est aujourd'hui très facile d'implémenter n'importe quel algorithme de descente, en n'importe quel langage (ChatGPT le fait très bien, encore faut-il avoir les connaissances nécessaire pour s'en assurer...). Les attendus de ce TP ne concernent donc pas la véracité du code que vous aller écrire est correct (car il n'est plus possible d'en garantir la source (sachant que ça n'était déjà pas évident par le passé...)).
 Cependant, la capacité à produire un benchmark de qualité, et surtout à l'analyser de manière rigoureuse et d'en tirer des conclusions pertinentes, reste quand même propre à l'humain.
@@ -42,6 +44,10 @@ Pour chaque benchmark, vous êtes vivement encouragés à mettre en correspondan
 |_**0 points**_|_**1 point**_|
 |La répartition du travail au sein du groupe n'est pas donnée|La répartition du travail au sein du groupe est donnée|
 ![[image 17.png|image 17.png]]
+
 ![[image 1 8.png|image 1 8.png]]
+
 ![[image 2 8.png|image 2 8.png]]
+
 ![[image 3 5.png|image 3 5.png]]
+

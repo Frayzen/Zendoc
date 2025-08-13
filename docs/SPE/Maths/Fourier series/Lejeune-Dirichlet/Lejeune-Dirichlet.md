@@ -10,9 +10,12 @@ This theorem states that if a periodic function has a finite number of maxima an
 > [!important] reminder: when we use this theorem, we must start that f is piece-wise of C^1
 Written as an expression:
 ![[Untitled 25.png|Untitled 25.png]]
+
 # Exercises
 ![[Ex03securise.pdf]]
+
 ## Correction
 ￼  
 Correction
 ![[CorEx03securise.pdf]]
+

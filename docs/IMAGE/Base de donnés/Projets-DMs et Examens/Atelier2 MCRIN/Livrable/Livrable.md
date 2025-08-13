@@ -183,10 +183,12 @@ Léa veut appeler l’infirmière car elle a mal au ventre.
 - Elle se tourne vers l’écran et tire la langue pour lancer la séquence d’activation.
 - Le menu principal s’ouvre
 ![[image 107.png|image 107.png]]
+
 - Avec ses yeux elle séléctionne l’option “_Douleur_” notifier par le logo: 🩹 et confirme (clique) en haussant des sourcil
 - Elle pose la souris sur le ventre du diagramme suivant et hausse les sourcil pour indiquer le lieux de sa douleur
     
     ![[Capture-d-e-cran-2017-10-03-a-15.35.48_w715h1050.png]]
+
     
 - L’infirmière recois une notification l’informant que Léa à mal au ventre.
 - L’écran confirme l’arrivé de l’infirmière en affichangt ansi qu’en emettant un message vocal: “L’infimière _nom de l’infimière_ arrive”

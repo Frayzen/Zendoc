@@ -3,10 +3,13 @@ title: Patterns for Languages
 Owner: Tim Pearson
 ---
 ![[Untitled 56.png|Untitled 56.png]]
+
 ### syntactic sugar
 ![[Untitled 1 35.png|Untitled 1 35.png]]
+
 ## Rational Languages
 ![[Untitled 2 25.png|Untitled 2 25.png]]
+
 - Intuitively, a language is rational if and only if there exists a regular expression whose language is L.
 - By inductive definition, union, + and * also rational but not intersection and complement
 - **==undecidable languages not rational.==**
@@ -25,3 +28,4 @@ Owner: Tim Pearson
 - COMMON EQUIVALENTS
     
     ![[Untitled 3 19.png|Untitled 3 19.png]]
+

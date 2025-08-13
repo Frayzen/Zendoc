@@ -8,6 +8,7 @@ re:
   - "[[Introduction à la synthèse d’image]]"
 ---
 ![[image 20.png|image 20.png]]
+
   
 ### Qu’est ce que la synthèse d’image
 Modéliser la forme, l’apparence et les mouvements du monde réel ou d’objets imaginaires avec un ordinateur.

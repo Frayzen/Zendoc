@@ -12,3 +12,4 @@ title: Benchmark CPU
 |`filter_impl_frame_diff`|1700|4810.40|2.83|2.72|0.22|5.41|0.42|
 ---
 ![[image 109.png|image 109.png]]
+

@@ -3,6 +3,7 @@ title: Lesson 1
 Owner: Matcha
 ---
 [[ING1/CPPA Advanced C++/Lesson 1/Introduction|Introduction]]
+
 ## Rule o 0/3/5
 If your class defines ANY of Destructor/Copy Constructor/Copy Assign-ment/(Move Constructor/Move Assignment) it must define ALL. Preferable, you need none of them.
 ```C++
@@ -13,11 +14,13 @@ my_class& operator=(my_class&& rhs)
   
 ## lvalue vs rvalue
 ![[Untitled 60.png|Untitled 60.png]]
+
 **lvalue:** A variable
 **prvalue:** Expression returning an object
 **xvalue:** A variable marked temporary by std::move
 ### Move assignment: Stealing assignment
 ![[Untitled 1 38.png|Untitled 1 38.png]]
+
   
 ```C++
 class my_class{

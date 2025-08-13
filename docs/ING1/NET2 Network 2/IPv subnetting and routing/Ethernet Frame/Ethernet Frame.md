@@ -5,6 +5,7 @@ Owner: "Florian "
 # Overview
 The data sent over a network needs to be ordered in order for the communication to happen correctly. Therefore, the **Ethernet frame** represents the basic unit of transmitted data. A single frame is rarely enough to send complex information. We subdivide the initial data in as many frame as needed.
 ![[Untitled 127.png|Untitled 127.png]]
+
 - There are 7 bytes of preambles (_10101010 repeated 7 times_), then one byte of Start Frame Delimiter (_10101011_).
 - MAC Addresses: each computer is represent by a unique address called a mac address. It is a unique identifier associated with each physical interface. The MAC address is provided by the brand that built the physical device and cannot be changed by the PC user.
     
@@ -24,3 +25,4 @@ The data sent over a network needs to be ordered in order for the communication 
     
 - There is an InterPacket Gap of 12 bytes after each frame. The IPG is a short period of idle time between successive packets on an Ethernet network. It ensures proper timing andsynchronization between frames, allowing network devices to process and prepare for the next frame.
 - [[Payload]]
+

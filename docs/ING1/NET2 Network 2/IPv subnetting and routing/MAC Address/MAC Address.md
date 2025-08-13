@@ -23,6 +23,7 @@ ip link # or ip l
 > **lo** interface. It stands for “_loopback_”. It is a dummy interfaceip
 Here is an explanation of the output of the command:
 ![[Untitled 130.png|Untitled 130.png]]
+
 - MTU stands for Maximum Transmission Unit, and it refers to the largest size of a packet or frame, in bytes, that can be sent in a single network layer transaction.
 - Status can be of several types. It provides information about the relation between the computer and the physical interface.
     - Here is the list of all the possible status

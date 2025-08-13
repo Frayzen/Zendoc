@@ -3,6 +3,7 @@ title: Isomorphism
 Owner: Tim Pearson
 ---
 ![[Untitled 99.png|Untitled 99.png]]
+
   
 
 > [!important] ≅ → isomorphic relation
@@ -14,8 +15,10 @@ Owner: Tim Pearson
 - same vertex degree distribution (histogram)
     
     ![[Untitled 1 67.png|Untitled 1 67.png]]
+
     
     ![[Untitled 2 48.png|Untitled 2 48.png]]
+
     
 - must have isomorphic subgraphs
     - be careful : all edges vertices must be in the V set

@@ -3,6 +3,7 @@ title: What is a Compiler
 Owner: Tim Pearson
 ---
 [[Keywords]]
+
 ### Compiler Definition
 A compiler is a program that accepts as input a program text in a certain language and produces as output a program text in another language, while preserving the meaning of that text
 
@@ -10,6 +11,7 @@ A compiler is a program that accepts as input a program text in a certain langua
   
 ## Coarse-grained steps in GCC
 ![[Untitled 91.png|Untitled 91.png]]
+
 Actually between 50 and 60 steps (see later)
 ### Processor
 source code → source code (multiple file to multiple file)

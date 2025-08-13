@@ -17,21 +17,32 @@ Think of the kernel as the "traffic cop" that keeps everything running smoothly 
 The remainder of the operating system is called **system programs**.
 # Communication
 [[Communication Kernel - Program]]
+
 [[Standards]]
+
 # Structures and components
 [[ING1/OS Operating System/Kernel/Process/Process|Process]]
+
 [[Security]]
+
 [[Scheduler]]
+
 # Memory
 [[Filesystem]]
+
 [[File Signatures]]
+
 [[RAM management]]
+
 [[Long-Term Storage]]
+
 # Types of Kernel
 ## Monolithic
 A monolithic kernel is a type of operating system kernel that combines the functionality of various system components into a single, large, and cohesive unit. In a monolithic kernel, the core operating system services, device drivers, file system management, and other essential functions all run together as a single program in kernel mode
 ![[Untitled 112.png|Untitled 112.png]]
+
 ![[Untitled 1 79.png|Untitled 1 79.png]]
+
 - All core operating system functions and services are tightly integrated into a single kernel program.
 - Device drivers and system services are part of the same kernel space.
 - Communication between kernel components is efficient but lacks modularity.
@@ -39,7 +50,9 @@ A monolithic kernel is a type of operating system kernel that combines the funct
   
 ## Micro
 ![[Untitled 2 58.png|Untitled 2 58.png]]
+
 ![[Untitled 3 44.png|Untitled 3 44.png]]
+
 - Micro kernels keep the core functions of the operating system small and minimal.
 - Most device drivers and system services run as separate processes in user mode, outside the kernel.
 - Micro kernels aim to be more modular, allowing for easier extensibility and system stability. However, they may have some performance overhead due to inter-process communication.

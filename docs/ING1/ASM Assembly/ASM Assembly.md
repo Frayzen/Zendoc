@@ -4,9 +4,12 @@ Owner: Matcha
 ---
 [[Compilation Process]]
 
+
 [[Cheeky Definitions]]
 
+
 [[Cat imp]]
+
 
 ## Intel Manual
 Volumes
@@ -28,13 +31,17 @@ They are used as source and destination for most of our operands
 
 > [!important] All CPUs have registers but names can differ
 ![[Untitled 18.png|Untitled 18.png]]
+
 ![[Untitled 1 8.png|Untitled 1 8.png]]
+
 ![[Untitled 2 4.png|Untitled 2 4.png]]
+
 - The current instruction (a pointer to the instruction stored in the RAM) is stored in the program counter register or **RIP**.
 - The stack pointer **SP** represent the top of the stack. It increments as it grows and decrements as it diminishes.
   
 There exists other registers such as **control register**.
 ![[Untitled 3 4.png|Untitled 3 4.png]]
+
 - rax → Accumator (but also normally has the return of a function)
 - rbx →callee saved, frame pointer or base pointer for memory access
 - rcx → counter

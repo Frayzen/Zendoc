@@ -29,6 +29,7 @@ Each [[ING1/OS Operating System/Kernel/Process/Process|Process]] has a state to 
 > _runnable_” processes in order to perform a context switching and let it run.
   
 ![[Untitled 135.png|Untitled 135.png]]
+
 - State New: The process has just been created and is not fully loaded in memory yet.
 - State ready: The process is waiting to be run
 - State running: The process is currently running

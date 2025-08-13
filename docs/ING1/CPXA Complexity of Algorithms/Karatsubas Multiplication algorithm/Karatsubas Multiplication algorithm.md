@@ -10,11 +10,15 @@ Can multiply 2 polynomes of degree $n$ in $\Theta (n^{log_2(3)})$ operations
   
   
 ![[Untitled 47.png|Untitled 47.png]]
+
 At this point you would think we need 4 recursive calls however **ad + bc** can be computer with one recursive call.
 ![[Untitled 1 27.png|Untitled 1 27.png]]
+
 ![[Untitled 2 18.png|Untitled 2 18.png]]
+
 ## Using Mod
 ![[Untitled 3 14.png|Untitled 3 14.png]]
+
 ## Using Arrays
 ```Objective-C
 def karatsuba(A, B, n):
@@ -48,3 +52,4 @@ print(result)
   
 ## Complexity
 ![[Untitled 4 11.png|Untitled 4 11.png]]
+

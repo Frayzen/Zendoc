@@ -17,6 +17,7 @@ In a compiler we have a lot of AST transversal :
   
 ## Inheritence problems
 ![[Untitled 94.png|Untitled 94.png]]
+
 Too much methods, need to implement a lot of things
 Obfuscate AST classes  
 ⇒ hard to maintain  
@@ -28,6 +29,7 @@ Spread traversal code into multiple files ⇒ Error-prone
 # External processing
 Get out of the AST everything that is not directly in correlation with the AST
 ![[Untitled 1 65.png|Untitled 1 65.png]]
+
   
 ## Why not using “<<”
 ```C++

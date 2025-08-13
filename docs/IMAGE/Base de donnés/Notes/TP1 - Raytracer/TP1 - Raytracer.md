@@ -8,5 +8,6 @@ Supports:
   - "[[isim_tp1.pdf]]"
 ---
 ![[d4e9bad2-83bb-409f-8517-742791f836b7.png]]
+
   
 [Ray Tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)

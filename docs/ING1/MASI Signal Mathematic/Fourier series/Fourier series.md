@@ -9,6 +9,7 @@ sum of the responses that would have been caused by each excitation taken indivi
 _i.e : a complex vibrating phenomenon can be decomposed as a linear superposition of much simpler vibrating phenomena._
 ![[Untitled 42.png|Untitled 42.png]]
 
+
 > [!important] It is the base of the Fourier seies
   
 ## Piecewise continuity

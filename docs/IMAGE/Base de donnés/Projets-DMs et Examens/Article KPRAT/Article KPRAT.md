@@ -10,7 +10,9 @@ Note maximale: 20
 Overall: "0.65"
 ---
 ![[007.pdf]]
+
 ![[instructions_KPRAT_2025_(1).pdf]]
+
   
 
 > Cet article s’intéresse à l’interpolation d’images pour les vidéos d’animation, un sujet encore peu exploré dans la littérature, contrairement aux vidéos naturelles.

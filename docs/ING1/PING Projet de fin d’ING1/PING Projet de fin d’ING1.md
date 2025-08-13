@@ -4,16 +4,25 @@ Owner: Tim Pearson
 ---
   
 [[Deliverables]]
+
 # Scrum
 [[Sprint review]]
+
 [[Product Backlog]]
+
 [[Tasks]]
+
 # Planning
 [[Meetings]]
+
 [[Brainstorming]]
+
 [[Email]]
+
 [[Book of Specifications]]
+
 [[Secrets]]
+
 # Ideas
 - Popup inactive
 - Showing off

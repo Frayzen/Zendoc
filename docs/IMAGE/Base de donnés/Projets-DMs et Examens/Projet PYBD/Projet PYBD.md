@@ -41,3 +41,4 @@ SELECT DISTINCT * FROM daystocks WHERE cid = 35 AND date BETWEEN '06/01/2020' AN
     • on doit pouvoir choisir plusieurs actions pour afficher leurs cours comme ci-dessus mais avec une couleur par action (pensez à la légende qui permet de désélectionner un cours)
   
 [[PYBD]]
+

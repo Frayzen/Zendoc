@@ -15,8 +15,10 @@ Owner: Tim Pearson
 - the answer is false xox
   
 [[Types of ISA]]
+
 ### CPU (central processing unit)
 - not “computer processing unit”, don’t be a [[Timvocab]]
+
 - brain of the computer
 - responsible for executing instructions and calculations
 - fetches instructions from memory
@@ -42,6 +44,7 @@ Owner: Tim Pearson
 - ==found in x86-64-psABI-1.0.pdf manual page 61:==
     
     ![[Untitled 113.png|Untitled 113.png]]
+
     
 ## State of the preceding operation RFLAGS
 - called EFLAGS in 32 archi
@@ -53,3 +56,4 @@ Owner: Tim Pearson
 5. ==**Parity Flag (PF)**==**:** Set if the number of set bits in the result is even.
 6. ==**Auxiliary Carry Flag (AF)**==**:** Used for binary-coded decimal (BCD) arithmetic.
 ![[Untitled 1 80.png|Untitled 1 80.png]]
+

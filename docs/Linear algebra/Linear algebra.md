@@ -19,6 +19,7 @@ $\mathcal{M}_2 ( \mathcal{M}_1 \vec{v} )$
 # **Determinant**
 [https://youtu.be/Ip3X9LOh2dk](https://youtu.be/Ip3X9LOh2dk)
 ![[image.png]]
+
 - The **absolute value** of the determinant of a linear transformation defines how much the unit square area changes. In the new basis.
 - The **sign** of the determinant defines if the space has been "inverted" as if the $\vec{x}$ is still on the right side ($< 180 \degree$) of $\vec{y}$. In three dimension, it check that the "**thumb rule**" still apply
 It is defined as $a \times d + c \times d$.

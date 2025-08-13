@@ -14,5 +14,8 @@ $lim_{n\to+\infty} \int_If_n(x)dx = \int_If(x)dx$
 |e^(at)|0|inf|<1|
 |e^(at)|0|- inf|>1|
 ![[Untitled 173.png|Untitled 173.png]]
+
 ![[Untitled 1 118.png|Untitled 1 118.png]]
+
 ![[Untitled 2 84.png|Untitled 2 84.png]]
+

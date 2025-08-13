@@ -16,17 +16,24 @@ Owner: "Florian "
 
 [[GISTRE/VHDL/Introduction]]
 
+
 [[Fundamentals of the language]]
+
 
 [[GISTRE/VHDL/Process/Process]]
 
+
 [[Synchronous - Asynchronous process]]
+
 
 [[Common entities]]
 
+
 [[Types]]
 
+
 ![[questions.pdf]]
+
 
 # Definitions
 **combinatoire**: toutes les sorties sont defnies dans tout les cas

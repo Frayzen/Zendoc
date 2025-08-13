@@ -16,6 +16,7 @@ C -> D
 The transitive closure of vertex A is `**{B, C, D}**`, because there is a path from A to B, B to C, and C to D. Similarly, the transitive closure of vertex B is `**{C, D}**`, and the transitive closure of vertex C is `**{D}**`.
 # Pseudocode
 ![[Untitled 34.png|Untitled 34.png]]
+
 # ChatGPT implementation
 ```Python
 from queue import Queue
@@ -38,3 +39,4 @@ def warshall_algorithm(graph):
 ```
 ## To get a list of CCs:
 ![[Untitled 1 18.png|Untitled 1 18.png]]
+

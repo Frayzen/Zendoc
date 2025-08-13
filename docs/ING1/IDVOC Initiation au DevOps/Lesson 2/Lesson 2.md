@@ -4,6 +4,7 @@ Owner: Tim Pearson
 ---
 ## YAML
 ![[Untitled 109.png|Untitled 109.png]]
+
 ## Usage
 - the usage of **key: &value** is called an anchor. It le’s allow the mapping under the value to be referenced value later on.
 - the usage of **key: *common** is called a reference. It let’s one to reference an anchor. Some values can be _added_ or _override_.
@@ -39,4 +40,6 @@ key4: fr
   
 [https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
 [[Wooclap]]
+
 [[Docker]]
+

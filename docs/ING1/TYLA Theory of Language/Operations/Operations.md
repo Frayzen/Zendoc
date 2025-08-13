@@ -24,6 +24,7 @@ $k \space \epsilon \space \aleph \newline w^k = w \cdot w \cdot w ...\text{(k ti
 - test
     
     ![[Untitled 55.png|Untitled 55.png]]
+
     
   
   
@@ -41,5 +42,7 @@ $A^c=\sum / A = \overline{A}$
 - ==TEST==
     
     ![[Untitled 1 34.png|Untitled 1 34.png]]
+
     
 ![[Untitled 2 24.png|Untitled 2 24.png]]
+

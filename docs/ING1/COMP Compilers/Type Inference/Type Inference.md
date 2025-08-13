@@ -61,6 +61,7 @@ Throughout the process, a type environment is maintained which records the types
 let a := 1 in a + 3 end
 ```
 ![[Untitled 95.png|Untitled 95.png]]
+
 Step 1. Fill Gamma. $\Gamma :\{a:int\}$
 Step 2. Apply type inference :
 $\frac{\frac{\Gamma \vdash a:\text{ int }\ \vdash 3:\text{ int}}{\Gamma\vdash a+3:\text{ int}}}{\Gamma\vdash\ \text{let}\ a:=1\text{ in }a+3\text{ end}:\text{int}}$

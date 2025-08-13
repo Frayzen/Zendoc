@@ -20,11 +20,13 @@ Les GPU (Graphics Processing Units) ont évolué des processeurs graphiques des 
 ## Pourquoi Utiliser les GPU ?
   
 ![[image 91.png|image 91.png]]
+
 ### 1. **Développement Mobile : Optimisation de l'Énergie**
 - Les GPU sont plus efficaces que les CPU pour les tâches graphiques et parallèles.
 - Réduit la consommation d'énergie, crucial pour l'autonomie des smartphones.
 - **Exemple** : Jeux mobiles où le GPU gère les calculs graphiques, laissant le CPU inactif.
 ![[image 1 24.png|image 1 24.png]]
+
 ### 2. **Big Data : Traitement de Données Massives**
 - Les GPU traitent des milliers de threads simultanément, idéal pour les grands ensembles de données.
 - **Exemple** : Algorithmes de machine learning (TensorFlow, PyTorch) optimisés pour GPU.
@@ -47,6 +49,7 @@ Les GPU (Graphics Processing Units) ont évolué des processeurs graphiques des 
 - **Vertex Shaders** : Transformations de vertex en virgule flottante 32 bits.
 - **Texturage Configurable** : Combinateurs de registres.
 ![[ikonas.mp4]]
+
 ### Applications Précoces
 - **Hoff (1999)** : Diagrammes de Voronoi sur NVIDIA TNT2.
 - **Larsen & McAllister (2001)** : Multiplication de matrices (8 bits).
@@ -58,6 +61,7 @@ Les GPU (Graphics Processing Units) ont évolué des processeurs graphiques des 
 - **Pixel Shaders** : Effets de texture et éclairage réalistes.
 - **Impact** : Base pour les GPU programmables modernes.
 ![[738-front.jpg]]
+
   
 ---
 ## L'Ère de la Virgule Flottante (2003)
@@ -70,6 +74,7 @@ Les GPU (Graphics Processing Units) ont évolué des processeurs graphiques des 
 - **FFT** : Transformée de Fourier rapide (Moreland et Angel, 2003).
 - **Brook for GPUs** : Langage de haut niveau (Buck et al., 2004).
 ![[s-l1200.jpg]]
+
   
 ---
 ## L'Explosion du GPGPU (2006)
@@ -94,6 +99,7 @@ Les GPU (Graphics Processing Units) ont évolué des processeurs graphiques des 
 - **Contraintes** : Temps réel et consommation d'énergie.
 - **Exemple** : Étiquetage de scènes avec apprentissage hiérarchique (Farabet et al., 2013).
 ![[image 2 24.png|image 2 24.png]]
+
   
 ---
 ## Conclusion
@@ -124,7 +130,9 @@ Les processeurs deviennent super-scalaires :
 - … la quantité de données à traiter a explosé !
 Il nous faut une autre façon de concevoir la « vitesse ».
 ![[image 3 21.png|image 3 21.png]]
+
 ![[image 4 20.png|image 4 20.png]]
+
   
 ---
 ## **Exemple : La chaîne de montage des burgers 🍔**
@@ -136,19 +144,23 @@ Un bon exemple de parallélisme est une chaîne de production de sandwiches :
 1. **Latence** (MIMD collaboratif) : plusieurs personnes travaillent **ensemble** sur le même sandwich.
     
     ![[image 5 20.png|image 5 20.png]]
+
     
 2. **Débit** (MIMD horizontal) : chaque personne fait son propre sandwich.
     
     ![[image 6 19.png|image 6 19.png]]
+
     
 🔎 **Illustration avec différentes formes de parallélisme :**
 - **Pipeline (MIMD vertical)** : chaque travailleur exécute une étape spécifique de la préparation en séquence.
     
     ![[image 7 18.png|image 7 18.png]]
+
     
 - **SIMD (DLP - Data Level Parallelism)** : un travailleur avec plusieurs bras fait plusieurs sandwiches simultanément.
     
     ![[image 8 16.png|image 8 16.png]]
+
     
 
 > [!important] Temps pour faire 1 sandwitch : $\frac{s}{4}$ (400% de speed-up)
@@ -162,7 +174,9 @@ L'évolution des processeurs suit une tendance :
 - **Utilisation d’instructions vectorielles (SIMD)**.
 **Exemple d’évolution des processeurs Intel Xeon** :
 ![[image 9 16.png|image 9 16.png]]
+
 ![[image 10 15.png|image 10 15.png]]
+
 **Tendance clé** :
 - **Performance unitaire en baisse** (les cœurs sont moins rapides individuellement).
 - **Performance globale en hausse** (grâce à l’augmentation du nombre de cœurs).
@@ -172,6 +186,7 @@ L'évolution des processeurs suit une tendance :
 ## **Comparaison CPU vs GPU**
   
 ![[image 11 14.png|image 11 14.png]]
+
 - **Les CPU** sont optimisés pour la **latence** (exécution rapide de tâches séquentielles).
 - **Les GPU** sont optimisés pour le **débit** (exécution massive de tâches parallèles).
 ### **Exemple d’application :**
@@ -194,16 +209,20 @@ Exemple avec $P = 80%$ (80% du code parallélisable) :
 - **Si** $N → ∞$ **(cœurs infinis)**, le **speedup maximal** est **5x**.
 - **Si** $N = 4$, le **speedup est limité** par la partie séquentielle restante.
 ![[image 12 14.png|image 12 14.png]]
+
 ### Optimisé pour la Latence - Multi-coeur CPU
 👎 Mauvaises performances sur les portions parallèles
 ![[image 13 14.png|image 13 14.png]]
+
 ### Optimisé pour le débit - GPU
 👎 Mauvaises performances sur les portions parallèles
 ![[image 14 14.png|image 14 14.png]]
+
 ### Hétérogène - CPU + GPU
 👍 Utilisez le bon outil pour chaque tâche.
 👍 Permet une optimisation agressive de la latence ou du débit.
 ![[image 15 14.png|image 15 14.png]]
+
 ### **Conclusion :**
 Une approche hybride **CPU + GPU** permet d'optimiser à la fois la latence et le débit.
   
@@ -228,6 +247,7 @@ Les GPU (Graphics Processing Units) et CPU (Central Processing Units) sont conç
   
 ### CPU : Low-Latency
 ![[image 16 14.png|image 16 14.png]]
+
 - **Optimisé pour** : Exécution rapide de tâches séquentielles complexes
 - **Caractéristiques clés** :
     - Moins d'unités de calcul (ALU) mais très performantes
@@ -238,6 +258,7 @@ Les GPU (Graphics Processing Units) et CPU (Central Processing Units) sont conç
 ==**Exemple :**== ==Intel i7 (8 ALUs, 4 cœurs physiques)==
 ### GPU : High-Throughput
 ![[image 17 14.png|image 17 14.png]]
+
 - **Optimisé pour** : Traitement parallèle massif de données
 - **Caractéristiques clés** :
     - Centaines d'ALUs simples
@@ -282,6 +303,7 @@ _==→ 32 additions exécutées en parallèle si warp complet==_
   
 ### CPU : Approche Traditionnelle
 ![[image 18 14.png|image 18 14.png]]
+
 CPU core
 - **Stratégie** :
     - Cache hierarchy réduisant les accès mémoire
@@ -294,6 +316,7 @@ CPU core
     
 ### GPU : Parallélisme Massif
 ![[image 19 14.png|image 19 14.png]]
+
 GPU SMP (Streaming Multiprocessor)
 - **Stratégie** :
     - Exécuter d'autres warps pendant les accès mémoire
@@ -314,7 +337,9 @@ Nombre moyen de clients :
 $\text{Concurrency} = \text{Throughput} × \text{Latency}$
 → Un GPU nécessite des milliers de threads actifs pour saturer sa bande passante.
 ![[image 20 13.png|image 20 13.png]]
+
 ![[image 21 12.png|image 21 12.png]]
+
   
   
 ---

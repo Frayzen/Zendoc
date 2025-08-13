@@ -38,12 +38,14 @@ There are 5 cities. The cost of building a road directly between i and j is the 
 - Answer
     
     Yes, see [[SPE/Algo/Algorithms/Shortest path/Shortest path]]
+
     
   
 - Does [[Dijsktra]] algorithm accept circuit ?
 - Answer
     
     Yes, see [[SPE/Algo/Algorithms/Shortest path/Shortest path]]
+
     
       
     
@@ -52,12 +54,14 @@ There are 5 cities. The cost of building a road directly between i and j is the 
 - Answer
     
     Yes, see [[SPE/Algo/Algorithms/Shortest path/Shortest path]]
+
     
   
 - Does [[Bellmann 🔔🧑‍💼]] algorithm accept any cost ?
 - Answer
     
     Yes, see [[SPE/Algo/Algorithms/Shortest path/Shortest path]]
+
     
       
     
@@ -66,3 +70,4 @@ There are 5 cities. The cost of building a road directly between i and j is the 
 - Answer
     
     No, see [[SPE/Algo/Algorithms/Shortest path/Shortest path]]
+

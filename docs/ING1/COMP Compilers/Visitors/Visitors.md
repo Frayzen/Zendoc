@@ -59,9 +59,11 @@ private:
   
 ## Sequence Diagram
 ![[Untitled 81.png|Untitled 81.png]]
+
   
 ## A class diagram: Visitor and Composite Patterns
 ![[Untitled 1 56.png|Untitled 1 56.png]]
+
   
 ### Using operator “<<”
 ```C++

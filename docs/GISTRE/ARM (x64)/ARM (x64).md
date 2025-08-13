@@ -6,12 +6,16 @@ Owner: "Florian "
 >  
 > [https://moodle.epita.fr/course/view.php?id=3991](https://moodle.epita.fr/course/view.php?id=3991)  
 ![[gistre25-arm-1-identifying-a-microcontroller.pdf]]
+
 ![[gistre25-arm-02-the-basic-toolset.pdf]]
+
 # Mounting
 Various type of mounting:
 ![[image 2.png|image 2.png]]
+
 BGA
 ![[image 1.png]]
+
 TQFP
 Another process associated with the mounting is the **bounding (**[https://en.wikipedia.org/wiki/Wire_bonding](https://en.wikipedia.org/wiki/Wire_bonding))
 # What’s on the board
@@ -25,6 +29,7 @@ Why are the other components so hard to find ?
 [https://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/14/devicemarkingconventions.pdf](https://e2e.ti.com/cfs-file/__key/communityserver-discussions-components-files/14/devicemarkingconventions.pdf)
 ## Example
 ![[image 2 2.png|image 2 2.png]]
+
   
 **Rigol DS1054Z oscilloscope**
 - Actel ProASIC3 A3P030 VQG100 – FPGA – Link
@@ -84,10 +89,13 @@ Programming the GPIO is possible thanks to registers. Some register bank is asso
 ## Bank
 The “Pin A-3” means GPIO bank A pin number 3 (0 based counting). Each bank is powered separately and has its own register bank. Thus, each GPIO is operated independently
 ![[image 3.png]]
+
 # Code
 [https://www.st.com/resource/en/reference_manual/dm00031020-stm32f405-415-stm32f407-417-stm32f427-437-and-stm32f429-439-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf](https://www.st.com/resource/en/reference_manual/dm00031020-stm32f405-415-stm32f407-417-stm32f427-437-and-stm32f429-439-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
 ![[image 4.png]]
+
 ![[image 5.png]]
+
   
 **HAL**: Hardware abstraction layer.
 The _main.c_ file is the

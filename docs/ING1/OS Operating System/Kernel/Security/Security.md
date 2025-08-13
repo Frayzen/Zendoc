@@ -6,6 +6,7 @@ Owner: "Florian "
 Hardware supports **security mechanisms**
 ## Privilege level
 ![[Untitled 136.png|Untitled 136.png]]
+
 Imagine computer security like a building with different security levels
 Rings represent different levels of access or privilege in a computer. The lower the ring, the less control and access you have. It's a way to keep the most critical parts of the computer (kernel) safe and separate from regular programs.
 

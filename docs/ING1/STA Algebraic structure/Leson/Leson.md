@@ -3,11 +3,17 @@ title: Leson
 Owner: Florian
 ---
 [[Properties]]
+
 [[Groups]]
+
 [[ING1/STA Algebraic structure/Leson/Ring/Ring]]
+
 [[ING1/STA Algebraic structure/Leson/Field]]
+
 [[Euclidean Domain]]
+
 [[Quotients of Rings]]
+
   
 #### Algebraic Strucutres
 |Structure|![](https://www.notion.so/icons/mathematics_gray.svg)Closure|![](https://www.notion.so/icons/mathematics_gray.svg)Associativity|![](https://www.notion.so/icons/mathematics_gray.svg)Commutativity|![](https://www.notion.so/icons/mathematics_gray.svg)Symetrizability / Inverses|![](https://www.notion.so/icons/mathematics_gray.svg)Neutral element|![](https://www.notion.so/icons/mathematics_gray.svg)Unique inverse (non null)|![](https://www.notion.so/icons/mathematics_gray.svg)Distributivity|No Zero Divisors|

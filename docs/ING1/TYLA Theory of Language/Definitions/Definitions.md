@@ -21,8 +21,10 @@ A language L over an alphabet Σ is said to be decidable (or recursive) if there
 - Examples
     
     ![[Untitled 57.png|Untitled 57.png]]
+
     
     ![[Untitled 1 36.png|Untitled 1 36.png]]
+
     
 - another definition:
     - the algorithm will reject words in L and reject words not in L
@@ -43,3 +45,4 @@ input w ∈ Σ ∗ :
 ### [Determinism](https://www.notion.so/4d1bf63a9b974e64b13b8ad5e70a8519?pvs=21) link
   
 ![[Untitled 2 26.png|Untitled 2 26.png]]
+

@@ -17,9 +17,16 @@ Presentation PING
 > ”Ca s’appelle une license…”
   
 [[ING1/CPT Conception/Notes]]
+
 [[Acculturation]]
+
 [[Get in empathy]]
+
 [[ING1/CPT Conception/Definition|Definition]]
+
 [[Ideation]]
+
 [[Prototype & Tests]]
+
 [[Storytelling]]
+

@@ -107,6 +107,7 @@ Pourtant, certaines idées ont une **valeur économique considérable** (concept
 Ainsi, le droit refuse de privatiser l’idée brute, mais permet d’en contrôler l’accès **par des mécanismes contractuels**. Une fois révélée publiquement, elle échappe définitivement à son créateur.
 ### Moment crutial
 ![[image 101.png|image 101.png]]
+
 - À compter du moment « t », l’idée devient une œuvre protégeable, même non achevée l’œuvre est protégeable
 - Grande difficulté à déterminer ce moment « t »
 - Moment « t » souvent déterminant pour apprécier s’il y a reproduction interdite
@@ -184,6 +185,7 @@ Cela dit, les procédures sont très longues. On va parfois être dans des situa
 # Les titulaires des droits
 ## L’auteur individuel
 ![[image 1 33.png|image 1 33.png]]
+
 Le droit des brevets donne toujours droit au salarie a une remuneration complementaire dans le cas de la deposition d’un brevet par l’entreprise d’une invention trouvee par le salarie.
 ### Création en dehors de tout contrat
 Ce cas est le plus simple puisque cet auteur est seul titulaire de l’ensemble des droits,  
@@ -227,6 +229,7 @@ La cessation de propriété intelectuelle doit être mentionnée dans le contrat
   
 ## La pluralité d’auteurs
 ![[image 2 33.png|image 2 33.png]]
+
 ### Trois hypothèses
 
 > **Article L113-2 du CPI :**_« Est dite de collaboration l’œuvre à la création de laquelle ont concouru plusieurs personnes_  
@@ -356,6 +359,7 @@ C’est un traité international qui a été ratifié par 175 états et qui pose
     sa fixation sur un support.
 3. L’indépendance de la protection : l’œuvre est toujours protégée par la loi de l’État où elle est utilisée.
 ![[image 3 29.png|image 3 29.png]]
+
 ## Contenu du droit d’exploitation
 
 > **Article L122-1 du CPI :** _« Le droit d'exploitation appartenant à l'auteur comprend le droit de représentation et le droit de reproduction. »_

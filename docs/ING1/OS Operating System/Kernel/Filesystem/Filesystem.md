@@ -59,6 +59,7 @@ When we use an inode, it can be said that we **allocate** it. When we stop using
 Directories in fs are represented by tables of directory entries.
 ![[Untitled 138.png|Untitled 138.png]]
 
+
 > [!important] You can have
 > 
 > **mulitple directory entries** pointing to **one inode** ! (_It is called_ **_hardlink_**)  

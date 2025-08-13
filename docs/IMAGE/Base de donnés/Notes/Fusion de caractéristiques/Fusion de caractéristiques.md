@@ -21,16 +21,19 @@ Aussi appelée **fusion de décisions**, cette approche traite **chaque ensemble
 ### **Vote majoritaire**
 consensus, moyenne pondérée
 ![[image 96.png|image 96.png]]
+
   
 ### **Cascade de classifieurs**
 (ex. : Haar cascade)
 ![[image 1 28.png|image 1 28.png]]
+
 ---
   
 # Early Fusion (Fusion précoce)
 ## Définition
 Aussi appelée **fusion de données**, cette approche combine les caractéristiques **avant** toute classification, créant une **représentation unifiée**.
 ![[image 2 28.png|image 2 28.png]]
+
 ## Contraintes :
 - Conversion vers un **espace commun**
 - **Normalisation** des données

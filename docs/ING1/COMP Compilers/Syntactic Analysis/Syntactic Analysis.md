@@ -5,6 +5,7 @@ Owner: Matcha
 ### What is it for ?
 Check that a text (stream of token) is valid according to a given grammar
 ![[Untitled 88.png|Untitled 88.png]]
+
   
 ==We can’t just use regex==
   
@@ -32,8 +33,10 @@ the rightmost non-terminal symbol is always expanded
 ## Ambiguous Grammar
 If we can derive two different parse tree for a sentence
 ![[Untitled 1 61.png|Untitled 1 61.png]]
+
 # Predictive parsing
 Recursive descent parser which is able to predict which production rule is used to replace the input string.==⇒ each sub-expression must provide enough information to choose a production rule.==
   
   
 ![[Untitled 2 44.png|Untitled 2 44.png]]
+

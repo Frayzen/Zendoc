@@ -4,8 +4,10 @@ Owner: "Florian "
 ---
 A network frame is made up of several components, including a header, payload, and trailer. These components are organized in a specific structure that allows devices on a network to transmit and receive data efficiently.
 ![[Untitled 145.png|Untitled 145.png]]
+
 # Header
 ![[Untitled 1 98.png|Untitled 1 98.png]]
+
 - Preamble (7 bytes)
     - Known sequence of bits (_10101010 10101010 10101010 10101010 10101010 10101010 10101010 10101011_)
 - SFD (1 byte)

@@ -11,6 +11,7 @@ Le **traitement d'images** est une discipline de l'informatique et des math�
   
 Le traitement d’image touche à plein de domaines.
 ![[image 29.png|image 29.png]]
+
   
 ## Applications
 - Video surveillance

@@ -12,8 +12,13 @@ Owner: Matcha
 70% Project + 30% MCQ
 # Principle Component Analysis (IRIS)
 ![[Iris_PAC.ipynb]]
+
   
 [[Notes from the video]]
+
 [[Supervised Learning]]
+
 [[Medical classification Project]]
+
 [[NN Maths]]
+

@@ -5,9 +5,12 @@ Owner: "Florian "
 The purpose of Kruskal's algorithm is to find a minimum spanning tree in a connected, weighted graph. A minimum spanning tree is a tree that spans all the vertices in the graph, using the minimum possible total edge weight. Kruskal's algorithm works by starting with a forest of single-vertex trees and repeatedly adding the minimum-weight edge that connects two trees in the forest, until all the vertices are in a single tree. The algorithm maintains a set of disjoint sets of vertices, and uses a priority queue to extract the minimum-weight edges. Kruskal's algorithm has a time complexity of O(E log E), where E is the number of edges in the graph, making it an efficient way to find a minimum spanning tree in large graphs.
 # Pseudocode
 ![[Untitled 117.png|Untitled 117.png]]
+
 ## Example
 ![[Untitled 1 84.png|Untitled 1 84.png]]
+
 ![[Untitled 2 61.png|Untitled 2 61.png]]
+
   
 # To remember
 - initialize basic heap and push all nodes,

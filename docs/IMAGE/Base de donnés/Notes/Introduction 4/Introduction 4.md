@@ -8,6 +8,7 @@ Supports:
   - "[[intro_(1)_compressed.pdf]]"
 ---
 ![[2eda7bb4-c507-4e53-97c3-8cc3bb26b4c6.png]]
+
 # Qu’est ce que l’optimisation
   
 ## Définition mathématique
@@ -55,17 +56,20 @@ Si toutes les fonctions (objective et contraintes) en jeux le sont.
 - Propriété de régularité locale des fonctions.
 - Permet d’introduire des outils mathématiques puissants pour l’étude et la résolution de (opt).
 ![[image 82.png|image 82.png]]
+
 ### Convexe
 Si toutes les fonctions en jeux le sont (les contraintes d’égalité étant de plus affines).
 - Proprité structurelle globale des fonctions.
 - Permet de garantir que la solution trouvée de (opt) est optimale
 ![[image 1 15.png|image 1 15.png]]
 
+
 > [!important] Il existe d’autre manières de définir la convexité d’une fonction que l’on verras plus tard.
 ### Sans contrainte
 S’il n’y a aucune contrainte en jeux $(C = \mathbb{R}^n)$.
 - Permet de construire des algorithmes itératifs se basant sur des propriétés géométriques “simples” pour la résolution de (opt).
 ![[image 2 15.png|image 2 15.png]]
+
 
 > [!important] Dans OCVX1, les probl`emes d’optimisation abord ́es seront :
 > 
@@ -79,23 +83,32 @@ S’il n’y a aucune contrainte en jeux $(C = \mathbb{R}^n)$.
 ## Le voyageur de commerce
 Il s’agit d’un problème très compliqué à résoudre. On ne peut pas y aller par la “force brut”.
 ![[image 3 12.png|image 3 12.png]]
+
 ## Méthode des moindres carrés
 ![[image 4 11.png|image 4 11.png]]
+
 ## Apprentissage statistique / supervisé
 ![[image 5 11.png|image 5 11.png]]
+
 ## L’algorithme du perceptron
 ![[image 6 11.png|image 6 11.png]]
+
 ## Les séparateurs à vaste marge
 On le verra en OCVX2 le semestre prochain car il s’agit d’un problème avec contraintes.
 ![[image 7 10.png|image 7 10.png]]
+
 ## Deep Learning
 ![[image 8 8.png|image 8 8.png]]
+
 ## La diffusion anisotrope (modèle de Perona-Malik)
 ![[image 9 8.png|image 9 8.png]]
+
 ## Les contours actifs (snake model)
 ![[image 10 7.png|image 10 7.png]]
+
 ## Le recalage de nuages de points
 ![[image 11 6.png|image 11 6.png]]
+
   
 # Comment opitmiser
 Quel est le point optimal $x^*$ et la valeur optimale de $f^*$ pour :
@@ -106,6 +119,7 @@ $f'(x)=2x-\frac{3}{2}$
 $f'(x)=0 \Leftrightarrow x=\frac{3}{4}$
 ⇒ Une solution optimale $x^*=\frac{3}{4}$ et $f^*=f(x^*)=\frac{7}{16}$
 ![[image 12 6.png|image 12 6.png]]
+
 ## $f:x\mapsto x^4-2x^2$
 ### 1. Calcul de la derivee
 $f'(x)=4x^3-4x=4x(x^2-1)$
@@ -113,6 +127,7 @@ $f'(x)=4x^3-4x=4x(x^2-1)$
 $f'(x)=0 \Leftrightarrow x\in\{-1,0,1\}$
 ⇒ Deux solution optimale $x^*=±1$ et $f^*=f(x^*)=1$
 ![[image 13 6.png|image 13 6.png]]
+
 
 > [!important] Pour f : R → R, les exemples pr ́ec ́edents montrent qu’on arrive a s’en sortir si on a acces `a la d ́eriv ́ee f ′ puisqu’il “suffit” d’identifier ses z ́eros $\{x ∈ \mathbb{R}\ |\ f ′(x) = 0\}$.
 > 
@@ -137,13 +152,19 @@ Est-ce que la m ́ethode converge ?
 > [!important] **L’objectif d’OCVX1 est de repondre (au moins partiellement) a ces questions.**
 ### Exemple
 ![[image 14 6.png|image 14 6.png]]
+
 On a ici un oracle qui, quand on lui donne un point, nous donne la valeur de la fonction en ce point.
 Etant donne un point initial $x_0$. Comment d ́ecider dans quelle direction partir ( ⬅️ ou ➡️) pour minimiser $f$ ?
 ![[image 15 6.png|image 15 6.png]]
+
 ![[image 16 6.png|image 16 6.png]]
+
 ![[image 17 6.png|image 17 6.png]]
+
 ![[image 18 6.png|image 18 6.png]]
+
 ![[image 19 6.png|image 19 6.png]]
+
 
 > [!important] On part dans la direction ou le taux d’accroissement est negatif.
   
@@ -151,11 +172,14 @@ Etant donne un point initial $x_0$. Comment d ́ecider dans quelle direction par
   
 ## Rappel : le nombre derive
 ![[image 20 6.png|image 20 6.png]]
+
 Cela ne fonctione plus en dimension sup a 1 → infinite de direction possible. (avec tout les angles possible dans R^2).
 ## Algorithme
 L’algorithme de descente de gradient est conceptuellement simple.
 ![[image 21 6.png|image 21 6.png]]
+
 ![[image 22 6.png|image 22 6.png]]
+
 ## Plein de maniere de faire
 La descente de gradient peut ˆetre :
 - A pas fixe / a pas variable / avec backtracking...

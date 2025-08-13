@@ -8,6 +8,7 @@ A scientific approach to solve concrete problems usually complex using mathemati
 Usually Optimization problems (maximization or minimization), constrained, often combinatorial
 ### Examples : Traveling salesman problem (TSP)
 ![[Untitled 69.png|Untitled 69.png]]
+
 **For n cities, how many possible circuits?**
 $\frac{(n-1)!}{2}$ Once you chose a city you have $n-1$ cites tochose from and so on → $(n-1)!$  
 You then divide by $2$ because you can go to the right or the left
@@ -29,6 +30,7 @@ Does $P=NP$ ?
   
 # An Iterative approach
 ![[Untitled 1 45.png|Untitled 1 45.png]]
+
   
 ## Need expression
 Specify the need.
@@ -37,15 +39,18 @@ The problem is not always well defined,and what is asked not always clear.
 ⇒ Make the passengers take a detour to seem like a shorter wait==
 Know what we are optimizing. Is it time, distance…
 ![[Untitled 2 32.png|Untitled 2 32.png]]
+
   
 ## Model
 A model is a representation of reality. Naturally every model is false.  
 A good model is foremost a useful model: It represents well enough reality, with the right granularity
 Choosing a good model depends on what you need.
 ![[Untitled 3 24.png|Untitled 3 24.png]]
+
 ### Model with graph theory and linear programming
 We will see how to formalize and model an optimization problem with the help of graph theory and linear programming.
 ![[Untitled 4 18.png|Untitled 4 18.png]]
+
 Here all the nodes have odd edges so you can’t come back
   
 ## Analysis and validation Tools
@@ -63,6 +68,7 @@ Data visualization (outside of this course scope)
 - Charts  
     
 ![[Untitled 5 12.png|Untitled 5 12.png]]
+
   
 # Problem examples
 ### Shortest path between 2 given points

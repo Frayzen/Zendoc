@@ -6,5 +6,7 @@ Owner: Tim Pearson
 Rational languages are decidable.
   
 ![[Untitled 121.png|Untitled 121.png]]
+
   
 ![[Untitled 1 87.png|Untitled 1 87.png]]
+

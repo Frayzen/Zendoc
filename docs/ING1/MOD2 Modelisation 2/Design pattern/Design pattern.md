@@ -20,19 +20,25 @@ Or in abstraction:
 - Conception
 - Idiom
 ![[Untitled 100.png|Untitled 100.png]]
+
 # Visitor design pattern (CPP)
 ![[Untitled 1 68.png|Untitled 1 68.png]]
+
 This kind of representation has several issues:
 - What if I want to add a new method ? I need to replicate it everywhere
 - There is a lot of code duplicated
     
     ![[Untitled 2 49.png|Untitled 2 49.png]]
+
     
 ### Implementation
 ![[Untitled 3 36.png|Untitled 3 36.png]]
+
 All of the object have to implement the accept method that has as only purpose to call the visitor appropriate visit method
 ![[Untitled 4 27.png|Untitled 4 27.png]]
+
 It is really easy to add more visitor1
 ![[Untitled 5 20.png|Untitled 5 20.png]]
+
 # Visitor design pattern (Lisp)
 TODO

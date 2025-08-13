@@ -24,6 +24,7 @@ Nous enregistrons le **nombre d’itérations nécessaires à la convergence** e
 > _**Figure 1 :** Influence du pas $\alpha$ sur le nombre d’itérations pour différents $x_0$, avec $\gamma = 10$._
 > 
 > ![[image 105.png|image 105.png]]
+
 **Analyse** :
 - Pour $\alpha \ll \alpha_{\text{opt}}$, la convergence est lente.
 - Le minimum du nombre d’itérations est atteint pour $\alpha \approx 0{,}05$, en adéquation avec la théorie.
@@ -37,6 +38,7 @@ Nous avons également représenté la décroissance de $f(x_k) - f(x^\ast)$ en �
 > _**Figure 2 -** Évolution logarithmique de $f(x_k) - f(x^\ast)$ pour différentes valeurs de $\alpha$._
 > 
 > ![[image 1 36.png|image 1 36.png]]
+
 **Analyse** :
 - **Décroissance géométrique linéaire** pour $\alpha < \alpha_{\text{max}}$.
 - Le **meilleur taux** de décroissance est atteint pour $\alpha = \alpha_{\text{opt}}$, avec une pente maximale.
@@ -70,6 +72,7 @@ Nous appliquons la descente de gradient à partir du point initial $x_0 = (5, 5)
 > _**Figure 3** - Trajectoires sur les courbes de niveau de $f(x, y)$ pour différents pas $\alpha$_
 > 
 > ![[image 2 36.png|image 2 36.png]]
+
 **Analyse :**
 - Pour $\alpha = 0.05$, on a une convergence rapide
 - Pour $\alpha = 0.01$, les pas sont trop faibles, et la progression est très lente.
@@ -81,6 +84,7 @@ Ces trajectoires mettent en évidence la **difficulté d’accélérer simultan�
 > _**Figure 4** – Évolution logarithmique de $f(x_k) - f(x^\ast)$_
 > 
 > ![[image 3 32.png|image 3 32.png]]
+
 Cette courbe permet d’évaluer le **taux de décroissance** :
 - Pour $\alpha = 0.05$, la décroissance est **géométrique**, avec une pente constante, en accord avec la théorie.
 - Pour $\alpha = 0.01$, la pente est très faible (presque imperceptible).
@@ -92,6 +96,7 @@ La forme linéaire de la courbe sur une échelle log confirme que la convergence
 > _**Figure 5** - Norme $\|\nabla f(x_k)\|$ pour différents pas_
 > 
 > ![[image 4 30.png|image 4 30.png]]
+
 **Analyse** :
 - Pour $\alpha = 0.05$, la norme du gradient chute rapidement sous le seuil de tolérance.
 - Pour $\alpha = 0.01$, la décroissance est lente.
@@ -124,6 +129,7 @@ Pour chaque cas :
 > _**Figure 6** - Nombre d’itérations jusqu’à convergence selon $\alpha$, pour différents conditionnements._
 > 
 > ![[image 5 29.png|image 5 29.png]]
+
 ### **Analyse :**
 Contrairement aux cas 1D et 2D, aucune divergence brutale n’apparaît. Le comportement est **plus lisse** et **plus réaliste**.
 - **Comportement général :**

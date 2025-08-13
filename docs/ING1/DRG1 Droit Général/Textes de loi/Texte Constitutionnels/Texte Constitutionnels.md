@@ -20,3 +20,4 @@ Dans certains cas, la révision de la Constitution peut être soumise à un réf
   
   
 ![[Untitled 17.png|Untitled 17.png]]
+

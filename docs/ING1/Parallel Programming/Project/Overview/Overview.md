@@ -3,6 +3,7 @@ title: Overview
 Owner: Tim Pearson
 ---
 ![[Untitled 124.png|Untitled 124.png]]
+
   
 ### Part 1: Otsu's Method for Binarization
 1. **Objective**: Implement and benchmark a real-time image binarization algorithm using Otsu's method.

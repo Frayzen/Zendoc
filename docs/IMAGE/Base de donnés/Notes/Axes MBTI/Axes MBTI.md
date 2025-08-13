@@ -9,6 +9,7 @@ Date du cours: 2025-02-28
 Le MBTI (Myers-Briggs Type Indicator) est un outil psychologique qui permet de comprendre les préférences comportementales et les types de personnalité. Il est basé sur les théories de Carl Jung et a été développé par Isabel Briggs Myers et Katharine Cook Briggs. Ce cours vous guidera à travers les différentes dimensions du MBTI et vous aidera à découvrir votre type psychologique.
 ## Les 4 dimensions du MBTI
 ![[9d0f1da6-b248-4690-87d7-5e545933d188.png]]
+
 ### 1. Orientation de l'énergie : Extraversion (E) vs Introversion (I)
 **Extraversion (E)** :
 - Tire son énergie du contact avec les autres.
@@ -93,11 +94,15 @@ Le modèle de Keirsey regroupe les 16 types MBTI en **4 grandes familles de temp
 
 > [!important] Ces familles aident à mieux cerner les **motivations dominantes** et les **styles cognitifs** des types MBTI.
 ![[0_pGLLLljDowjUh9id.png]]
+
   
 # Récapitulatif
 ## Description des 4 axes
 ![[Description_des_4_axes.pdf]]
+
 ## Famille de températment
 ![[Famille_de_tempraments-V2.pdf]]
+
 ## Les 16 types MBTI
 ![[MBTI-16_types-V2.pdf]]
+

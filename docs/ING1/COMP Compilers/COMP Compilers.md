@@ -15,35 +15,60 @@ Owner: Tim Pearson
   
 ### General Introduction
 [[What is a Compiler]]
+
 [[Compiler Construction]]
+
 [[Tiger Language]]
+
 [[Tiger Project]]
+
 [[Development Tools]]
+
   
 ### Development Tools, Syntactic and Lexical Analysis
 [[Lexical Analysis]]
+
 [[Flex]]
+
 [[Syntactic Analysis]]
+
 [[ING1/COMP Compilers/Bison/Bison|Bison]]
+
 [[Coupling Flex and Bison]]
+
 [[Error Recovery]]
+
   
 ### AST and Visitors
 [[AST in C++]]
+
 [[Pretty Printer]]
+
 [[Efficient Transversal]]
+
 [[Visitors]]
+
 [[AST and Visitors in TC]]
+
   
 ### Syntactic Sugar and Binder
 [[Syntactic sugar & Desugaring]]
+
 [[Names, scopes and lifetimes]]
+
 [[Binder]]
+
   
 ### End of Binder, escaping variables, type checking
 [[Overloading]]
+
 [[Further on the Binder]]
+
 [[Escaping variable]]
+
 [[Type Checking]]
+
 [[Type Inference]]
+
 [[Further Type checking]]
+

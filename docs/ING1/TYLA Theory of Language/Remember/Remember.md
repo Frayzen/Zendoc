@@ -51,6 +51,7 @@ Owner: Tim Pearson
     non-determinism.==
     
 ![[Untitled 58.png|Untitled 58.png]]
+
 ## Thompson's:
 - . = 1 x ε
 - rest = 4 X ε

@@ -9,6 +9,7 @@ Chaque **frame** de la vidéo est récupérée avec ses métadonnées temporelle
 ### 2. Estimation du fond (Background Estimation)
 Un **modèle de fond** est généré ou mis à jour dynamiquement à partir des images passées, permettant d’avoir une référence stable pour détecter les changements.
 [[Étape 1- Estimation du Fond (Background Estimation)]]
+
 ### 3. Génération du masque de mouvement
 En comparant la frame courante au fond, un **masque de mouvement brut** est calculé, indiquant les pixels suspects de changement.
 ### 4. Nettoyage du masque (Mask Cleaning)
@@ -16,6 +17,7 @@ Ce masque est ensuite **filtré et raffiné** pour supprimer le bruit, combler l
 - ouverture morphologique
 - seuillage d’hystérésis
 [[Étape 2 - Nettoyage du Masque (Mask Cleaning)]]
+
 ### 5. Détection d’alerte
 Une étape d’analyse permet de **déterminer si un événement significatif** est détecté, sur la base de la quantité ou distribution du mouvement.
 ### 6. Production de la sortie
@@ -23,10 +25,12 @@ Le système émet en sortie une **frame annotée** et un **masque propre** indiq
 ---
 # Benchmark
 [[Benchmark]]
+
 ---
   
   
 [[Brouillon]]
+
 
 > [!info] NVIDIA Nsight Systems  
 > Link to section &#039;NVIDIA Nsight Systems&#039; of &#039;NVIDIA Nsight Systems&#039; NVIDIA Nsight Systems Link to section &#039;Table of Contents&#039; of &#039;NVIDIA Nsig.  

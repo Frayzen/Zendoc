@@ -10,12 +10,14 @@ Note maximale: 20
 Overall: "0.595"
 ---
 [[Projet GPGPU]]
+
 ## Rendus
 1. slides au format PDF
 2. code source, sans binaires ni ressources inutiles, au format .tar.gz ou .zip
 3. rapport au format PDF
   
 ![[Projet_IRGPU-Spring_2024.pdf]]
+
 $\text{Erosion}(p)=min(N(p))$
 $\text{Dilatation}(p)=max(N(p))$
   

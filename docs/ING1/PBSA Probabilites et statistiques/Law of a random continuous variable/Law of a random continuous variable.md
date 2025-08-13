@@ -3,8 +3,10 @@ title: Law of a random continuous variable
 Owner: "Florian "
 ---
 [[Distributions to remember]]
+
 [https://youtu.be/lrJ_2MGDVGc](https://youtu.be/lrJ_2MGDVGc)
 ![[PBS1_EN_CH1_Continuous_distribution.pdf]]
+
   
   
 ## Discrete random variable
@@ -42,6 +44,7 @@ $F: \Biggl\{ \begin{array}{rcl}
 x & \longmapsto & P(X\in ]-\infty,x]) \\  
 \end{array}$
 ![[Untitled 104.png|Untitled 104.png]]
+
   
   
 ## Density function
@@ -61,11 +64,13 @@ Furthermore, the cumulative distribution function $F$ is continuous → $\forall
   
 Which of the functions below define a
 ![[Untitled 1 72.png|Untitled 1 72.png]]
+
 - Correction
     
     **P(0≤X≤0,4) =**
     
 ![[Untitled 2 53.png|Untitled 2 53.png]]
+
 - Corrections
     
     1, 3, 5 and 6
@@ -74,3 +79,4 @@ Which of the functions below define a
   
 # Recap
 ![[Untitled 3 39.png|Untitled 3 39.png]]
+

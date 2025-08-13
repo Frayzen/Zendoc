@@ -18,8 +18,11 @@ _Example: Youtube or Amazon prime is a great example of SAS._
 > B2C: Buisness to customer (_B2P in french_)
 # Lessons
 [[ING1/IDVOC Initiation au DevOps/Leson 1|Leson 1]]
+
 [[ING1/IDVOC Initiation au DevOps/Lesson 2/Lesson 2|Lesson 2]]
+
 [[ING1/IDVOC Initiation au DevOps/Lesson 3/Lesson 3|Lesson 3]]
+
 # Links and resources
 ## Dockerfile
 

@@ -15,6 +15,10 @@ Exam format is the same as TPs (math on paper then Python + Numpy programs)
 ## [Corrections of the exercices](https://www.lrde.epita.fr/~ricou/cama/corrections/)
   
 [[Useful numpy functions]]
+
 [[ING1/CAMA Calcul matriciel/Linear algebra/Linear algebra|Linear algebra]]
+
 [[ING1/CAMA Calcul matriciel/Exercises|Exercises]]
+
 ![[Untitled 14.png|Untitled 14.png]]
+

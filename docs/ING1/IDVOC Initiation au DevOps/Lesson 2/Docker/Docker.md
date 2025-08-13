@@ -34,6 +34,7 @@ Owner: Tim Pearson
   
 ## Container vs VM
 ![[Untitled 125.png|Untitled 125.png]]
+
 - VM uses CPU mechanisms (+ bits of hypervisor)
     - VM needs its own kernel (hardware access)
 - VM can be of different architecture (x86, ARM, RISC-V, …

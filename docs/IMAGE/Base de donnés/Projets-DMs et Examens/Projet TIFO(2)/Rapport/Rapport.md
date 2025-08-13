@@ -3,6 +3,7 @@ title: Rapport
 ---
 
 ![[image 106.png|image 106.png]]
+
 # Method 1: Canny Edge Detector
   
 **🖊️ Description**:
@@ -17,6 +18,7 @@ The algorithm applies Sobel operators in both horizontal and vertical directions
 **Step 3:** Non Maximum Suppression
 Any edges with intensity gradient more than maxVal are sure to be edges and those below minVal are sure to be non-edges, so discarded. Those who lie between these two thresholds are classified edges or non-edges based on their connectivity. If they are connected to "sure-edge" pixels, they are considered to be part of edges. Otherwise, they are also discarded. See the image below:
 ![[image 1 37.png|image 1 37.png]]
+
   
 ✅ **Advantages**
 1. **Accurate edge localization:** Canny edge detection provides precise localization of edges. The  
@@ -30,20 +32,25 @@ The optimal values of these parameters depend on the characteristics of the imag
   
 **🌳Examples**:
 ![[image 2 37.png|image 2 37.png]]
+
 ### **Post-processing the Edges**
 Without post-processing:
 ![[image 3 33.png|image 3 33.png]]
+
 With Post-Processing
 ![[image 4 31.png|image 4 31.png]]
+
   
   
 → There will also be vegetation that isn’t necessarily forest, like little bushes or gardens which we do not want to be included in the calculations. An idea we had was to add color analysis to the image.
   
 We switch to HSV color space:
 ![[image 5 30.png|image 5 30.png]]
+
   
 Result:
 ![[image 6 27.png|image 6 27.png]]
+
 → Didn’t really help in the case of edge detector but could be useful for other segmentation techniques.
   
 ### TO DO:
@@ -63,6 +70,7 @@ TO DO
   
 🌳Examples:
 ![[image 7 25.png|image 7 25.png]]
+
   
 ### TO DO:
 - [ ] Benchmark technique
@@ -78,6 +86,7 @@ TO DO
   
 🌳Examples:
 ![[image 8 23.png|image 8 23.png]]
+
   
 ### TO DO:
 - [ ] Add description + benchmarks
