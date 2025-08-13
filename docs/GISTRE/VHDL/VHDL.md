@@ -12,13 +12,21 @@ Owner: "Florian "
 > DropSU - Stockage personnel et collaboratif à SU  
 > [https://dropsu.sorbonne-universite.fr/s/RWw4PoLZ3ttdmR8](https://dropsu.sorbonne-universite.fr/s/RWw4PoLZ3ttdmR8)  
 # Classes
+
 [[GISTRE/VHDL/Introduction]]
+
 [[Fundamentals of the language]]
+
 [[GISTRE/VHDL/Process/Process]]
+
 [[Synchronous - Asynchronous process]]
+
 [[Common entities]]
+
 [[Types]]
+
 ![[questions.pdf]]
+
 # Definitions
 **combinatoire**: toutes les sorties sont defnies dans tout les cas
 **sequentiel**: elles dependent de l’output precedent = pas combinatoire

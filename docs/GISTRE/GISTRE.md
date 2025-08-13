@@ -7,12 +7,21 @@ Owner: Florian
   
 "The Art of Electronics" is a popular electronics design reference textbook by Paul Horowitz
 # Courses
+
 [[ARM (x64)]]
+
 [[PFE (projet de fin d’etude)]]
+
 [[OpenBSD]]
+
 [[Electronics]]
+
 [[Kernel & OS]]
+
 [[VHDL]]
+
 [[CSTR Conception Systeme Temps Reel]]
+
 [[BOOT Bootloader]]
+
 [[IOTG Internet of things]]

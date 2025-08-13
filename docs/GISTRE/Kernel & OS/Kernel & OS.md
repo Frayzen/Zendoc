@@ -15,5 +15,7 @@ R&D OS conception and network protocols engineer
     - Understand the development and the management of OS’ functions.
     - Deeper the understanding of what causes problems at deploy time
 # Lesson
+
 [[Principals of OS]]
+
 [[Threads & Scheduler]]

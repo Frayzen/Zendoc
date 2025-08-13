@@ -2,8 +2,11 @@
 Owner: Matcha
 ---
 [[Compilation Process]]
+
 [[Cheeky Definitions]]
+
 [[Cat imp]]
+
 ## Intel Manual
 Volumes
 Intel 64 Architecture Software Developer’s Manual Vol.1 (Basic architecture)

@@ -11,14 +11,10 @@
             "id": "bc3e362b5abcb22c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IMAGE/Matières/Matières.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Matières"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMAGE/Matières/Matières.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Matières"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMAGE/Matières/Matières.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Matières"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMAGE/Matières/Matières.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Matières"
+              "title": "Outline"
             }
           }
         ],
@@ -172,51 +165,51 @@
   },
   "active": "bc3e362b5abcb22c",
   "lastOpenFiles": [
-    "SPE/Maths/Revision Sheet/Revision Sheet.md~",
-    "javascripts/katex.js~",
     "javascripts/katex.js",
-    "javascripts/mathjax.js~",
-    "ING1/IDVOC Initiation au DevOps/Leson 1.md~",
-    "IMAGE/Base de donnés/Notes/Filtrage - Filtres classiques - Domaines spatial et fréquentiel/sedFPhyzN",
-    "IMAGE/Base de donnés/Notes/Filtrage - Filtres classiques - Domaines spatial et fréquentiel/sed9OlJkQ",
-    "IMAGE/Base de donnés/Notes/Filtrage - Filtres classiques - Domaines spatial et fréquentiel/sedLeJG4h",
-    "IMAGE/Base de donnés/Notes/Réduction de dimension/sed6FLwrQ",
-    "IMAGE/Base de donnés/Notes/Probabilité/sed6F5Q5L",
-    "IMAGE/Base de donnés/Notes/Probabilité/sedLdHCwy",
-    "GISTRE/BOOT Bootloader/Leson 2.md",
-    "GISTRE/ARM (x64)/ARM (x64).md",
-    "ING1/STA Algebraic structure/Leson/Ring/ring.md",
-    "ING1/PING Projet de fin d’ING1/Product Backlog/Product Backlog/Documentation.md",
-    "orphaned files output.md",
-    "assets/1000026449.png",
-    "assets/image-from-rawpixel-id-15192198-png.png",
-    "ING1/PING Projet de fin d’ING1/Product Backlog/Product Backlog/Add logs to the backend.md",
-    "2025-08-12.md",
-    "broken links output.md",
-    "ING1/PRJ Projects/HTTPd/HTTPd.md",
-    "IMAGE/Base de donnés/Notes/Convexité d'ordre 1,2 et points critiques/Convexité d'ordre 1,2 et points critiques.md",
-    "IMAGE/Base de donnés/Notes/TD4 - Convexite d’ordre 1,2 et points critiques/TD4 - Convexite d’ordre 1,2 et points critiques.md",
-    "IMAGE/IMAGE.md",
-    "GISTRE/GISTRE.md",
-    "Untitled.md",
-    "assets/0_pGLLLljDowjUh9id.png",
-    "index.md",
-    "assets/image 110.png",
-    "assets/image 109.png",
-    "assets/Graph_10.png",
-    "assets/image 108.png",
-    "assets/Capture-d-e-cran-2017-10-03-a-15.35.48_w715h1050.png",
-    "assets/image 107.png",
-    "assets/image 8 23.png",
-    "IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Étape 2 - Nettoyage du Masque (Mask Cleaning)/Assemblage + adaptation (ou pas).md",
-    "IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Étape 2 - Nettoyage du Masque (Mask Cleaning)/Nettoyage spatial (Morphologie, post-processing).md",
-    "IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Étape 2 - Nettoyage du Masque (Mask Cleaning)/Seuillage (Thresholding).md",
-    "IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Étape 2 - Nettoyage du Masque (Mask Cleaning)/Filtrage (Noise Reduction).md",
-    "IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/0.1 2.md",
-    "IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/0.0 8.md",
-    "IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/46.4.md",
-    "IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/0.0 7.md",
-    "IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/0.1.md",
-    "IMAGE/Base de donnés/Projets-DMs et Examens/Projet IRGPU/Projet GPGPU/Algos Optimisés/Untitled/53.4.md"
+    "assets/zcquxjcy4t0r.webp",
+    "assets/xofun.jpg",
+    "assets/x86-64-psABI-1.0.pdf",
+    "assets/x-twitter.jpg",
+    "assets/x-rays.png",
+    "assets/vK9zPh1BdiKOkSAvypv3zw635CQ.avif",
+    "assets/uploads_1598553133983-1598553133983.png",
+    "assets/unnamed.png",
+    "assets/unnamed 2.png",
+    "assets/tron-scaled.jpg",
+    "assets/tp_1.pdf",
+    "assets/tour_horizon_compressed.pdf",
+    "assets/tlchargement_(1).jpg",
+    "assets/tifo_tp1.pdf",
+    "assets/tifo_noise_compressed.pdf",
+    "assets/tifo_intro.pdf",
+    "assets/tifo_implementation-37-56_compressed.pdf",
+    "assets/tifo_implementation-1-36_compressed.pdf",
+    "assets/tifo_histo_compressed.pdf",
+    "assets/tifo_formation_image_(1)_compressed.pdf",
+    "assets/Timvocab.md",
+    "assets/Renew french passport.md",
+    "assets/Mechanical Physic.md",
+    "assets/Learning place.md",
+    "Tim & le francais/Tim & le francais.md",
+    "Tim & le francais/Random Words.md",
+    "Tim & le francais/Present.md",
+    "Tim & le francais/Passe.md",
+    "Tim & le francais/Flosexplanation.md",
+    "Tim & le francais/Directions and positioning.md",
+    "TC/INFO8/Social Repo/Redis/Redis.md",
+    "TC/INFO8/Social Repo/Redis/Example workflows.md",
+    "TC/PBS Probability & Statistics/Answers mcq/Answers mcq.md",
+    "TC/INFO8/Social Repo/Social Repo.md",
+    "TC/LOFO Logique Formelle/Revision.md",
+    "TC/LOFO Logique Formelle/LOFO Logique Formelle.md",
+    "TC/LOFO Logique Formelle/FICHE DE RÉVISION – LOGIQUE FORMELLE.md",
+    "TC/PBS Probability & Statistics/PBS Probability & Statistics.md",
+    "TC/GRS Gestion de risques/Tim risk.md",
+    "TC/GRS Gestion de risques/GRS Gestion de risques.md",
+    "TC/INFO8/Tests.md",
+    "TC/INFO8/Social Repositories.md",
+    "TC/INFO8/Salomouche’s page.md",
+    "TC/INFO8/Repository, Service, Controller.md",
+    "TC/INFO8/INFO8.md"
   ]
 }
