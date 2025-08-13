@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "e34ae840652b799b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e342511a5bc5870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8044999959b3d23",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f477c0b28b737c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "de243ee7ad92d657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978c7833b1d7b516",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "834ea0cef3957eec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a242840d2f774905",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 505.5
+  },
+  "right": {
+    "id": "84eaf0cf86dff1c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "45125dc21258f023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "143bd8b774996564",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "493cbbf2014d8372",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "da339bee8bc5e968",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b44e86582813185b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "978c7833b1d7b516",
+  "lastOpenFiles": [
+    "test/index.md",
+    "test/test.md",
+    "test/ok.md",
+    "test/ok.md~",
+    "test/index.md~",
+    "test/test.md~",
+    "test",
+    "Learning place.md~",
+    "Learning place.md",
+    "Timvocab.md",
+    "Mechanical Physic.md",
+    "Renew french passport.md",
+    "assets/Learning place.md~",
+    "test.md",
+    "test/other.md",
+    "javascripts/katex.js",
+    "assets/zcquxjcy4t0r.webp",
+    "assets/xofun.jpg",
+    "assets/x86-64-psABI-1.0.pdf",
+    "assets/x-twitter.jpg",
+    "assets/x-rays.png",
+    "assets/vK9zPh1BdiKOkSAvypv3zw635CQ.avif",
+    "assets/uploads_1598553133983-1598553133983.png",
+    "assets/unnamed.png",
+    "assets/unnamed 2.png",
+    "assets/tron-scaled.jpg",
+    "assets/tp_1.pdf",
+    "assets/tour_horizon_compressed.pdf",
+    "assets/tlchargement_(1).jpg",
+    "assets/Timvocab.md",
+    "assets/Renew french passport.md",
+    "assets/Mechanical Physic.md",
+    "assets/Learning place.md",
+    "Tim & le francais/Tim & le francais.md",
+    "Tim & le francais/Random Words.md",
+    "Tim & le francais/Present.md",
+    "Tim & le francais/Passe.md",
+    "Tim & le francais/Flosexplanation.md",
+    "Tim & le francais/Directions and positioning.md",
+    "TC/INFO8/Social Repo/Redis/Redis.md",
+    "TC/INFO8/Social Repo/Redis/Example workflows.md",
+    "TC/PBS Probability & Statistics/Answers mcq/Answers mcq.md",
+    "TC/INFO8/Social Repo/Social Repo.md",
+    "TC/LOFO Logique Formelle/Revision.md",
+    "TC/LOFO Logique Formelle/LOFO Logique Formelle.md"
+  ]
+}

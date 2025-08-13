@@ -1,7 +1,0 @@
----
-title: "Feature"
----
-
-# Description
-
-# Deliverable
