@@ -17,19 +17,12 @@ title: Learning place
 
 [[QUANTUM]]
 
-# Others
-[[Timvocab]]
-
-[[Tim & le francais]]
-
 # Self taught
 [[Linear algebra/Linear algebra]]
 
 [[Mechanical Physic]]
 
 [[MAGMA]]
-
-[[Renew french passport]]
 
 [[IELTS practice]]
 
