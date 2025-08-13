@@ -1,4 +1,5 @@
 ---
+title: Optimisation Convexe 1
 Code: OCVX1
 UE: Techniques Mathématiques
 URL Moodle: https://moodle.epita.fr/course/view.php?id=4036

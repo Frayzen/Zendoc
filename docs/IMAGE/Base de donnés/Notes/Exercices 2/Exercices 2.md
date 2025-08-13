@@ -1,4 +1,5 @@
 ---
+title: Exercices 2
 Matière:
   - "[[Probabilité et Statistiques]]"
 Type: TP/TD

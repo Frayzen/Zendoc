@@ -1,3 +1,7 @@
+---
+title: Étape 1- Estimation du Fond (Background Estimation)
+---
+
 ## 1. Estimation du Fond (Background Estimation)
 L’estimation du fond est une étape cruciale permettant de **construire un modèle d’arrière-plan stable**, même lorsque la caméra reste fixe mais que des objets en mouvement traversent la scène.
 ### Objectif

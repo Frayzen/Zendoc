@@ -1,4 +1,5 @@
 ---
+title: MAVEN Features
 Status: Merged
 Assign: "Florian "
 Branch: flo-maven-features

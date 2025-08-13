@@ -1,4 +1,5 @@
 ---
+title: COIN - Communication interpersonnelle
 Owner: Matcha
 ---
 [[Axes MBTI]]

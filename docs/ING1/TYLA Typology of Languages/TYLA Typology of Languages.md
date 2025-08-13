@@ -1,4 +1,5 @@
 ---
+title: TYLA Typology of Languages
 Owner: Matcha
 ---
 ## Activity Format

@@ -1,4 +1,5 @@
 ---
+title: Series of functions
 Owner: Tim Pearson
 ---
 [[PW Convergence]]

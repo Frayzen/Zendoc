@@ -1,4 +1,5 @@
 ---
+title: Codage de la couleur et representation des image
 Matière:
   - "[[Traitement d’image fondamental C++]]"
 Type: Cours

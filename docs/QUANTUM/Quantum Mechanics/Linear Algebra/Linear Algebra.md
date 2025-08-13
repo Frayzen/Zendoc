@@ -1,4 +1,5 @@
 ---
+title: Linear Algebra
 Owner: Tim Pearson
 ---
 [[Change of Basis]]

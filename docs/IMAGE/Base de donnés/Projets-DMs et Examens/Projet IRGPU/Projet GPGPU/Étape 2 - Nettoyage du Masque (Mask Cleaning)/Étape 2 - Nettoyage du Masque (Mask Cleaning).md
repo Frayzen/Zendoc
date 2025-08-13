@@ -1,3 +1,7 @@
+---
+title: Étape 2 - Nettoyage du Masque (Mask Cleaning)
+---
+
 La Phase 4 de notre pipeline intervient après la génération de la heatmap de mouvement.
 Elle transforme cette carte de valeurs floues en un masque binaire propre, net et exploitable, prêt pour la visualisation ou des traitements en aval.
 ---

@@ -1,4 +1,5 @@
 ---
+title: Directional derivative and gradients
 Owner: "Florian "
 ---
 # Definition

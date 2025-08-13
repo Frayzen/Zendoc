@@ -1,4 +1,5 @@
 ---
+title: Popup displayer
 Status: Not started
 Allows:
   - "[[File - Folder remover]]"

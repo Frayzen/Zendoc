@@ -1,4 +1,5 @@
 ---
+title: Uniform Convergence
 Owner: "Florian "
 ---
   

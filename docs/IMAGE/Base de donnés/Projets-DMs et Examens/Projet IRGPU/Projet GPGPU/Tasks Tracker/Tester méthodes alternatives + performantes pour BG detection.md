@@ -1,4 +1,5 @@
 ---
+title: Tester méthodes alternatives + performantes pour BG detection
 Status: In progress
 Assignee: Anthav Oineardemma casagrande
 Priority: Low

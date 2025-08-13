@@ -1,4 +1,5 @@
 ---
+title: TP1 - Raytracer
 Matière:
   - "[[Introduction à la synthèse d’image]]"
 Type: TP/TD

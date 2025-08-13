@@ -1,4 +1,5 @@
 ---
+title: Redis
 Owner: Tim Pearson
 ---
 [[Example workflows]]

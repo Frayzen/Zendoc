@@ -1,4 +1,5 @@
 ---
+title: Python pour le Big Data
 Code: PYBD
 UE: Outils et Modélisation
 URL Moodle: https://moodle.epita.fr/course/view.php?id=2753

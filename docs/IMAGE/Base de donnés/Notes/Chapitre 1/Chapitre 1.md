@@ -1,4 +1,5 @@
 ---
+title: Chapitre 1
 Matière:
   - "[[Probabilité et Statistiques]]"
 Type: Cours

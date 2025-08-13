@@ -1,4 +1,5 @@
 ---
+title: Make a graph strongly connected
 Status: Not started
 Assign: Tim Pearson
 ---

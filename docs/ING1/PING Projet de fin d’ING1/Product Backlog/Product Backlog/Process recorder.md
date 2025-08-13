@@ -1,4 +1,5 @@
 ---
+title: Process recorder
 Status: Not started
 Allows:
   - "[[Process Manager]]"

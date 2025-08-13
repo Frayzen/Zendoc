@@ -1,4 +1,5 @@
 ---
+title: QCM2 POGL
 Matiére:
   - "[[Programmation OpenGL]]"
 Date: 2025-05-19

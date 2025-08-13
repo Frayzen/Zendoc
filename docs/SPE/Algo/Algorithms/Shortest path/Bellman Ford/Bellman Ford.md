@@ -1,4 +1,5 @@
 ---
+title: Bellman Ford
 Allow circuit: true
 Allow negative cost: true
 Type of algorithm: One point to every others

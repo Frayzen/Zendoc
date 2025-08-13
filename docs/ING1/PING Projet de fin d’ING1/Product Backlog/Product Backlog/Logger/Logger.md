@@ -1,4 +1,5 @@
 ---
+title: Logger
 Status: Merged
 Assign: Matcha
 Branch: slm-logger

@@ -1,4 +1,5 @@
 ---
+title: Introduction 5
 Matière:
   - "[[Introduction au Machine Learning]]"
 Type: Cours

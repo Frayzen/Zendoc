@@ -1,4 +1,5 @@
 ---
+title: Projet IMED
 Matiére:
   - "[[Introduction à l’imagerie médicale]]"
 Date: 2025-07-17

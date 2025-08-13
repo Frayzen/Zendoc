@@ -1,4 +1,5 @@
 ---
+title: TD
 Matière:
   - "[[Management et Pilotage de Projets]]"
 Type: TP/TD

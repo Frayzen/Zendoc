@@ -1,4 +1,5 @@
 ---
+title: Jurisprudence
 Owner: "Florian "
 ---
 La jurisprudence constitue l’ensemble des decisions passees basee sur l’interpretation des lois.

@@ -1,4 +1,5 @@
 ---
+title: Delete file-folder endpoint
 Status: Merged
 Assign: Matcha
 Branch: slm-delete-ep

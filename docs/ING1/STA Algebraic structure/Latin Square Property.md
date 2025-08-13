@@ -1,4 +1,5 @@
 ---
+title: Latin Square Property
 Owner: "Florian "
 ---
 In the case of rings, to prove the distributive property for all elements using the Latin Square Property, you would want to demonstrate that the Cayley table for multiplication in your ring (ℤ/5ℤ, ×) has this property. Specifically, you need to show that for each element 'a' in ℤ/5ℤ, the row and column of the Cayley table for 'a' contain all the distinct elements of ℤ/5ℤ. In other words, every element in ℤ/5ℤ is present once in the row and once in the column corresponding to 'a.’

@@ -1,4 +1,5 @@
 ---
+title: Salomouche’s page
 Owner: Matcha
 ---
 mvn -X quarkus:dev -pl repo-social/

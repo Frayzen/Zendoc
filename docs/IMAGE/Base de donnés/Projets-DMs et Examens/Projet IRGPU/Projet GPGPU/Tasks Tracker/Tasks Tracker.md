@@ -1,3 +1,7 @@
+---
+title: Tasks Tracker
+---
+
 au charbon 
 
 |Task name|Status|Assignee|Due date|Priority|![](https://www.notion.so/icons/kind_gray.svg)Task type|Description|Attach file|

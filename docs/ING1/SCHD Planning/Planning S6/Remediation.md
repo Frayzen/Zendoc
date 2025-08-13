@@ -1,4 +1,5 @@
 ---
+title: Remediation
 Leson:
   - "[[PBSA Probabilites et statistiques]]"
 Done (Flo): false

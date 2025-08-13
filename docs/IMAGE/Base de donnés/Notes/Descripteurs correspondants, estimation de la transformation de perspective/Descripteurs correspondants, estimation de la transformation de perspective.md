@@ -1,4 +1,5 @@
 ---
+title: Descripteurs correspondants, estimation de la transformation de perspective
 Matière:
   - "[[ML pour la Reconnaissance des Formes]]"
 Type: Cours

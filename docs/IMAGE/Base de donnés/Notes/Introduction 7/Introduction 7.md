@@ -1,4 +1,5 @@
 ---
+title: Introduction 7
 Matière:
   - "[[Étude de cas pratique en image et Rdf]]"
 Type: Cours

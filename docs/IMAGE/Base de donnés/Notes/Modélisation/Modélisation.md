@@ -1,4 +1,5 @@
 ---
+title: Modélisation
 Matière:
   - "[[Introduction à la synthèse d’image]]"
 Type: Cours

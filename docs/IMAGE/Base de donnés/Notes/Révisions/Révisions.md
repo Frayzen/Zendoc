@@ -1,4 +1,5 @@
 ---
+title: Révisions
 Matière:
   - "[[Logique Formelle]]"
 Type: Notes

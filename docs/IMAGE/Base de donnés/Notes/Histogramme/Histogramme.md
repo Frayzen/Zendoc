@@ -1,4 +1,5 @@
 ---
+title: Histogramme
 Matière:
   - "[[Traitement d’image fondamental C++]]"
 Type: Cours

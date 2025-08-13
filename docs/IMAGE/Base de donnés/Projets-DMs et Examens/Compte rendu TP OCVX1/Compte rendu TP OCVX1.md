@@ -1,4 +1,5 @@
 ---
+title: Compte rendu TP OCVX1
 Matiére:
   - "[[Optimisation Convexe 1]]"
 Date: 2025-06-02

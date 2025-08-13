@@ -1,4 +1,5 @@
 ---
+title: Animation function
 Status: In progress
 Assign: Lancelot Martin
 ---

@@ -1,4 +1,5 @@
 ---
+title: Chapitre 3
 Matière:
   - "[[Probabilité et Statistiques]]"
 Type: Cours

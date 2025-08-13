@@ -1,4 +1,5 @@
 ---
+title: Patterns for Languages
 Owner: Tim Pearson
 ---
 ![[Untitled 56.png|Untitled 56.png]]

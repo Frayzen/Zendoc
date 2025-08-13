@@ -1,4 +1,5 @@
 ---
+title: Classification non-supervisée
 Matière:
   - "[[Introduction au Machine Learning]]"
 Type: Cours

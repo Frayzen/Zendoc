@@ -1,4 +1,5 @@
 ---
+title: L’IRM
 Matière:
   - "[[Introduction à l’imagerie médicale]]"
 Type: Cours

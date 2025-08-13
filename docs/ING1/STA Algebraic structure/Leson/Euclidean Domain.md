@@ -1,4 +1,5 @@
 ---
+title: Euclidean Domain
 Owner: Tim Pearson
 ---
   

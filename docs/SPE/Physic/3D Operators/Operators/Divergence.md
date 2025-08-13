@@ -1,4 +1,5 @@
 ---
+title: Divergence
 Input:
   - vector
 Example Input: (a, b, c)

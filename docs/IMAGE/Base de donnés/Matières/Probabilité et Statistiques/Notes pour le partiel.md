@@ -1,3 +1,7 @@
+---
+title: Notes pour le partiel
+---
+
 # Les lois
 ### **Bernoulli** $\mathcal{B}(p)$
 - **Signification** : Une épreuve binaire : succès $1$ ou échec $0$

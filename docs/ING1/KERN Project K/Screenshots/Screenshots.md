@@ -1,4 +1,5 @@
 ---
+title: Screenshots
 Owner: "Florian "
 ---
 ![[Untitled 65.png|Untitled 65.png]]

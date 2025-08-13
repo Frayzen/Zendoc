@@ -1,4 +1,5 @@
 ---
+title: TP-1 Demarrage
 Owner: "Florian "
 ---
 - Trouver la ligne de commande de votre kernel et expliquer ce qu'elle contient

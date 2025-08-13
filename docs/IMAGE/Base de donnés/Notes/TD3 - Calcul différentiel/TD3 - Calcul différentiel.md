@@ -1,4 +1,5 @@
 ---
+title: TD3 - Calcul différentiel
 Matière:
   - "[[Optimisation Convexe 1]]"
 Type: TP/TD

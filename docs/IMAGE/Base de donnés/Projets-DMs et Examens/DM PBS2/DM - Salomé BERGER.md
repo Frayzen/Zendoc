@@ -1,3 +1,7 @@
+---
+title: DM - Salomé BERGER
+---
+
 # Partie 1
 ## 1. Justifier que la fonction$f(., σ)$ d´efinit bien une densité sur $\mathbb{R}$ pour tout $σ > 0$.
 $f(x, \sigma) =  

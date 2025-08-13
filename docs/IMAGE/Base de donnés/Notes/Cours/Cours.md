@@ -1,4 +1,5 @@
 ---
+title: Cours
 Matière:
   - "[[Probabilité et Statistiques]]"
 Type: Notes

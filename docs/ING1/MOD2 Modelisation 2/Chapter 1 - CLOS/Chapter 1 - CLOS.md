@@ -1,4 +1,5 @@
 ---
+title: Chapter 1 - CLOS
 Owner: Matcha
 ---
 Why is this approach more expressive

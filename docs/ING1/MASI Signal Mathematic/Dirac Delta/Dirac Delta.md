@@ -1,4 +1,5 @@
 ---
+title: Dirac Delta
 Owner: Tim Pearson
 ---
 ${\displaystyle \delta (x)\simeq {\begin{cases}+\infty ,&x=0\\ \\0,&x\neq 0\end{cases}}}$

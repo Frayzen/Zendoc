@@ -1,4 +1,5 @@
 ---
+title: Group
 Associativity: +
 Closure: true
 Commutativity: None

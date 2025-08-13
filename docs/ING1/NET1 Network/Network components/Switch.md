@@ -1,4 +1,5 @@
 ---
+title: Switch
 Owner: "Florian "
 ---
 A **network switch** is a fundamental networking device used to connect and manage multiple devices within a local area network (LAN). Unlike a hub, a switch operates at a higher layer in the OSI model, making it a more intelligent and efficient device. Here's a simple explanation:

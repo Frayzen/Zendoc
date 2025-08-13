@@ -1,4 +1,5 @@
 ---
+title: Aspects
 Status: Merged
 Allows:
   - "[[PINGProject class]]"

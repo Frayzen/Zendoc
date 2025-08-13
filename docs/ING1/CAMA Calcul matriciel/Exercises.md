@@ -1,4 +1,5 @@
 ---
+title: Exercises
 Owner: Tim Pearson
 ---
 ## ma1

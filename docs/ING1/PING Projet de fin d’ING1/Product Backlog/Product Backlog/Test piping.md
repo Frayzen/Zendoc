@@ -1,4 +1,5 @@
 ---
+title: Test piping
 Status: Merged
 Assign: "Florian "
 Branch: flo-stronger-testsuite

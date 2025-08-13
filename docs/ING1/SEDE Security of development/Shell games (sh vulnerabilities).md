@@ -1,4 +1,5 @@
 ---
+title: Shell games (sh vulnerabilities)
 Owner: "Florian "
 ---
 # argument issue

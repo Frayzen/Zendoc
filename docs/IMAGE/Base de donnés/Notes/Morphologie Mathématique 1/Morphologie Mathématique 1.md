@@ -1,4 +1,5 @@
 ---
+title: Morphologie Mathématique 1
 Matière:
   - "[[Traitement d’image fondamental Python]]"
 Type: Cours

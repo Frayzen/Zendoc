@@ -1,4 +1,5 @@
 ---
+title: Définir le Périmètre Produit à réaliser
 Matière:
   - "[[Management et Pilotage de Projets]]"
 Type: Cours

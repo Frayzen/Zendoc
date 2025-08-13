@@ -1,4 +1,5 @@
 ---
+title: Gradient
 Input:
   - scalar-valued
 Example Input: 3x + y - z

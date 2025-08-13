@@ -1,4 +1,5 @@
 ---
+title: Abelian group
 Associativity: +
 Closure: true
 Commutativity: +

@@ -1,4 +1,5 @@
 ---
+title: Junction Field Effect Transistor (JFET)
 Owner: "Florian "
 ---
   

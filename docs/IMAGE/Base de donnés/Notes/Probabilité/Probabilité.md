@@ -1,4 +1,5 @@
 ---
+title: Probabilité
 Matière:
   - "[[Probabilité et Statistiques]]"
 Type: Notes

@@ -1,4 +1,5 @@
 ---
+title: Introduction à l’imagerie médicale
 Code: IMED
 UE: Traitement et sythèse
 URL Moodle: https://moodle.epita.fr/course/view.php?id=4028

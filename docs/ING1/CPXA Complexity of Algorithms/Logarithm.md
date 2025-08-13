@@ -1,4 +1,5 @@
 ---
+title: Logarithm
 Owner: "Florian "
 ---
 $ln(x) = y \iff x = e^y \\  

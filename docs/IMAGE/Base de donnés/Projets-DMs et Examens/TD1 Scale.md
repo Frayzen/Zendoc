@@ -1,4 +1,5 @@
 ---
+title: TD1 Scale
 Matiére:
   - "[[IMAGE/Base de donnés/Matières/INFO8/INFO8\\|INFO8]]"
 Date: 2025-04-05

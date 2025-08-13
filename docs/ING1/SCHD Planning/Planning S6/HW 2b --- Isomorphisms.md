@@ -1,4 +1,5 @@
 ---
+title: HW 2b --- Isomorphisms
 Leson:
   - "[[THEG Theory of graphs (ENG)]]"
 Done (Flo): true

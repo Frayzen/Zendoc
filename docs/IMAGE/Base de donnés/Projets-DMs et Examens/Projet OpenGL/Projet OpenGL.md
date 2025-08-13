@@ -1,4 +1,5 @@
 ---
+title: Projet OpenGL
 Matiére:
   - "[[Programmation OpenGL]]"
 Date: 2025-07-03

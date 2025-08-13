@@ -1,4 +1,5 @@
 ---
+title: Elec
 Owner: "Florian "
 ---
 [[S3 Elec]]

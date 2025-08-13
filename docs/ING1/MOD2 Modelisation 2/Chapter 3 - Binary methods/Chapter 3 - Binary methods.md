@@ -1,4 +1,5 @@
 ---
+title: Chapter 3 - Binary methods
 Owner: "Florian "
 ---
 > [!important] The binary methods leads to less protection. But more freedom. It means that we need to create ourselves the security checks for user input etc…

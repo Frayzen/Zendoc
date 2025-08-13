@@ -1,4 +1,5 @@
 ---
+title: Series theorems
 Owner: Tim Pearson
 ---
 ![[Untitled 33.png|Untitled 33.png]]

@@ -1,4 +1,5 @@
 ---
+title: Axes MBTI
 Matière:
   - "[[Communication Inter-personnelle]]"
 Type: Cours

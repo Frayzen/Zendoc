@@ -1,4 +1,5 @@
 ---
+title: COMP Compilers
 Owner: Tim Pearson
 ---
 ## Activity Format

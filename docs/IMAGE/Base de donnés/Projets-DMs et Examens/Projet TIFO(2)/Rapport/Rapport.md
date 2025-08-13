@@ -1,3 +1,7 @@
+---
+title: Rapport
+---
+
 ![[image 106.png|image 106.png]]
 # Method 1: Canny Edge Detector
   

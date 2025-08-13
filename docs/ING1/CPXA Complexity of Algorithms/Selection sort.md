@@ -1,4 +1,5 @@
 ---
+title: Selection sort
 Owner: Tim Pearson
 ---
 ```Python

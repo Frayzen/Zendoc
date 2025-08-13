@@ -1,4 +1,5 @@
 ---
+title: Integral Domain
 Associativity: + and x
 Closure: true
 No Zero Divisors: true

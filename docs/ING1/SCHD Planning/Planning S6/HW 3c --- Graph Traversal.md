@@ -1,4 +1,5 @@
 ---
+title: HW 3c --- Graph Traversal
 Leson:
   - "[[THEG Theory of graphs (ENG)]]"
 Done (Flo): true

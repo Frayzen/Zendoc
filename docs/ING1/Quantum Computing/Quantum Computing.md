@@ -1,4 +1,5 @@
 ---
+title: Quantum Computing
 Owner: Tim Pearson
 ---
 nicolas.boutry@epita.fr

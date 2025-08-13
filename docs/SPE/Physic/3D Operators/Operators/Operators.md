@@ -1,3 +1,7 @@
+---
+title: Operators
+---
+
 |Name|Input|Output|Example Input|Example output|Infos|
 |---|---|---|---|---|---|
 |[[Gradient]]|scalar-valued|vector|3x + y - z|(3, 1, -1)|derivative|

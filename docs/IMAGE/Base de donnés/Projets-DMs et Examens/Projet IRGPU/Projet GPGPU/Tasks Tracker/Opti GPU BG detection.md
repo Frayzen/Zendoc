@@ -1,4 +1,5 @@
 ---
+title: Opti GPU BG detection
 Status: Not started
 Assignee: Anthav Oineard
 Priority: Medium

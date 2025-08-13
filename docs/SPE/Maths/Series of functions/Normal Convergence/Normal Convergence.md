@@ -1,4 +1,5 @@
 ---
+title: Normal Convergence
 Owner: Tim Pearson
 ---
 # PDF

@@ -1,4 +1,5 @@
 ---
+title: Quotients of Rings
 Owner: Matcha
 ---
   

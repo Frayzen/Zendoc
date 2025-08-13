@@ -1,4 +1,5 @@
 ---
+title: Signal Classification
 Files:
   - "[[classification_signaux_en.pdf]]"
 Owner: Matcha

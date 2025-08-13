@@ -1,4 +1,5 @@
 ---
+title: Gestion de conflit
 Matière:
   - "[[Communication Inter-personnelle]]"
 Type: Cours

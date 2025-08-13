@@ -1,4 +1,5 @@
 ---
+title: Time (%)
 Column 1: Total Time (ns)
 Column 2: Num Calls
 Column 3: Avg (ns)

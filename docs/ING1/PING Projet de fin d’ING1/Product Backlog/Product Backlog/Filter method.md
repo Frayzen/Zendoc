@@ -1,4 +1,5 @@
 ---
+title: Filter method
 Status: Merged
 Assign: "Florian "
 Branch: flo-filter

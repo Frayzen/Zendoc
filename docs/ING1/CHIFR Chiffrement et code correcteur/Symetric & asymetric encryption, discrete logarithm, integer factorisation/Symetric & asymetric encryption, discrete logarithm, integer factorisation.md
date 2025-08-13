@@ -1,4 +1,5 @@
 ---
+title: Symetric & asymetric encryption, discrete logarithm, integer factorisation
 Owner: "Florian "
 ---
 # Leson

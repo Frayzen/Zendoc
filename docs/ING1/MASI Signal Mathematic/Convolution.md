@@ -1,4 +1,5 @@
 ---
+title: Convolution
 Owner: Tim Pearson
 ---
 $(f∗g)(\tau)=∫ _{-\infty}^{\infty} f(t)g(\tau−t)dt$

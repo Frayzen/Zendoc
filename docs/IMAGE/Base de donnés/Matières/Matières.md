@@ -1,3 +1,7 @@
+---
+title: Matières
+---
+
 |Name|![](https://www.notion.so/icons/checklist_gray.svg)Assignments/Exams|Code|![](https://www.notion.so/icons/chart-donut_gray.svg)Coefficient|Commencé ?|![](https://www.notion.so/icons/hashtag_gray.svg)Examens à venir|![](https://www.notion.so/icons/gradebook_gray.svg)Moyenne|Moyenne /20|Moyenne pondérée|![](https://www.notion.so/icons/clipping_gray.svg)Notes|![](https://www.notion.so/icons/user_gray.svg)Professeur|![](https://www.notion.so/icons/more_gray.svg)Projets/DM|![](https://www.notion.so/icons/hashtag_gray.svg)Projets/DM Terminés|![](https://www.notion.so/icons/calendar-month_gray.svg)Semestre|![](https://www.notion.so/icons/circle-dashed_gray.svg)Status|![](https://www.notion.so/icons/hashtag_gray.svg)Total Projets/DM|UE|URL Moodle|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |[[Introduction à la synthèse d’image]]|[[Projet ISIM]], [[QCM1 ISYM]], [[QCM2 ISYM]], [[QCM3 ISYM]], [[QCM4 ISYM]]|ISIM|2|Terminé|0|0.8590000000000001|17.18|34.36|[[IMAGE/Base de donnés/Notes/Introduction/Introduction]], [[Rappels]], [[Rendu Photoréaliste]], [[TP1 - Raytracer]], [[Rendu Temps Réel]], [[Modélisation]], [[Textures]], [[TP3 - Blender]]|Jonathan FABRIZIO|1|5/5|S8|0 Projets/DM, 0 Examens|5|Traitement et sythèse|[https://moodle.epita.fr/course/view.php?id=1973](https://moodle.epita.fr/course/view.php?id=1973)|

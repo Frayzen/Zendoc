@@ -1,4 +1,5 @@
 ---
+title: Devenir Créatif et Innovant
 Code: MCRIN
 UE: Managment et Connaissances pour l'entreprise
 URL Moodle: https://moodle.epita.fr/course/view.php?id=2989

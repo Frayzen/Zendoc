@@ -1,4 +1,5 @@
 ---
+title: QCM3 ISYM
 Matiére:
   - "[[Introduction à la synthèse d’image]]"
 Date: 2025-03-31

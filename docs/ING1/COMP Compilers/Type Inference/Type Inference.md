@@ -1,4 +1,5 @@
 ---
+title: Type Inference
 Owner: Matcha
 ---
 ### What is it ?

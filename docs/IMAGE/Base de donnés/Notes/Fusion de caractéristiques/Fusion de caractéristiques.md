@@ -1,4 +1,5 @@
 ---
+title: Fusion de caractéristiques
 Matière:
   - "[[Introduction au Machine Learning]]"
 Type: Cours

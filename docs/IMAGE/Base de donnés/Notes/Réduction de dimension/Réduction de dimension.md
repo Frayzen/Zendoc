@@ -1,4 +1,5 @@
 ---
+title: Réduction de dimension
 Matière:
   - "[[Introduction au Machine Learning]]"
 Type: Cours

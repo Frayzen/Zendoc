@@ -1,3 +1,7 @@
+---
+title: Brouillon
+---
+
 # Optimisations
 
 > [!info] CUDA 4: Profiling CUDA Kernels  

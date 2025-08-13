@@ -1,4 +1,5 @@
 ---
+title: Benchmark CPU
 Status: Done
 Assignee: Matcha
 Priority: High

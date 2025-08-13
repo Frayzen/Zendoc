@@ -1,4 +1,5 @@
 ---
+title: Les Bases
 Matière:
   - "[[Programmation OpenGL]]"
 Type: Cours

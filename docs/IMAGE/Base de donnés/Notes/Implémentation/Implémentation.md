@@ -1,4 +1,5 @@
 ---
+title: Implémentation
 Matière:
   - "[[Traitement d’image fondamental C++]]"
 Type: Cours

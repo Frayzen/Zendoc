@@ -1,4 +1,5 @@
 ---
+title: Quantum Mechanics
 Owner: Tim Pearson
 ---
 # Modern Physics: Quantum Mechanics

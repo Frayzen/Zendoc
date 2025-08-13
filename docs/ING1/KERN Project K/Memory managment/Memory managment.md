@@ -1,4 +1,5 @@
 ---
+title: Memory managment
 Owner: "Florian "
 ---
 # Logical And linear addresses

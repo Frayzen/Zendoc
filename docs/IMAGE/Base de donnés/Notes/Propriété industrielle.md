@@ -1,4 +1,5 @@
 ---
+title: Propriété industrielle
 Matière:
   - "[[IMAGE/Base de donnés/Matières/Droit des propriétés intellectuelles/Droit des propriétés intellectuelles\\|Droit des propriétés intellectuelles]]"
 Type: Cours

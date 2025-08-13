@@ -1,3 +1,7 @@
+---
+title: Introduction à la synthèse d’image
+---
+
 ==Site internet :== [http://jo.fabrizio.free.fr/teaching/synt/index.php#ISIM](http://jo.fabrizio.free.fr/teaching/synt/index.php#ISIM)
 ### Notes
 #### Notes

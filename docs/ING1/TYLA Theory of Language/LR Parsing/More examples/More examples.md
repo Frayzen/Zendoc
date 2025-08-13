@@ -1,4 +1,5 @@
 ---
+title: More examples
 Owner: Tim Pearson
 ---
 ## SLR

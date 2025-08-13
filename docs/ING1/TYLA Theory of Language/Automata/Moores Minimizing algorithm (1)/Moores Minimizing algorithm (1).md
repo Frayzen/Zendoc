@@ -1,4 +1,5 @@
 ---
+title: Moores Minimizing algorithm (1)
 Owner: Tim Pearson
 ---
 - start with two classes initial and not initial

@@ -1,4 +1,5 @@
 ---
+title: Préliminaire Géométrique
 Matière:
   - "[[Optimisation Convexe 1]]"
 Type: Cours

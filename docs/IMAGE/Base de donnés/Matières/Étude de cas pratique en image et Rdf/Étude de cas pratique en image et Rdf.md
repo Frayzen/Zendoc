@@ -1,4 +1,5 @@
 ---
+title: Étude de cas pratique en image et Rdf
 Code: KPRAT
 UE: Traitement et sythèse
 URL Moodle: https://moodle.epita.fr/course/view.php?id=4030

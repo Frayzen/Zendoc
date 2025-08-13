@@ -1,4 +1,5 @@
 ---
+title: Introduction aux Réseaux de Neuronnes
 Code: IREN
 UE: Techniques Mathématiques
 URL Moodle: https://moodle.epita.fr/course/view.php?id=3986

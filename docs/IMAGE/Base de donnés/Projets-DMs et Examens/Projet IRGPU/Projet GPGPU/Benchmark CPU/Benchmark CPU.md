@@ -1,3 +1,7 @@
+---
+title: Benchmark CPU
+---
+
 ### Résultats des filtres
 |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|

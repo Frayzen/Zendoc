@@ -1,4 +1,5 @@
 ---
+title: Shell exec class
 Status: Merged
 Assign: Tim Pearson
 Branch: tim-shell-exec

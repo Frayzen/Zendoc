@@ -1,4 +1,5 @@
 ---
+title: LR Parsing
 Owner: Tim Pearson
 ---
 - Bottom up parser

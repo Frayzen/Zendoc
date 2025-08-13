@@ -1,4 +1,5 @@
 ---
+title: Display Subgraph
 Status: Done
 ---
 - so that we can see what a sub graph looks like on top of the original graph

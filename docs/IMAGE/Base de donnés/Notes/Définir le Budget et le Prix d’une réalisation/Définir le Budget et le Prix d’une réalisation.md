@@ -1,4 +1,5 @@
 ---
+title: Définir le Budget et le Prix d’une réalisation
 Matière:
   - "[[Management et Pilotage de Projets]]"
 Type: Cours

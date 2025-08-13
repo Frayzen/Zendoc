@@ -1,4 +1,5 @@
 ---
+title: RAM management
 Owner: "Florian "
 ---
 # Storage

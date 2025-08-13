@@ -1,4 +1,5 @@
 ---
+title: Suite
 Matière:
   - "[[Programmation OpenGL]]"
 Type: Cours

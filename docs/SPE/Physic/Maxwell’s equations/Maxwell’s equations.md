@@ -1,4 +1,5 @@
 ---
+title: Maxwell’s equations
 Owner: "Florian "
 ---
 ![[Untitled 9.png|Untitled 9.png]]

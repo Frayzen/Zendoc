@@ -1,4 +1,5 @@
 ---
+title: Quantum Mechanics
 Owner: Tim Pearson
 ---
 [[QUANTUM/Quantum Mechanics/Linear Algebra/Linear Algebra]]

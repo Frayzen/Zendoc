@@ -1,3 +1,7 @@
+---
+title: Filtrage (Noise Reduction)
+---
+
 # Median Filter
 ### Objectif
 Supprimer le bruit impulsionnel (pixels aberrants isolés), tout en **préservant les contours nets** des zones de mouvement.

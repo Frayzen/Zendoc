@@ -1,4 +1,5 @@
 ---
+title: Pointwise Convergence
 Owner: "Florian "
 ---
 ![[Untitled 28.png|Untitled 28.png]]

@@ -1,4 +1,5 @@
 ---
+title: Answers mcq
 Owner: geoffrey elbaz
 ---
 ![[image 14.png|image 14.png]]

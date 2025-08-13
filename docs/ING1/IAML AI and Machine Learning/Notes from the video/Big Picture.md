@@ -1,4 +1,5 @@
 ---
+title: Big Picture
 Owner: Tim Pearson
 ---
 - neural networks are just functions

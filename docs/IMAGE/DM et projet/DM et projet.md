@@ -1,4 +1,5 @@
 ---
+title: DM et projet
 Owner: Matcha
 ---
 ### Due Date

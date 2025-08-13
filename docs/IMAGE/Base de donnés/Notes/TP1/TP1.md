@@ -1,4 +1,5 @@
 ---
+title: TP1
 Matière:
   - "[[Traitement d’image fondamental C++]]"
 Type: TP/TD

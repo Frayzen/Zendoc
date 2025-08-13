@@ -1,4 +1,5 @@
 ---
+title: Recap
 Matière:
   - "[[Communication Inter-personnelle]]"
 Type: Notes

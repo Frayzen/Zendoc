@@ -1,4 +1,5 @@
 ---
+title: Droit prive (civil)
 Owner: Matcha
 ---
 Le droit civil est une branche du droit qui **régit les relations entre les individus**, qu'il s'agisse de personnes physiques (individus, **citoyens**) ou morales (entités comme les **entreprises**). Il constitue le cadre juridique qui organise la vie privée des citoyens et régit divers aspects de leurs relations, notamment les contrats, la famille, la propriété, et les dommages causés à autrui.

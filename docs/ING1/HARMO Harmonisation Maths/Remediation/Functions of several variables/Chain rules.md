@@ -1,4 +1,5 @@
 ---
+title: Chain rules
 Owner: "Florian "
 ---
 > [!important] delta means derivate with respect to one variable, d means derivate with respect to every variables

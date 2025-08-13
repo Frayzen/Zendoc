@@ -1,4 +1,5 @@
 ---
+title: IDVOC Initiation au DevOps
 Owner: "Florian "
 ---
 ## Activity Format

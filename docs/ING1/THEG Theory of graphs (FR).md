@@ -1,4 +1,5 @@
 ---
+title: THEG Theory of graphs (FR)
 Owner: Matcha
 ---
 ## Fomat d’activite

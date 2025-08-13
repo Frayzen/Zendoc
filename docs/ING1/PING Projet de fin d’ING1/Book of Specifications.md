@@ -1,4 +1,5 @@
 ---
+title: Book of Specifications
 Owner: Tim Pearson
 ---
 ### Project Title: Lazy Coder IDE for Motivating Users

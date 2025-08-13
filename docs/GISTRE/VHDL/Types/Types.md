@@ -1,4 +1,5 @@
 ---
+title: Types
 Owner: "Florian "
 ---
 ![[image 10.png|image 10.png]]

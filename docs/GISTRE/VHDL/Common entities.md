@@ -1,4 +1,5 @@
 ---
+title: Common entities
 Owner: "Florian "
 ---
 ### 🔁 **D Latch (Level-Triggered)**

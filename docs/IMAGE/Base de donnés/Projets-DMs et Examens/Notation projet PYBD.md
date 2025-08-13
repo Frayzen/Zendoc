@@ -1,4 +1,5 @@
 ---
+title: Notation projet PYBD
 Matiére:
   - "[[Python pour le Big Data]]"
 Date: 2025-05-31

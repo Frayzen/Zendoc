@@ -1,4 +1,5 @@
 ---
+title: Comparing words
 Owner: Tim Pearson
 ---
 ## Distance

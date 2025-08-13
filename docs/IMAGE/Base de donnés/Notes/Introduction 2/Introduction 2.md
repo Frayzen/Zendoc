@@ -1,4 +1,5 @@
 ---
+title: Introduction 2
 Matière:
   - "[[Traitement d’image fondamental C++]]"
 Type: Cours

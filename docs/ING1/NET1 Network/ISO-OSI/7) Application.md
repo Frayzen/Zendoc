@@ -1,4 +1,5 @@
 ---
+title: 7) Application
 Owner: "Florian "
 ---
 Closest layer to the user, manages applications

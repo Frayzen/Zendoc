@@ -1,4 +1,5 @@
 ---
+title: Sequence of function
 Owner: "Florian "
 ---
 [[Pointwise Convergence]]

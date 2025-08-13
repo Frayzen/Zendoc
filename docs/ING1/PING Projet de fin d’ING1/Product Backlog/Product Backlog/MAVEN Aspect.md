@@ -1,4 +1,5 @@
 ---
+title: MAVEN Aspect
 Status: Merged
 Assign: Matcha
 Branch: slm-maven

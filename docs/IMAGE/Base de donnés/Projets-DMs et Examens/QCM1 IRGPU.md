@@ -1,4 +1,5 @@
 ---
+title: QCM1 IRGPU
 Matiére:
   - "[[Implémentation Rapide GPGPU]]"
 Date: 2025-04-09

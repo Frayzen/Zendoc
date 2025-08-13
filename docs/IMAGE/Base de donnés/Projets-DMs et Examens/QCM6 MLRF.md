@@ -1,4 +1,5 @@
 ---
+title: QCM6 MLRF
 Matiére:
   - "[[ML pour la Reconnaissance des Formes]]"
 Date: 2025-07-06

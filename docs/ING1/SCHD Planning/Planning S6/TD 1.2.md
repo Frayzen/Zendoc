@@ -1,4 +1,5 @@
 ---
+title: TD 1.2
 Leson:
   - "[[CHIFR Chiffrement et code correcteur]]"
 Done (Flo): false

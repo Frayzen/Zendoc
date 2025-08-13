@@ -1,4 +1,5 @@
 ---
+title: File display
 Status: Not started
 Allows:
   - "[[File - Folder renamer]]"

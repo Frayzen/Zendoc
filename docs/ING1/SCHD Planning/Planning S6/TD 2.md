@@ -1,4 +1,5 @@
 ---
+title: TD 2
 Leson:
   - "[[PBSA Probabilites et statistiques]]"
 Done (Flo): false

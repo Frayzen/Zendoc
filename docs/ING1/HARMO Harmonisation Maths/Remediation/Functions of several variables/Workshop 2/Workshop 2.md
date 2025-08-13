@@ -1,4 +1,5 @@
 ---
+title: Workshop 2
 Owner: Tim Pearson
 ---
 ![[IMG_20230908_110508.jpg]]

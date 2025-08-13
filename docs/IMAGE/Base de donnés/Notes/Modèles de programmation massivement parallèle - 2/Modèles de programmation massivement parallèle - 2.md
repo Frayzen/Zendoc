@@ -1,4 +1,5 @@
 ---
+title: Modèles de programmation massivement parallèle - 2
 Matière:
   - "[[Implémentation Rapide GPGPU]]"
 Type: Cours

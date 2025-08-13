@@ -1,4 +1,5 @@
 ---
+title: Class 1
 Matière:
   - "[[Logique Formelle]]"
 Type: Cours

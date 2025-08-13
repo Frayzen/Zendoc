@@ -1,4 +1,5 @@
 ---
+title: HW 1 Simple Graphs
 Leson:
   - "[[THEG Theory of graphs (ENG)]]"
 Done (Flo): true

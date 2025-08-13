@@ -1,4 +1,5 @@
 ---
+title: Traitement d’image fondamental Python
 Code: TIFO2
 UE: Traitement et sythèse
 URL Moodle: https://moodle.epita.fr/course/view.php?id=4034

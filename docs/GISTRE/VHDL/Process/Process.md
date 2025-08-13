@@ -1,4 +1,5 @@
 ---
+title: Process
 Owner: "Florian "
 ---
 A **VHDL process** executes only when a signal in its **sensitivity list** changes. Inside the process, statements run sequentially, but **signal assignments do not take effect immediately**. Instead, all output values update **only at the end of the process execution**.

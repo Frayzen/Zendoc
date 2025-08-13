@@ -1,4 +1,5 @@
 ---
+title: Data layout
 Owner: Tim Pearson
 ---
 The dataset contains cases of two type of breast cancer:

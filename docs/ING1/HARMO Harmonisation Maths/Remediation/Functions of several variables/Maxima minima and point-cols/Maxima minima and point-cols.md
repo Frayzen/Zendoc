@@ -1,4 +1,5 @@
 ---
+title: Maxima minima and point-cols
 Owner: "Florian "
 ---
 # Extrema

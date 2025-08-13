@@ -1,4 +1,5 @@
 ---
+title: Further on the Binder
 Owner: Matcha
 ---
 ## Simultaneous symbol definition

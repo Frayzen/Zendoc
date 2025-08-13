@@ -1,4 +1,5 @@
 ---
+title: Arithmetic and logic
 Owner: Matcha
 ---
 ![[Cours_Informatique_Quantique_2024____avec_references_vers_exos_compressed-65-97.pdf]]

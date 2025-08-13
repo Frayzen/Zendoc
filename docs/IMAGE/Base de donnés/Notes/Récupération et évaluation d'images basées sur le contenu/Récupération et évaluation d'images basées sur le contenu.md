@@ -1,4 +1,5 @@
 ---
+title: Récupération et évaluation d'images basées sur le contenu
 Matière:
   - "[[ML pour la Reconnaissance des Formes]]"
 Type: Cours

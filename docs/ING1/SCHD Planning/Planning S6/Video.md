@@ -1,4 +1,5 @@
 ---
+title: Video
 Leson:
   - "[[PBSA Probabilites et statistiques]]"
 Done (Flo): true

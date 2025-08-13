@@ -1,4 +1,5 @@
 ---
+title: Generalized integral 1
 État: Done
 Evaluation le: 2023-09-11
 ---

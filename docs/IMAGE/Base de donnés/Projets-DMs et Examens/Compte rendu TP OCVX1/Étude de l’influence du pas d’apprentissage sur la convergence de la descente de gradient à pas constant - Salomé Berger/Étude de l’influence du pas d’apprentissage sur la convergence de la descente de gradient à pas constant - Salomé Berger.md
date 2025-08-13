@@ -1,3 +1,7 @@
+---
+title: Étude de l’influence du pas d’apprentissage sur la convergence de la descente de gradient à pas constant - Salomé Berger
+---
+
 # **1. Introduction**
 Dans cette partie, nous étudions le comportement de l’algorithme de **descente de gradient à pas constant**, appliqué à la minimisation d’une fonction quadratique convexe. Le choix du **pas d’apprentissage** $\alpha$ est une composante critique de l’algorithme : un pas trop petit induit une convergence lente, tandis qu’un pas trop grand peut provoquer une divergence.
 L’objectif de ce benchmark est de **mettre en évidence empiriquement** les propriétés théoriques de la descente de gradient, en particulier l’influence du pas $\alpha$ sur la **vitesse de convergence**. Nous comparons les performances de l’algorithme pour différents choix de $\alpha$, en lien avec les **valeurs limites théoriques** issues de l’analyse de la fonction testée. Le cas unidimensionnel ($n=1$) est d’abord étudié en détail, avant d’envisager des extensions en dimension $n = 2$ et $n = 5$.

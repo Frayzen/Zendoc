@@ -1,4 +1,5 @@
 ---
+title: Principals of OS
 Owner: "Florian "
 ---
 ![[ivan_boule_epita_gistre_cours_os_2_principles.pdf]]

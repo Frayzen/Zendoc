@@ -1,4 +1,5 @@
 ---
+title: QUANTUM
 Owner: "Florian "
 ---
 [[QUANTUM/Modern Physics/Quantum Mechanics]]

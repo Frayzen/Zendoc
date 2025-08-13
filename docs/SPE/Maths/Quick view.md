@@ -1,4 +1,5 @@
 ---
+title: Quick view
 Owner: "Florian "
 ---
 # Sequence of function

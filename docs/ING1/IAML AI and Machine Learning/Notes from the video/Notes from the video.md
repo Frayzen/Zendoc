@@ -1,4 +1,5 @@
 ---
+title: Notes from the video
 Owner: Tim Pearson
 ---
 [[Notation]]

@@ -1,4 +1,5 @@
 ---
+title: Tiny X
 Matiére:
   - "[[IMAGE/Base de donnés/Matières/INFO8/INFO8\\|INFO8]]"
 Date: 2025-04-12

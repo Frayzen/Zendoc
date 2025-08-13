@@ -1,4 +1,5 @@
 ---
+title: ML pour la Reconnaissance des Formes
 Code: MLRF
 UE: Outils et Modélisation
 URL Moodle: https://moodle.epita.fr/course/view.php?id=4003

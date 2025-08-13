@@ -1,4 +1,5 @@
 ---
+title: Séparation des pouvoirs
 Owner: Matcha
 ---
 La séparation des pouvoirs en France est un principe fondamental inscrit dans la Constitution. Ce concept, élaboré par Montesquieu, vise à éviter l'abus de pouvoir en répartissant les fonctions de l'État entre trois pouvoirs distincts et indépendants les uns des autres :

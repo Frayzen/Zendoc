@@ -1,4 +1,5 @@
 ---
+title: MBTI
 Owner: Matcha
 ---
 # Course on MBTI (Myers-Briggs Type Indicator)

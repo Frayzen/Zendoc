@@ -1,4 +1,5 @@
 ---
+title: Further Type checking
 Owner: Matcha
 ---
 We need another method if we have classes → for TC-O

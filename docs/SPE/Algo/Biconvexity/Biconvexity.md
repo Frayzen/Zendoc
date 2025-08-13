@@ -1,4 +1,5 @@
 ---
+title: Biconvexity
 Owner: "Florian "
 ---
 ![[graphes_biconnexite.pdf]]

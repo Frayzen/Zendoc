@@ -1,4 +1,5 @@
 ---
+title: Projet IML
 Matiére:
   - "[[Introduction au Machine Learning]]"
 Date: 2025-05-16

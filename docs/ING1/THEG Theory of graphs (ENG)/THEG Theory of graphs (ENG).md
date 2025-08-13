@@ -1,4 +1,5 @@
 ---
+title: THEG Theory of graphs (ENG)
 Owner: "Florian "
 ---
 # Grading

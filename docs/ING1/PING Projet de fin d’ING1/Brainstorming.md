@@ -1,4 +1,5 @@
 ---
+title: Brainstorming
 Owner: "Florian "
 ---
 # IDE for Lazy People

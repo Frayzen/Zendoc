@@ -1,4 +1,5 @@
 ---
+title: Programmation OpenGL
 Code: POGL
 UE: Outils et Modélisation
 URL Moodle: https://moodle.epita.fr/course/view.php?id=1968

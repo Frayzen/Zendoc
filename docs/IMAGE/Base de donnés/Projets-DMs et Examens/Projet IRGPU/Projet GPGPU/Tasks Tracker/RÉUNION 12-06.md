@@ -1,4 +1,5 @@
 ---
+title: RÉUNION 12-06
 Status: Done
 Assignee: Matchaemma casagrandeAnthav OineardUUnrealPaulo
 Due date: 2025-12-06T18:00

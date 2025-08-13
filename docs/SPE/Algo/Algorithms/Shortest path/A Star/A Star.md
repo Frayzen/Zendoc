@@ -1,4 +1,5 @@
 ---
+title: A Star
 Allow circuit: true
 Allow negative cost: false
 Type of algorithm: One point to one point

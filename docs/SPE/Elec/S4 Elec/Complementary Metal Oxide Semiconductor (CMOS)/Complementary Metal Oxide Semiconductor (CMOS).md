@@ -1,4 +1,5 @@
 ---
+title: Complementary Metal Oxide Semiconductor (CMOS)
 Owner: "Florian "
 ---
 # Vidéo

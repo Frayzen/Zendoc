@@ -1,4 +1,5 @@
 ---
+title: Projet ISIM
 Matiére:
   - "[[Introduction à la synthèse d’image]]"
 Date: 2025-05-22

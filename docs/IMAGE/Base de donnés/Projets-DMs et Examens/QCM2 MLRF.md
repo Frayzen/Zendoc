@@ -1,4 +1,5 @@
 ---
+title: QCM2 MLRF
 Matiére:
   - "[[ML pour la Reconnaissance des Formes]]"
 Date: 2025-06-02

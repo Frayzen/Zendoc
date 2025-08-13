@@ -1,3 +1,7 @@
+---
+title: Seuillage (Thresholding)
+---
+
 # Hysteresis Thresholding
 
 > [!info] Hysteresis  

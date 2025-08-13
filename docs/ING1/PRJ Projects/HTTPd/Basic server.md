@@ -1,4 +1,5 @@
 ---
+title: Basic server
 Owner: Tim Pearson
 ---
 - 1) init addrinfo structs

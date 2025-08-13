@@ -1,4 +1,5 @@
 ---
+title: Threads & Scheduler
 Owner: "Florian "
 ---
 ![[ivan_boule_epita_gistre_cours_os_3_threads.pdf]]

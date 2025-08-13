@@ -1,4 +1,5 @@
 ---
+title: Laplacian
 Input:
   - scalar-valued
   - vector

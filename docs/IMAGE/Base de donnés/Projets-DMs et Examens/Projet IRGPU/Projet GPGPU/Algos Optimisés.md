@@ -1,3 +1,7 @@
+---
+title: Algos Optimisés
+---
+
 _Auteurs: Emma Casagrande + Antoine Havard_
 
 > [!info] projet.liris.cnrs.fr  

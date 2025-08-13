@@ -1,4 +1,5 @@
 ---
+title: Electromagnetism
 Owner: Tim Pearson
 ---
 ## 1 Properties of electromagnetic waves

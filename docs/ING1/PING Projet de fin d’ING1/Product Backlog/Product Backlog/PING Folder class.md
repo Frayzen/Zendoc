@@ -1,4 +1,5 @@
 ---
+title: PING Folder class
 Status: Merged
 Assign: "Florian "
 Branch: flo-ping-folder

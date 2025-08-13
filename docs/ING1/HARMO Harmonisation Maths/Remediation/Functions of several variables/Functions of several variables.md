@@ -1,4 +1,5 @@
 ---
+title: Functions of several variables
 Owner: "Florian "
 ---
   

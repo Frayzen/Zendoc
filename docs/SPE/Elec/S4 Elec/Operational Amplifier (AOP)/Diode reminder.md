@@ -1,4 +1,5 @@
 ---
+title: Diode reminder
 Owner: "Florian "
 ---
 $I_D = I_S e^{\frac{V_D}{mV_T}}$

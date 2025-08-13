@@ -1,4 +1,5 @@
 ---
+title: Les droits d’auteurs
 Owner: "Florian "
 ---
 La jurisprudence a un role tres important en droit d’auteur: de nouvelles oeuvres sont creer tout les jours mais la lois n’evolue pas aussi vite. Il y a beaucoup d’alea donc beaucoup de jurisprudence.

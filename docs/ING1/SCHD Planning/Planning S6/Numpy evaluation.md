@@ -1,4 +1,5 @@
 ---
+title: Numpy evaluation
 Leson:
   - "[[CAMA Calcul matriciel]]"
 Done (Flo): true

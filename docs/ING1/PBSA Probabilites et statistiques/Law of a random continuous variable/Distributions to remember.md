@@ -1,4 +1,5 @@
 ---
+title: Distributions to remember
 Owner: Tim Pearson
 ---
 # Discrete

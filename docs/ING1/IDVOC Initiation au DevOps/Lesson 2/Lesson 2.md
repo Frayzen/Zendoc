@@ -1,4 +1,5 @@
 ---
+title: Lesson 2
 Owner: Tim Pearson
 ---
 ## YAML

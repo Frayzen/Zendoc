@@ -1,4 +1,5 @@
 ---
+title: INFO8
 Code: INFO8
 UE: Application Multi-services
 URL Moodle: https://moodle.epita.fr/course/view.php?id=3928

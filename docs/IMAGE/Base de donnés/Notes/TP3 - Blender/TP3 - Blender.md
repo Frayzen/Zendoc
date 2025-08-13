@@ -1,4 +1,5 @@
 ---
+title: TP3 - Blender
 Matière:
   - "[[Introduction à la synthèse d’image]]"
 Type: TP/TD

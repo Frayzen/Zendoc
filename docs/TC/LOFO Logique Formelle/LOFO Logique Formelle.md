@@ -1,4 +1,5 @@
 ---
+title: LOFO Logique Formelle
 Owner: Matcha
 ---
 ### Format

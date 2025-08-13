@@ -1,4 +1,5 @@
 ---
+title: Partiel GRS
 Matiére:
   - "[[Gestions des Risques]]"
 Date: 2025-06-24

@@ -1,4 +1,5 @@
 ---
+title: Article KPRAT
 Matiére:
   - "[[Étude de cas pratique en image et Rdf]]"
 Date: 2025-06-17

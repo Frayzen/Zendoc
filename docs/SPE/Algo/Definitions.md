@@ -1,4 +1,5 @@
 ---
+title: Definitions
 Owner: Tim Pearson
 ---
 articulation point:

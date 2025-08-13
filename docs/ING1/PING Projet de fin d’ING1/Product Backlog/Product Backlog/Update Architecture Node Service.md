@@ -1,4 +1,5 @@
 ---
+title: Update Architecture Node Service
 Status: Merged
 Assign: Tim Pearson
 Branch: tim-update-nodes

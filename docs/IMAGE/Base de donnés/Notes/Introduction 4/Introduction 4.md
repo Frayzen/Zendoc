@@ -1,4 +1,5 @@
 ---
+title: Introduction 4
 Matière:
   - "[[Optimisation Convexe 1]]"
 Type: Cours

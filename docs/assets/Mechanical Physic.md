@@ -1,4 +1,5 @@
 ---
+title: Mechanical Physic
 Owner: "Florian "
 ---
 > [!info] Lecture Collection | Classical Mechanics (Fall 2011)  

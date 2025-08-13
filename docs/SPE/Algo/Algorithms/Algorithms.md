@@ -1,4 +1,5 @@
 ---
+title: Algorithms
 Owner: "Florian "
 ---
 [[SPE/Algo/Algorithms/Shortest path/Shortest path]]

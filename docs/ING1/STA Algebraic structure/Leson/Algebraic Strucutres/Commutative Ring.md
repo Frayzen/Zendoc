@@ -1,4 +1,5 @@
 ---
+title: Commutative Ring
 Associativity: + and x
 Closure: true
 Commutativity: + and x

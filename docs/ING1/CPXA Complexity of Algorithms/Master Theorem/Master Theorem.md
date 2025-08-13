@@ -1,4 +1,5 @@
 ---
+title: Master Theorem
 Owner: Tim Pearson
 ---
 Used for divide and conquer algorithms

@@ -1,4 +1,5 @@
 ---
+title: Logique Formelle
 Code: LOFO
 UE: Sciences de base
 URL Moodle: https://moodle.epita.fr/course/view.php?id=4008#section-3

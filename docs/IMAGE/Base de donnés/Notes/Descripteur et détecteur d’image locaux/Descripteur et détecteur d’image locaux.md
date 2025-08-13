@@ -1,4 +1,5 @@
 ---
+title: Descripteur et détecteur d’image locaux
 Matière:
   - "[[ML pour la Reconnaissance des Formes]]"
 Type: Cours

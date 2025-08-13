@@ -1,4 +1,5 @@
 ---
+title: Parallel Programming
 Owner: Tim Pearson
 ---
 [[ING1/Parallel Programming/Lesson 1/Lesson 1|Lesson 1]]

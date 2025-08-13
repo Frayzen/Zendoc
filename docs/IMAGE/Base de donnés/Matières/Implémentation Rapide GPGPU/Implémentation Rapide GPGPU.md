@@ -1,4 +1,5 @@
 ---
+title: Implémentation Rapide GPGPU
 Code: IRGPU
 UE: Outils et Modélisation
 URL Moodle: https://moodle.epita.fr/course/view.php?id=4002

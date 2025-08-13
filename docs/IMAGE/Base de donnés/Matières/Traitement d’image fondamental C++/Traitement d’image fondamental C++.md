@@ -1,4 +1,5 @@
 ---
+title: Traitement d’image fondamental C++
 Code: TIFO1
 UE: Traitement et sythèse
 URL Moodle: https://moodle.epita.fr/course/view.php?id=4034

@@ -1,4 +1,5 @@
 ---
+title: Estimation
 Matière:
   - "[[Probabilité et Statistiques]]"
 Type: Notes

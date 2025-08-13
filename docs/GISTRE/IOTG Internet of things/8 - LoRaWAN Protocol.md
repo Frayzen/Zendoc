@@ -1,4 +1,5 @@
 ---
+title: 8 - LoRaWAN Protocol
 Owner: "Florian "
 ---
 ## **1. LoRa vs LoRaWAN**

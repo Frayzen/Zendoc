@@ -1,3 +1,7 @@
+---
+title: Morphologie brouillon
+---
+
 # Nettoyage du masque de mouvement - Morphologie math
 Voici la **section sur la morphologie**, rédigée dans le même style que le reste de votre rapport :
 Après détection du mouvement à l’aide des différents algorithmes (background estimation, moyenne glissante, etc.), le masque de mouvement brut peut contenir beaucoup de bruit : des pixels isolés, des zones non connectées, ou encore des artefacts dus à la compression vidéo ou à la lumière.

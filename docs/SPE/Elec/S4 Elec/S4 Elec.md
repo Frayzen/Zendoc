@@ -1,4 +1,5 @@
 ---
+title: S4 Elec
 Owner: "Florian "
 ---
 [[Junction Field Effect Transistor (JFET)]]

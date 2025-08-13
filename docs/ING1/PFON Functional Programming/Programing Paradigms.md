@@ -1,4 +1,5 @@
 ---
+title: Programing Paradigms
 Owner: Matcha
 ---
 # Programming Paradigms

@@ -1,4 +1,5 @@
 ---
+title: Formalisation Logique
 Owner: "Florian "
 ---
 [[ING1/HARMO Harmonisation Maths/Remediation/Formalisation Logique/Introduction/Introduction|Introduction]]

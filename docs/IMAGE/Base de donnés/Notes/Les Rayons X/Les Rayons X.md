@@ -1,4 +1,5 @@
 ---
+title: Les Rayons X
 Matière:
   - "[[Introduction à l’imagerie médicale]]"
 Type: Cours

@@ -1,4 +1,5 @@
 ---
+title: IMAGE
 Owner: Matcha
 ---
 > 🦊 _Tes projets, jamais tu ne rusheras. Les cours, tu suivras. La communication, tu privilégieras. Le sel, tu éviteras. La bonne humeur, tu transmettras._

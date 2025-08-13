@@ -1,4 +1,5 @@
 ---
+title: 7 - LoRaWAN Physical Layer
 Owner: "Florian "
 ---
 ### **1. LoRa Modulation Basics**

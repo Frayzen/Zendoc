@@ -1,4 +1,5 @@
 ---
+title: Nespresso
 Class: LAW
 DEADLINE: 2025-04-08
 Priority: LOW

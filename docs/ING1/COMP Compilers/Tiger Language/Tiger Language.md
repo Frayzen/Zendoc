@@ -1,4 +1,5 @@
 ---
+title: Tiger Language
 Owner: Tim Pearson
 ---
 - Imperative Language: descendant of Algol and Pascal

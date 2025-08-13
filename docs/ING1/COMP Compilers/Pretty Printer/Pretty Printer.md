@@ -1,4 +1,5 @@
 ---
+title: Pretty Printer
 Owner: Matcha
 ---
 Used to check if the first steps of the compiler are good.

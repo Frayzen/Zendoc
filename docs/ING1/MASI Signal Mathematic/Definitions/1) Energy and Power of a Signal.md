@@ -1,3 +1,4 @@
 ---
+title: 1) Energy and Power of a Signal
 Owner: Tim Pearson
 ---

@@ -1,4 +1,5 @@
 ---
+title: Exercices 4
 Matière:
   - "[[Probabilité et Statistiques]]"
 Type: TP/TD

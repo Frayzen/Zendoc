@@ -1,4 +1,5 @@
 ---
+title: Names, scopes and lifetimes
 Owner: Matcha
 ---
 # Name

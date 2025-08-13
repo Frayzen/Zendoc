@@ -1,4 +1,5 @@
 ---
+title: Conférence Technologique (S8)
 Code: RE_S8
 UE: Managment et Connaissances pour l'entreprise
 Status: 0 Projets/DM, 0 Examens

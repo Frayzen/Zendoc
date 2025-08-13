@@ -1,4 +1,5 @@
 ---
+title: FICHE DE RÉVISION – LOGIQUE FORMELLE
 Owner: Matcha
 ---
 ### 1. Définitions Fondamentales

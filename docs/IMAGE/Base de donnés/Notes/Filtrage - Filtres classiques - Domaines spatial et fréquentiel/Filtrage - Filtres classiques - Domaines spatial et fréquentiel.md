@@ -1,4 +1,5 @@
 ---
+title: Filtrage - Filtres classiques - Domaines spatial et fréquentiel
 Matière:
   - "[[Traitement d’image fondamental C++]]"
 Type: Cours

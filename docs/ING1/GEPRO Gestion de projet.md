@@ -1,4 +1,5 @@
 ---
+title: GEPRO Gestion de projet
 Owner: Matcha
 ---
 ## Activity Format

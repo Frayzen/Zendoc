@@ -1,4 +1,5 @@
 ---
+title: ISO-OSI
 Owner: "Florian "
 ---
 **ISO:** The ISO/OSI (International Organization for Standardization/Open Systems Interconnection) standard is a conceptual framework that defines the functions and relationships of network protocol layers to facilitate interoperability in computer networking.

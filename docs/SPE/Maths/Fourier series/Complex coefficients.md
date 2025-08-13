@@ -1,4 +1,5 @@
 ---
+title: Complex coefficients
 Owner: "Florian "
 ---
 $e^{-i\theta} = cos(\theta) + isin(\theta)$

@@ -1,4 +1,5 @@
 ---
+title: Les méthodes de descente
 Matière:
   - "[[Optimisation Convexe 1]]"
 Type: Cours

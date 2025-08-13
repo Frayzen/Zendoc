@@ -1,4 +1,5 @@
 ---
+title: CHIFR Chiffrement et code correcteur
 Owner: "Florian "
 ---
 ## Activity Format

@@ -1,4 +1,5 @@
 ---
+title: TD4 - Convexite d’ordre 1,2 et points critiques
 Matière:
   - "[[Optimisation Convexe 1]]"
 Type: TP/TD

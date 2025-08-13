@@ -1,4 +1,5 @@
 ---
+title: Tour d’horizon
 Matière:
   - "[[Introduction aux Réseaux de Neuronnes]]"
 Type: Cours

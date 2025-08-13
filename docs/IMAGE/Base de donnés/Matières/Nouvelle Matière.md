@@ -1,4 +1,5 @@
 ---
+title: Nouvelle Matière
 Status: 0 Projets/DM, 0 Examens
 Moyenne: "0"
 Moyenne /20: "0"

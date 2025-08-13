@@ -1,4 +1,5 @@
 ---
+title: Introduction - Architectures GPU
 Matière:
   - "[[Implémentation Rapide GPGPU]]"
 Type: Cours

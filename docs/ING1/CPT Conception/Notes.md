@@ -1,4 +1,5 @@
 ---
+title: Notes
 Owner: "Florian "
 ---
 # Objectives of the class

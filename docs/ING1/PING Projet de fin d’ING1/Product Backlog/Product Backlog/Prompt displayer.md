@@ -1,4 +1,5 @@
 ---
+title: Prompt displayer
 Status: Not started
 Allows:
   - "[[File - Folder renamer]]"

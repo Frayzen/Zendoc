@@ -1,4 +1,5 @@
 ---
+title: Proofs
 Owner: "Florian "
 ---
 ![[Theorems_proof_Sequences_of_functions_English.pdf]]

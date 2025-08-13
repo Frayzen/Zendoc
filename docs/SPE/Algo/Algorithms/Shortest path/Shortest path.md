@@ -1,3 +1,7 @@
+---
+title: Shortest path
+---
+
 |Name|![](https://www.notion.so/icons/circle-dashed_gray.svg)Allow circuit|![](https://www.notion.so/icons/circle-remove_gray.svg)Allow negative cost|![](https://www.notion.so/icons/hammer_gray.svg)Type of algorithm|remember|
 |---|---|---|---|---|
 |[[Dijsktra]]|[x]|[ ]|One point to every others|D = del_min_list|

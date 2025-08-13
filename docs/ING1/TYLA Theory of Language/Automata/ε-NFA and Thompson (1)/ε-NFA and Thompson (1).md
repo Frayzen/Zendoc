@@ -1,4 +1,5 @@
 ---
+title: ε-NFA and Thompson (1)
 Owner: Tim Pearson
 ---
 (non-deterministic finite automata with ε-transitions)

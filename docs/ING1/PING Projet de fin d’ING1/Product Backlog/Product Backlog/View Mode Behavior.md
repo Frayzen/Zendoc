@@ -1,4 +1,5 @@
 ---
+title: View Mode Behavior
 Status: Bonus
 Depends:
   - "[[View Mode Manager]]"

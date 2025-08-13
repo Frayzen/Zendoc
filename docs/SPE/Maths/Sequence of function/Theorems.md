@@ -1,4 +1,5 @@
 ---
+title: Theorems
 Owner: Tim Pearson
 ---
 ### Point-wise convergence

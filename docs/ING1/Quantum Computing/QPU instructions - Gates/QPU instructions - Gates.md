@@ -1,4 +1,5 @@
 ---
+title: QPU instructions - Gates
 Owner: Matcha
 ---
 # Single qubit

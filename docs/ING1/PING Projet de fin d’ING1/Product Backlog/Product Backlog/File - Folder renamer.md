@@ -1,4 +1,5 @@
 ---
+title: File - Folder renamer
 Status: Not started
 Depends:
   - "[[File display]]"

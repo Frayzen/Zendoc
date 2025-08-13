@@ -1,3 +1,7 @@
+---
+title: Sujet
+---
+
 En groupe de 3 on a chacun un benchmark a faire. Aide moi a faire le miens (pas la peine de t'occuper celui des autres).
 La capacité à produire un benchmark de qualité, et surtout à l'analyser de manière rigoureuse et d'en tirer des conclusions pertinentes, est evaluee.**Votre rendu sera donc jugé sur :**
 - l'étude effectuée concernant la sensibilité de vos algorithmes de descente aux hyperparamètres et conditions initiales

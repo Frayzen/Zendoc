@@ -1,4 +1,5 @@
 ---
+title: Linear algebra
 Owner: "Florian "
 ---
 [[ING1/CAMA Calcul matriciel/Linear algebra/Definitions|Definitions]]

@@ -1,4 +1,5 @@
 ---
+title: Seance 2
 Owner: "Florian "
 ---
 Whenever f(x) is not defined at a and b, we can do that:

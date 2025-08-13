@@ -1,3 +1,7 @@
+---
+title: Nettoyage spatial (Morphologie, post-processing)
+---
+
 ## Morphological Opening (Square & Disk)
 
 > [!info] Opening (morphology)  

@@ -1,4 +1,5 @@
 ---
+title: Dijsktra
 Allow circuit: true
 Allow negative cost: false
 Type of algorithm: One point to every others

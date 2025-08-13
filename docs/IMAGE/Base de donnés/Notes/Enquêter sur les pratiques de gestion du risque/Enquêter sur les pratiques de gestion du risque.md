@@ -1,4 +1,5 @@
 ---
+title: Enquêter sur les pratiques de gestion du risque
 Matière:
   - "[[Gestions des Risques]]"
 Type: Cours

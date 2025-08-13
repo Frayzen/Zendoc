@@ -1,4 +1,5 @@
 ---
+title: Leson
 Owner: Florian
 ---
 [[Properties]]

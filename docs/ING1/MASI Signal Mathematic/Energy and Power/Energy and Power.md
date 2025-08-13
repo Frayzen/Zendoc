@@ -1,4 +1,5 @@
 ---
+title: Energy and Power
 Owner: Tim Pearson
 ---
 # Energy of a signal

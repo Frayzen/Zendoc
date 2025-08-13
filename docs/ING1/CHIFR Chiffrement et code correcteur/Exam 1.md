@@ -1,4 +1,5 @@
 ---
+title: Exam 1
 Owner: Tim Pearson
 ---
 # Discrete logarithm

@@ -1,4 +1,5 @@
 ---
+title: Features
 Status: Merged
 Allows:
   - "[[Project exec feature]]"

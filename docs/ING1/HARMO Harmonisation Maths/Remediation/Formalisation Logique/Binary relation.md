@@ -1,4 +1,5 @@
 ---
+title: Binary relation
 Owner: "Florian "
 ---
 - We want to properly define relations between objects.

@@ -1,4 +1,5 @@
 ---
+title: CM 1
 Leson:
   - "[[IAML AI and Machine Learning]]"
 Done (Flo): true

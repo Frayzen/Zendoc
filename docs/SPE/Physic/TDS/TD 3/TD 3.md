@@ -1,4 +1,5 @@
 ---
+title: TD 3
 Owner: Tim Pearson
 ---
 ## EX 1 Self-induction phenomenon

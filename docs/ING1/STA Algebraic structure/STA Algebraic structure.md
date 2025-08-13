@@ -1,4 +1,5 @@
 ---
+title: STA Algebraic structure
 Owner: "Florian "
 ---
 [[Leson]]

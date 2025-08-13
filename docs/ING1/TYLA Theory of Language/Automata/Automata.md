@@ -1,4 +1,5 @@
 ---
+title: Automata
 Owner: Tim Pearson
 ---
 ![[Untitled 54.png|Untitled 54.png]]

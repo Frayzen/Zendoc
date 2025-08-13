@@ -1,4 +1,5 @@
 ---
+title: Wave-Particle Duality
 Owner: Tim Pearson
 ---
 [[Exercise]]

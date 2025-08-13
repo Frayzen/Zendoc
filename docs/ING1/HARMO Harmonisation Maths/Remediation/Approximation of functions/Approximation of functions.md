@@ -1,4 +1,5 @@
 ---
+title: Approximation of functions
 Owner: "Florian "
 ---
 # Lesson

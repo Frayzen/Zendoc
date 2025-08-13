@@ -1,4 +1,5 @@
 ---
+title: Bellmann 🔔🧑‍💼
 Allow circuit: false
 Allow negative cost: true
 Type of algorithm: One point to every others

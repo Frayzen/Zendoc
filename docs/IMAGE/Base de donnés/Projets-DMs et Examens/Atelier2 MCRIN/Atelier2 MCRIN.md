@@ -1,4 +1,5 @@
 ---
+title: Atelier2 MCRIN
 Matiére:
   - "[[Devenir Créatif et Innovant]]"
 Date: 2025-04-07

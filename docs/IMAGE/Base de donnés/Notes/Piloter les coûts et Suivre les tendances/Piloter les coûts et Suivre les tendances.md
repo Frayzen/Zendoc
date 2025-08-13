@@ -1,4 +1,5 @@
 ---
+title: Piloter les coûts et Suivre les tendances
 Matière:
   - "[[Management et Pilotage de Projets]]"
 Type: Cours

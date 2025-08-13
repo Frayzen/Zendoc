@@ -1,4 +1,5 @@
 ---
+title: Introduction à VTK-IKT
 Code: VITK
 UE: Outils et Modélisation
 URL Moodle: https://moodle.epita.fr/course/view.php?id=4008#section-3

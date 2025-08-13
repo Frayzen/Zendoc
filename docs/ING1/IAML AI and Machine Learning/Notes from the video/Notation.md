@@ -1,4 +1,5 @@
 ---
+title: Notation
 Owner: Tim Pearson
 ---
 $m = \text{size of train set} \\  

@@ -1,4 +1,5 @@
 ---
+title: Generalized Integral
 Owner: "Florian "
 ---
 [[Seance 1]]

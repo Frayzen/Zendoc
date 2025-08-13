@@ -1,4 +1,5 @@
 ---
+title: Series Formulas
 Owner: Tim Pearson
 ---
 # Series Formulas

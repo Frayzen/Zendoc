@@ -1,3 +1,7 @@
+---
+title: Probabilité et Statistiques
+---
+
 ## Polycopié du cours
 ![[polycopiepbs2.pdf]]
 ## À réviser

@@ -1,4 +1,5 @@
 ---
+title: Spanning tree
 Created: false
 Learnt Flo: false
 Learnt Tim: false

@@ -1,4 +1,5 @@
 ---
+title: PingAspect class
 Status: Merged
 Assign: Matcha
 Branch: slm-aspect

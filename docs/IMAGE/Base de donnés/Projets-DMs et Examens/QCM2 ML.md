@@ -1,4 +1,5 @@
 ---
+title: QCM2 ML
 Matiére:
   - "[[Introduction au Machine Learning]]"
 Date: 2025-03-24

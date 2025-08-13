@@ -1,4 +1,5 @@
 ---
+title: Partiel MPRO
 Matiére:
   - "[[Management et Pilotage de Projets]]"
 Date: 2025-06-24

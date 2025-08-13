@@ -1,4 +1,5 @@
 ---
+title: Video- Espérance et Variance
 Owner: "Florian "
 ---
 [https://www.youtube.com/watch?v=y215smejbDg](https://www.youtube.com/watch?v=y215smejbDg)

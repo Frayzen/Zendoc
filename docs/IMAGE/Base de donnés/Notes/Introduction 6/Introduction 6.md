@@ -1,4 +1,5 @@
 ---
+title: Introduction 6
 Matière:
   - "[[Introduction aux Réseaux de Neuronnes]]"
 Type: Cours

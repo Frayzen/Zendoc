@@ -1,4 +1,5 @@
 ---
+title: RAW
 Matière:
   - "[[Traitement d’image fondamental C++]]"
 Type: Cours

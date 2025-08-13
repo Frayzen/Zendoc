@@ -1,4 +1,5 @@
 ---
+title: Introduction au risque dans l’écosystème numérique global
 Matière:
   - "[[Gestions des Risques]]"
 Type: Cours

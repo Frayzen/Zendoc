@@ -1,4 +1,5 @@
 ---
+title: Segmentation, débruitage, évaluation
 Matière:
   - "[[Traitement d’image fondamental Python]]"
 Type: Cours

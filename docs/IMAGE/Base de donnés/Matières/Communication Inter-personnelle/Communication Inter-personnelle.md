@@ -1,3 +1,7 @@
+---
+title: Communication Inter-personnelle
+---
+
 ## Plan cours
 ### 1ère séance :
 - Historique de l’approche typologique

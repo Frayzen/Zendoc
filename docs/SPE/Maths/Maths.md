@@ -1,4 +1,5 @@
 ---
+title: Maths
 Owner: "Florian "
 ---
 [[Quick view]]

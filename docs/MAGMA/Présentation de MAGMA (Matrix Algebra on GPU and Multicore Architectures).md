@@ -1,4 +1,5 @@
 ---
+title: Présentation de MAGMA (Matrix Algebra on GPU and Multicore Architectures)
 Owner: Matcha
 ---
 ## Qu’est-ce que MAGMA ?

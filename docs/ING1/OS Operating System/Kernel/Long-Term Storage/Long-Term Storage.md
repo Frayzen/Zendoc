@@ -1,4 +1,5 @@
 ---
+title: Long-Term Storage
 Owner: "Florian "
 ---
 # Storage device

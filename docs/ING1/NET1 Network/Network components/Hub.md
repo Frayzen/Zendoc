@@ -1,4 +1,5 @@
 ---
+title: Hub
 Owner: "Florian "
 ---
 A **hub** is a basic networking device used to connect multiple devices in a network. It operates at the physical layer (Layer 1) of the OSI model and is sometimes referred to as a "dumb" device because it doesn't have the intelligence to make decisions about where to send data like a switch or a router. Here's a simple explanation:

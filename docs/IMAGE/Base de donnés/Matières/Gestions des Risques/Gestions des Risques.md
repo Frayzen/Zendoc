@@ -1,4 +1,5 @@
 ---
+title: Gestions des Risques
 Code: GRS
 UE: Managment et Connaissances pour l'entreprise
 URL Moodle: https://moodle.epita.fr/course/view.php?id=2993

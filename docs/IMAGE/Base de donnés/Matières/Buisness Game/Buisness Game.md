@@ -1,4 +1,5 @@
 ---
+title: Buisness Game
 Code: BUGA
 UE: Managment et Connaissances pour l'entreprise
 Status: 0 Projets/DM, 0 Examens

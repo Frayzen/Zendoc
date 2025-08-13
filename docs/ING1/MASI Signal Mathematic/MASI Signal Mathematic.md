@@ -1,4 +1,5 @@
 ---
+title: MASI Signal Mathematic
 Owner: Matcha
 ---
 # Intro, Energy, Power

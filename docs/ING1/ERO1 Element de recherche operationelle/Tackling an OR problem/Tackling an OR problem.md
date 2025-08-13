@@ -1,4 +1,5 @@
 ---
+title: Tackling an OR problem
 Owner: Matcha
 ---
 ## What is Operationnal research ?

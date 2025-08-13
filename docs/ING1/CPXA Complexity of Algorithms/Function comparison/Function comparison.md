@@ -1,4 +1,5 @@
 ---
+title: Function comparison
 Owner: "Florian "
 ---
 > [!important] All of the comparisons are assumed to be done as n goes to infinity

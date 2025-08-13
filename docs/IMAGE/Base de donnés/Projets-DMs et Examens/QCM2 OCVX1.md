@@ -1,4 +1,5 @@
 ---
+title: QCM2 OCVX1
 Matiére:
   - "[[Optimisation Convexe 1]]"
 Date: 2025-03-24

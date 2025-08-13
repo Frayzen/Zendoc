@@ -1,4 +1,5 @@
 ---
+title: Closed source vs Open source
 Owner: "Florian "
 ---
 - In a way, closed source is not more secured, it all depend on who is reviewing the code.

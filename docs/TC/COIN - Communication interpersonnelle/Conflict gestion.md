@@ -1,4 +1,5 @@
 ---
+title: Conflict gestion
 Owner: Matcha
 ---
 # Synthetic Course on MBTI, Conflict Management, and Leadership

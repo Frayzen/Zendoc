@@ -1,4 +1,5 @@
 ---
+title: CM1
 Owner: Tanguy Ducrocq
 ---
 # Class

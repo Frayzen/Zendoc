@@ -1,4 +1,5 @@
 ---
+title: Centeroid or center of mass
 Owner: Tim Pearson
 ---
   

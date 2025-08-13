@@ -1,4 +1,5 @@
 ---
+title: Network components
 Owner: "Florian "
 ---
 [[Hub]]

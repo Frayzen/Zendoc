@@ -1,4 +1,5 @@
 ---
+title: Auto Correlation
 Owner: Tim Pearson
 ---
 $\Gamma_{xx}(\tau) = ⟨x(t), x(t − τ )⟩ = \int _{\mathbb{R}}  

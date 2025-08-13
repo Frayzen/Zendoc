@@ -1,4 +1,5 @@
 ---
+title: fix setting paths of nodes
 Status: Not started
 Feature: Backend
 ---

@@ -1,4 +1,5 @@
 ---
+title: Rappels et histogrammes couleur
 Matière:
   - "[[ML pour la Reconnaissance des Formes]]"
 Type: Cours

@@ -1,4 +1,5 @@
 ---
+title: Hilbert space
 Owner: "Florian "
 ---
 [[SPE/Maths/Hilbert space/Definition/Definition]]

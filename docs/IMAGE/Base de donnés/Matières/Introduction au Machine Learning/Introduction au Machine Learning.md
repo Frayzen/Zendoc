@@ -1,4 +1,5 @@
 ---
+title: Introduction au Machine Learning
 Code: IML
 UE: Techniques Mathématiques
 URL Moodle: https://moodle.epita.fr/course/view.php?id=4037

@@ -1,4 +1,5 @@
 ---
+title: Formation de l’image
 Matière:
   - "[[Traitement d’image fondamental C++]]"
 Type: Cours

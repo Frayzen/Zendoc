@@ -1,4 +1,5 @@
 ---
+title: TYLA Theory of Language
 Owner: Tim Pearson
 ---
 [[ING1/TYLA Theory of Language/Definitions/Definitions|Definitions]]

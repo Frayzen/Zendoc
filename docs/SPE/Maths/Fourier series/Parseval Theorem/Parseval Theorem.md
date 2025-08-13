@@ -1,4 +1,5 @@
 ---
+title: Parseval Theorem
 Owner: "Florian "
 ---
 # Definition

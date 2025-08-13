@@ -1,4 +1,5 @@
 ---
+title: Escaping variable
 Owner: Matcha
 ---
 The **variable analysis** phase is a semantic phase to find out if each variable escapes or not. It is:

@@ -1,4 +1,5 @@
 ---
+title: Symmetries
 Owner: Matcha
 ---
 # In $\mathbb{R}^2$

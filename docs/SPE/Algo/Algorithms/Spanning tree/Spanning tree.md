@@ -1,4 +1,5 @@
 ---
+title: Spanning tree
 Owner: "Florian "
 ---
 # Algorithms

@@ -1,4 +1,5 @@
 ---
+title: IAML AI and Machine Learning
 Owner: Matcha
 ---
 ## Activity Format

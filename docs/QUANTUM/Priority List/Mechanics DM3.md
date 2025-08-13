@@ -1,4 +1,5 @@
 ---
+title: Mechanics DM3
 Class: Q Mech
 DEADLINE: 2025-04-23
 Priority: HIGH

@@ -1,4 +1,5 @@
 ---
+title: Introduction 8
 Matière:
   - "[[Introduction à l’imagerie médicale]]"
 Type: Cours

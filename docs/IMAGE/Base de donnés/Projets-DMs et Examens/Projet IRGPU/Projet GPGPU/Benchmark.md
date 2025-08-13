@@ -1,3 +1,7 @@
+---
+title: Benchmark
+---
+
 ### Objectifs
 - Comparer les performances du filtre en **CPU** vs **GPU**.
 - Identifier les **goulots d’étranglement** avec **Nsight Systems** ou **nvprof**.

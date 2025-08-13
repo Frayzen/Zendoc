@@ -1,4 +1,5 @@
 ---
+title: Général
 Matière:
   - "[[Management et Pilotage de Projets]]"
 Type: Cours

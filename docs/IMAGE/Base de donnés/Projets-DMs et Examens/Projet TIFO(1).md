@@ -1,4 +1,5 @@
 ---
+title: Projet TIFO(1)
 Matiére:
   - "[[Traitement d’image fondamental C++]]"
 Date: 2025-07-07

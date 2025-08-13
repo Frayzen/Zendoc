@@ -1,4 +1,5 @@
 ---
+title: Maxwell’s equations
 Created: false
 Learnt Flo: false
 Learnt Tim: false

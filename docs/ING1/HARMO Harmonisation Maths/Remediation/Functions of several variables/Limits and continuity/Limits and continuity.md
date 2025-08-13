@@ -1,4 +1,5 @@
 ---
+title: Limits and continuity
 Owner: "Florian "
 ---
 # Limit of a two vaiable functions

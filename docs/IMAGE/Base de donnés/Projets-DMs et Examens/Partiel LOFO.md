@@ -1,4 +1,5 @@
 ---
+title: Partiel LOFO
 Matiére:
   - "[[Logique Formelle]]"
 Date: 2025-06-24

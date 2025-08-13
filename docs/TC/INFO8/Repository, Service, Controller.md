@@ -1,4 +1,5 @@
 ---
+title: Repository, Service, Controller
 Owner: Tim Pearson
 ---
 - `repository/` (add query methods)

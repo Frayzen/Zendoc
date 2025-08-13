@@ -1,3 +1,7 @@
+---
+title: PYBD
+---
+
 # 5 ans de données financières
 Le travail se fait en deux étapes :
 1. Lire les données, les nettoyer et les stocker de facon intelligente dans une base de données,

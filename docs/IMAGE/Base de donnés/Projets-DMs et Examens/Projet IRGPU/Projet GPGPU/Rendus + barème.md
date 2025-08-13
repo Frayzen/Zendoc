@@ -1,3 +1,7 @@
+---
+title: Rendus + barème
+---
+
 ## Livrables
 ### 1. Slides
 - Format PDF

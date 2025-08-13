@@ -1,4 +1,5 @@
 ---
+title: TP1 Reduction de dimension
 Matière:
   - "[[Introduction au Machine Learning]]"
 Type: TP/TD

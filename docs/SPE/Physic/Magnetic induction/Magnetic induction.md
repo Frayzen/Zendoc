@@ -1,4 +1,5 @@
 ---
+title: Magnetic induction
 Owner: "Florian "
 ---
 ![[Induction_Magntique.pdf]]

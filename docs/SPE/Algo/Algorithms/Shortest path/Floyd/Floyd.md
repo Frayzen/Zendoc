@@ -1,4 +1,5 @@
 ---
+title: Floyd
 Allow circuit: true
 Allow negative cost: true
 Type of algorithm: Every points to every points

@@ -1,4 +1,5 @@
 ---
+title: GIT Features
 Status: Merged
 Assign: Tim Pearson
 Branch: slm-any-feat

@@ -1,4 +1,5 @@
 ---
+title: Calcul différentiel
 Matière:
   - "[[Optimisation Convexe 1]]"
 Type: Cours

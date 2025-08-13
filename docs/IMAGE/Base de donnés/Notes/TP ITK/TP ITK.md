@@ -1,4 +1,5 @@
 ---
+title: TP ITK
 Matière:
   - "[[Introduction à VTK-IKT]]"
 Type: TP/TD

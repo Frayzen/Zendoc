@@ -1,4 +1,5 @@
 ---
+title: PINGProject class
 Status: Merged
 Assign: "Florian "
 Branch: flo-project-class

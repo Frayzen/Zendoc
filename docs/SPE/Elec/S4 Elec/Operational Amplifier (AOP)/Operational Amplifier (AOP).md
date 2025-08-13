@@ -1,4 +1,5 @@
 ---
+title: Operational Amplifier (AOP)
 Owner: "Florian "
 ---
 > [!important] Also know as

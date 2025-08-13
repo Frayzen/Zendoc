@@ -1,4 +1,5 @@
 ---
+title: Cours
 Owner: Matcha
 ---
 ### Recent Notes

@@ -1,4 +1,5 @@
 ---
+title: Build file tree method
 Status: Merged
 Assign: "Florian "
 Branch: flo-build-file-tree

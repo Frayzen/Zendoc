@@ -1,4 +1,5 @@
 ---
+title: Frame
 Owner: "Florian "
 ---
 A network frame is made up of several components, including a header, payload, and trailer. These components are organized in a specific structure that allows devices on a network to transmit and receive data efficiently.

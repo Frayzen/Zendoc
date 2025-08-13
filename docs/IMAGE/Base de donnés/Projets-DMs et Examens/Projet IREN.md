@@ -1,4 +1,5 @@
 ---
+title: Projet IREN
 Matiére:
   - "[[Introduction aux Réseaux de Neuronnes]]"
 Date: 2025-06-02

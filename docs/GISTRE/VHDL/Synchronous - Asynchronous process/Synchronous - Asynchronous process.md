@@ -1,4 +1,5 @@
 ---
+title: Synchronous - Asynchronous process
 Owner: "Florian "
 ---
 ### 🔍 **How to Tell if a VHDL Process is Synchronous**

@@ -1,4 +1,5 @@
 ---
+title: Lejeune-Dirichlet
 Owner: "Florian "
 ---
 # Definition

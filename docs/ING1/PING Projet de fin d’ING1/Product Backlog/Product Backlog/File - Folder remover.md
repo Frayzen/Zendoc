@@ -1,4 +1,5 @@
 ---
+title: File - Folder remover
 Status: Not started
 Depends:
   - "[[File display]]"

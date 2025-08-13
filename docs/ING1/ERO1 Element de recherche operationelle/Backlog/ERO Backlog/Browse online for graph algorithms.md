@@ -1,4 +1,5 @@
 ---
+title: Browse online for graph algorithms
 Status: Not started
 ---
 Split graph into $n$ subgraphs

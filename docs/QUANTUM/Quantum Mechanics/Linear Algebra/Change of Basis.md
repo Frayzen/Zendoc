@@ -1,4 +1,5 @@
 ---
+title: Change of Basis
 Owner: Tim Pearson
 ---
 Suppose we have a vector $| \psi \rangle$ in the standard basis, and we want to represent it in two different basis:

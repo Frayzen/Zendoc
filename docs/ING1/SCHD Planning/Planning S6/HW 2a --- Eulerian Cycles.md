@@ -1,4 +1,5 @@
 ---
+title: HW 2a --- Eulerian Cycles
 Leson:
   - "[[THEG Theory of graphs (ENG)]]"
 Done (Flo): true

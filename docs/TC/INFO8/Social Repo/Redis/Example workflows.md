@@ -1,4 +1,5 @@
 ---
+title: Example workflows
 Owner: Tim Pearson
 ---
 ### **1. Redis Setup (Behind the Scenes)**

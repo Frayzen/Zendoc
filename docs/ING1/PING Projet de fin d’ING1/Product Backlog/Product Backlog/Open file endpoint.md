@@ -1,4 +1,5 @@
 ---
+title: Open file endpoint
 Status: Merged
 Assign: "Florian "
 Branch: flo-open-file-ep

@@ -1,4 +1,5 @@
 ---
+title: HW 3a --- Adjacency Matrix
 Leson:
   - "[[THEG Theory of graphs (ENG)]]"
 Done (Flo): true

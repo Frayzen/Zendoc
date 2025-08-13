@@ -1,3 +1,7 @@
+---
+title: Projets-DMs et Examens
+---
+
 Keep track of your assignments, exams, quizzes, group projects, and more.
 
 |Nom|Date|Type|Status|![](https://www.notion.so/icons/hashtag_gray.svg)Pourcentage|![](https://www.notion.so/icons/book_gray.svg)Matiére|

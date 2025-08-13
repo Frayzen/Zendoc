@@ -1,3 +1,7 @@
+---
+title: Cornell Notes
+---
+
 ### Recall
   
 KEYWORD

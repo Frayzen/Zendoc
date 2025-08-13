@@ -1,4 +1,5 @@
 ---
+title: NN Maths
 Owner: Tim Pearson
 ---
 ## Softmax Derivative

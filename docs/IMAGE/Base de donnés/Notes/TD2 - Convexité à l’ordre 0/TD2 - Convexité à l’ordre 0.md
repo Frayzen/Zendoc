@@ -1,4 +1,5 @@
 ---
+title: TD2 - Convexité à l’ordre 0
 Matière:
   - "[[Optimisation Convexe 1]]"
 Type: TP/TD

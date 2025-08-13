@@ -1,4 +1,5 @@
 ---
+title: PFEE Image
 Code: PFE_IMAGE
 UE: Outils et Modélisation
 Status: 1 Projets/DM, 0 Examens

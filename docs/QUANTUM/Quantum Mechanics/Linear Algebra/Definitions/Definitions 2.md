@@ -1,4 +1,5 @@
 ---
+title: Definitions 2
 Owner: Tim Pearson
 ---
 ## Banach Space

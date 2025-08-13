@@ -1,4 +1,5 @@
 ---
+title: Notes partiel
 Matière:
   - "[[Management et Pilotage de Projets]]"
 Type: Notes

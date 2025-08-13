@@ -1,4 +1,5 @@
 ---
+title: Bipolar Transistor
 Owner: "Florian "
 ---
 # Cours

@@ -1,4 +1,5 @@
 ---
+title: TP 3 (graded)
 Leson:
   - "[[TYLA Typology of Languages]]"
 Done (Flo): false

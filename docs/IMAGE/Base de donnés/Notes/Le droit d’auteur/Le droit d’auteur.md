@@ -1,4 +1,5 @@
 ---
+title: Le droit d’auteur
 Date du cours: "2025-04-29"
 Supports:
   - "[[COURS_PI_MARIE_MOIN_2023-2024_-_Cours_1_et_2.pdf]]"

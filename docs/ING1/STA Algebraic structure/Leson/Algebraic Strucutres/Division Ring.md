@@ -1,4 +1,5 @@
 ---
+title: Division Ring
 Associativity: + and x
 Closure: true
 Commutativity: +

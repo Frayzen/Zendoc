@@ -1,4 +1,5 @@
 ---
+title: TP1 - Shadders
 Matière:
   - "[[Programmation OpenGL]]"
 Type: TP/TD

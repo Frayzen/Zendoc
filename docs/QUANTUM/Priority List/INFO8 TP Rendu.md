@@ -1,4 +1,5 @@
 ---
+title: INFO8 TP Rendu
 Class: INFO8
 DEADLINE: 2025-04-05
 Priority: HIGH

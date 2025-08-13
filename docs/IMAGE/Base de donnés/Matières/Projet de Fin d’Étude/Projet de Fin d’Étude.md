@@ -1,4 +1,5 @@
 ---
+title: Projet de Fin d’Étude
 Code: PFE
 UE: Managment et Connaissances pour l'entreprise
 Status: 0 Projets/DM, 0 Examens

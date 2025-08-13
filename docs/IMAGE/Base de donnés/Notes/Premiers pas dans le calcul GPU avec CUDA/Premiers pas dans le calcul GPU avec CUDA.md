@@ -1,4 +1,5 @@
 ---
+title: Premiers pas dans le calcul GPU avec CUDA
 Matière:
   - "[[Implémentation Rapide GPGPU]]"
 Type: Cours

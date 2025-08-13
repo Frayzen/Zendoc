@@ -1,4 +1,5 @@
 ---
+title: Recap
 Owner: Matcha
 ---
 # Summary of Courses on MBTI, Conflict Management, and Leadership

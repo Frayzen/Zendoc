@@ -1,4 +1,5 @@
 ---
+title: Remediation 2
 Leson:
   - "[[PBSA Probabilites et statistiques]]"
 Done (Flo): true

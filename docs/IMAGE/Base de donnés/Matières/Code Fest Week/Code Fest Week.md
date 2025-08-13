@@ -1,4 +1,5 @@
 ---
+title: Code Fest Week
 Code: COFE
 UE: Traitement et sythèse
 URL Moodle: https://moodle.epita.fr/course/view.php?id=4033

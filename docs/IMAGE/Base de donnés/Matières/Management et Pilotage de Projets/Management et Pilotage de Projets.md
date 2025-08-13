@@ -1,3 +1,7 @@
+---
+title: Management et Pilotage de Projets
+---
+
 ### Plan cours
 Module Refresh Gestion de projet = Module de 3h qui reprend les concepts principaux et Toolkit.
 Ce cours serait une reprise des éléments les plus marquants et utiles pour les PFE du cours ING01

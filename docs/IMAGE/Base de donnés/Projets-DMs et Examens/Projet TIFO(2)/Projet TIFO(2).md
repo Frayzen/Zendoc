@@ -1,4 +1,5 @@
 ---
+title: Projet TIFO(2)
 Matiére:
   - "[[Traitement d’image fondamental Python]]"
 Date: 2025-07-07

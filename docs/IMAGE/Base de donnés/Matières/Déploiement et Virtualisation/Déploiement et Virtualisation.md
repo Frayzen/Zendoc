@@ -1,4 +1,5 @@
 ---
+title: Déploiement et Virtualisation
 Code: DEVI
 UE: Outils et Modélisation
 URL Moodle: https://moodle.epita.fr/course/view.php?id=1964

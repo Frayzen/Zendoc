@@ -1,4 +1,5 @@
 ---
+title: Tips
 Owner: Matcha
 ---
 # General

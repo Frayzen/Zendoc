@@ -1,4 +1,5 @@
 ---
+title: TD1 - Rappel Géométrie
 Matière:
   - "[[Optimisation Convexe 1]]"
 Type: TP/TD

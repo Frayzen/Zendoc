@@ -1,4 +1,5 @@
 ---
+title: Open project endpoint
 Status: Merged
 Assign: "Florian "
 Allows:

@@ -1,4 +1,5 @@
 ---
+title: Metric spaces
 Owner: "Florian "
 ---
 ![[Slide_2_en_-_Metric_spaces.pdf]]

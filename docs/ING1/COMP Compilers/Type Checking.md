@@ -1,4 +1,5 @@
 ---
+title: Type Checking
 Owner: Matcha
 ---
 ## Type in Tiger

@@ -1,4 +1,5 @@
 ---
+title: Expectation and Variance
 Owner: Tim Pearson
 ---
 # Discrete Continuous

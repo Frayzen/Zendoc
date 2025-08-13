@@ -1,3 +1,7 @@
+---
+title: Notes
+---
+
 |Nom|
 |---|
 |[[Segmentation, débruitage, évaluation]]|

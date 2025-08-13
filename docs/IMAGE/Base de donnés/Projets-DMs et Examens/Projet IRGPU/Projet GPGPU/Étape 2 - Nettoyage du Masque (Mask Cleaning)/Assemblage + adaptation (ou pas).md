@@ -1,3 +1,7 @@
+---
+title: Assemblage + adaptation (ou pas)
+---
+
 En gros les implémentations de clean_mask
 ## 1. Version a paramètres fixe
 ### Fonctionnement

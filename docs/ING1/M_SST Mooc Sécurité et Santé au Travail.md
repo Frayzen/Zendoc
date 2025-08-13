@@ -1,4 +1,5 @@
 ---
+title: M_SST Mooc Sécurité et Santé au Travail
 Owner: Matcha
 ---
 ## Activity Format

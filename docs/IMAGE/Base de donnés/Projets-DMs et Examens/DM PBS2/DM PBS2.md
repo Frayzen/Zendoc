@@ -1,4 +1,5 @@
 ---
+title: DM PBS2
 Matiére:
   - "[[Probabilité et Statistiques]]"
 Date: 2025-06-28

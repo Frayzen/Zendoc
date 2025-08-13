@@ -1,4 +1,5 @@
 ---
+title: Rendu Temps Réel
 Matière:
   - "[[Introduction à la synthèse d’image]]"
 Type: Cours

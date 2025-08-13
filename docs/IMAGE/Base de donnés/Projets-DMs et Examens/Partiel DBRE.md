@@ -1,4 +1,5 @@
 ---
+title: Partiel DBRE
 Matiére:
   - "[[IMAGE/Base de donnés/Matières/Droit des propriétés intellectuelles/Droit des propriétés intellectuelles\\|Droit des propriétés intellectuelles]]"
 Date: 2025-06-24

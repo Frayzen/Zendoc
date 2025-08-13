@@ -1,4 +1,5 @@
 ---
+title: Projet VTK-ITK
 Matiére:
   - "[[Introduction à VTK-IKT]]"
 Date: 2025-07-18

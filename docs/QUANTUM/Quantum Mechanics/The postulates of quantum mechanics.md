@@ -1,4 +1,5 @@
 ---
+title: The postulates of quantum mechanics
 Owner: Tim Pearson
 ---
 # 1 The space of states

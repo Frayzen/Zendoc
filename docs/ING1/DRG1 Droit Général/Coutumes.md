@@ -1,4 +1,5 @@
 ---
+title: Coutumes
 Owner: Matcha
 ---
 **Une coutume est un usage assez generalisé, prolongé dans le temps, écrit ou non écrit qui n’est pas contraire a la loi.**

@@ -1,3 +1,7 @@
+---
+title: Notes pour l’oral
+---
+
 - En imagerie médicale, on manipule des volumes 3D issus de scanners ou IRM.
 - On s’intéresse surtout aux **structures tubulaires** : vaisseaux sanguins, bronches, intestin…
 - Problème : ces structures sont **fines, courbées** et entourées de tissus plus denses.

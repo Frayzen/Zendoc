@@ -1,4 +1,5 @@
 ---
+title: Projet IRGPU
 Matiére:
   - "[[Implémentation Rapide GPGPU]]"
 Date: 2025-06-19

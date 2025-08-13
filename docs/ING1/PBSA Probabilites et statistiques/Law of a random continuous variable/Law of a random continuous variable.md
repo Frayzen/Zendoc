@@ -1,4 +1,5 @@
 ---
+title: Law of a random continuous variable
 Owner: "Florian "
 ---
 [[Distributions to remember]]

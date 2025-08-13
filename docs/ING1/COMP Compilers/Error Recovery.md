@@ -1,4 +1,5 @@
 ---
+title: Error Recovery
 Owner: Matcha
 ---
 We want to report all (syntactic) errors simultaneously.

@@ -1,4 +1,5 @@
 ---
+title: Coupling Flex and Bison
 Owner: Matcha
 ---
 ![[Untitled 96.png|Untitled 96.png]]
