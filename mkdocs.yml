@@ -52,8 +52,7 @@ plugins:
   - roamlinks
   - mkdocs-pdf
   - callouts
-  - blogging:
-      filename_as_title: true
+  - section-index
   # - blog
   # - rss:
   #     match_path: blog/posts/.* 
