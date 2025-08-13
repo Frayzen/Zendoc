@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "75ab49c72f7bd3cb",
+        "id": "1e342511a5bc5870",
         "type": "tabs",
         "children": [
           {
-            "id": "bc3e362b5abcb22c",
+            "id": "a8044999959b3d23",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,8 +163,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bc3e362b5abcb22c",
+  "active": "978c7833b1d7b516",
   "lastOpenFiles": [
+    "test/index.md",
+    "test/test.md",
+    "test/ok.md",
+    "test/ok.md~",
+    "test/index.md~",
+    "test/test.md~",
+    "test",
+    "Learning place.md~",
+    "Learning place.md",
+    "Timvocab.md",
+    "Mechanical Physic.md",
+    "Renew french passport.md",
+    "assets/Learning place.md~",
+    "test.md",
+    "test/other.md",
     "javascripts/katex.js",
     "assets/zcquxjcy4t0r.webp",
     "assets/xofun.jpg",
@@ -179,13 +194,6 @@
     "assets/tp_1.pdf",
     "assets/tour_horizon_compressed.pdf",
     "assets/tlchargement_(1).jpg",
-    "assets/tifo_tp1.pdf",
-    "assets/tifo_noise_compressed.pdf",
-    "assets/tifo_intro.pdf",
-    "assets/tifo_implementation-37-56_compressed.pdf",
-    "assets/tifo_implementation-1-36_compressed.pdf",
-    "assets/tifo_histo_compressed.pdf",
-    "assets/tifo_formation_image_(1)_compressed.pdf",
     "assets/Timvocab.md",
     "assets/Renew french passport.md",
     "assets/Mechanical Physic.md",
@@ -201,15 +209,6 @@
     "TC/PBS Probability & Statistics/Answers mcq/Answers mcq.md",
     "TC/INFO8/Social Repo/Social Repo.md",
     "TC/LOFO Logique Formelle/Revision.md",
-    "TC/LOFO Logique Formelle/LOFO Logique Formelle.md",
-    "TC/LOFO Logique Formelle/FICHE DE RÉVISION – LOGIQUE FORMELLE.md",
-    "TC/PBS Probability & Statistics/PBS Probability & Statistics.md",
-    "TC/GRS Gestion de risques/Tim risk.md",
-    "TC/GRS Gestion de risques/GRS Gestion de risques.md",
-    "TC/INFO8/Tests.md",
-    "TC/INFO8/Social Repositories.md",
-    "TC/INFO8/Salomouche’s page.md",
-    "TC/INFO8/Repository, Service, Controller.md",
-    "TC/INFO8/INFO8.md"
+    "TC/LOFO Logique Formelle/LOFO Logique Formelle.md"
   ]
 }
