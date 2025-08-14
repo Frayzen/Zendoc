@@ -32,27 +32,27 @@ class SectionIndexPlugin(BasePlugin):
                 pageid = 0
                 for curi, child in enumerate(section.children):
                     if isinstance(child, Page):
-                        child.read_source(config)
-                        if child.title == section.title:
+                        if child.file.src_uri.endswith(section.title+".md"):
                             page = child
                             pageid = curi
                             break
                 if not isinstance(page, Page):
                     continue
                 assert not page.children
-                # The page becomes a section-page.
-                page.__class__ = SectionPage
-                assert isinstance(page, SectionPage)
-                page.is_section = page.is_page = True
-                page.title = section.title
-                page.parent = section.parent
-                # The page leaves the section but takes over children that used to be its peers.
-                section.children.pop(pageid)
-                page.children = section.children
-                for child in page.children:
-                    child.parent = page
-                # The page replaces the section; the section will be garbage-collected.
-                items[i] = page
+                if not page.title and page.url:
+                    # The page becomes a section-page.
+                    page.__class__ = SectionPage
+                    assert isinstance(page, SectionPage)
+                    page.is_section = page.is_page = True
+                    # page.title = section.title
+                    page.parent = section.parent
+                    # The page leaves the section but takes over children that used to be its peers.
+                    section.children.pop(pageid)
+                    page.children = section.children
+                    for child in page.children:
+                        child.parent = page
+                    # The page replaces the section; the section will be garbage-collected.
+                    items[i] = page
         self._nav = nav
         return nav
 
